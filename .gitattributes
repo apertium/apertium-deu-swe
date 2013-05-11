@@ -1,0 +1,29 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-deu-swe.deu-swe.dix -text
+/apertium-deu-swe.deu-swe.lrx -text
+/apertium-deu-swe.deu-swe.rlx -text
+/apertium-deu-swe.deu-swe.t1x -text
+/apertium-deu-swe.deu-swe.t2x -text
+/apertium-deu-swe.deu-swe.t3x -text
+/apertium-deu-swe.deu.lexc -text
+/apertium-deu-swe.deu.twol -text
+/apertium-deu-swe.swe-deu.lrx -text
+/apertium-deu-swe.swe-deu.rlx -text
+/apertium-deu-swe.swe-deu.t1x -text
+/apertium-deu-swe.swe-deu.t2x -text
+/apertium-deu-swe.swe-deu.t3x -text
+/apertium-deu-swe.swe.lexc -text
+/apertium-deu-swe.swe.twol -text
+/autogen.sh -text
+/configure.ac -text
+/deu-swe.prob -text svneol=unset#unset
+/modes.xml -text
+/swe-deu.prob -text svneol=unset#unset
+texts/story.deu.txt -text
+texts/story.swe.txt -text
