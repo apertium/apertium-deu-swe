@@ -126,5 +126,257 @@
 		<e><p><l>viel<s n="adv"/></l><r>mycket<s n="adv"/></r></p></e>
 		<e><p><l>wieder<s n="adv"/></l><r>igen<s n="adv"/></r></p></e>
 
+
+<e><p><l>und<s n="cnjcoo"/></l><r>och<s n="cnjcoo"/></r></p></e>
+<e><p><l>noch<s n="cnjcoo"/></l><r>ännu<s n="cnjcoo"/></r></p></e>
+<e><p><l>oder<s n="cnjcoo"/></l><r>eller<s n="cnjcoo"/></r></p></e>
+<e><p><l>aber<s n="cnjcoo"/></l><r>men<s n="cnjcoo"/></r></p></e>
+<e><p><l>wenn<s n="cnjcoo"/></l><r>om<s n="cnjcoo"/></r></p></e>
+<e><p><l>weil<s n="cnjcoo"/></l><r>eftersom<s n="cnjcoo"/></r></p></e>
+<e><p><l>ob<s n="cnjsub"/></l><r>om<s n="cnjsub"/></r></p></e>
+<e><p><l>obwohl<s n="cnjsub"/></l><r>fastän<s n="cnjcoo"/></r></p></e>
+<e><p><l>zurück<s n="preadv"/></l><r>tillbaka<s n="adv"/></r></p></e>
+<e><p><l>deshalb<s n="preadv"/></l><r>därför<s n="adv"/></r></p></e>
+<e><p><l>in<s n="pr"/></l><r>i<s n="pr"/></r></p></e>
+<e><p><l>von<s n="pr"/></l><r>från<s n="pr"/></r></p></e>
+<e><p><l>zu<s n="pr"/></l><r>till<s n="pr"/></r></p></e>
+<e><p><l>mit<s n="pr"/></l><r>med<s n="pr"/></r></p></e>
+<e><p><l>auf<s n="pr"/></l><r>på<s n="pr"/></r></p></e>
+<e><p><l>für<s n="pr"/></l><r>för<s n="pr"/></r></p></e>
+<e><p><l>als<s n="pr"/></l><r>än<s n="pr"/></r></p></e>
+<e><p><l>an<s n="pr"/></l><r>vid<s n="pr"/></r></p></e>
+<e><p><l>aus<s n="pr"/></l><r>från<s n="pr"/></r></p></e>
+<e><p><l>nach<s n="pr"/></l><r>efter<s n="pr"/></r></p></e>
+<e><p><l>bei<s n="pr"/></l><r>vid<s n="pr"/></r></p></e>
+<e><p><l>bei<s n="pr"/></l><r>hos<s n="pr"/></r></p></e>
+<e><p><l>um<s n="pr"/></l><r>omkring<s n="pr"/></r></p></e>
+<e><p><l>über<s n="pr"/></l><r>över<s n="pr"/></r></p></e>
+<e><p><l>vor<s n="pr"/></l><r>framför<s n="pr"/></r></p></e>
+<e><p><l>bis<s n="pr"/></l><r>till<s n="pr"/></r></p></e>
+<e><p><l>durch<s n="pr"/></l><r>genom<s n="pr"/></r></p></e>
+<e><p><l>man<s n="pr"/></l><r>man<s n="pr"/></r></p></e>
+<e><p><l>niemand<s n="pr"/></l><r>ingen<s n="pr"/></r></p></e>
+<e><p><l>gegen<s n="pr"/></l><r>mot<s n="pr"/></r></p></e>
+<e><p><l>unter<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
+<e><p><l>zwischen<s n="pr"/></l><r>mellan<s n="pr"/></r></p></e>
+<e><p><l>während<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
+<e><p><l>neben<s n="pr"/></l><r>bredvid<s n="pr"/></r></p></e>
+<e><p><l>hinter<s n="pr"/></l><r>bakom<s n="pr"/></r></p></e>
+<e><p><l>nicht<s n="adv"/></l><r>inte<s n="adv"/></r></p></e>
+<e><p><l>auch<s n="adv"/></l><r>också<s n="adv"/></r></p></e>
+<e><p><l>nur<s n="adv"/></l><r>bara<s n="adv"/></r></p></e>
+<e><p><l>schon<s n="adv"/></l><r>redan<s n="adv"/></r></p></e>
+<e><p><l>unter<s n="adv"/></l><r>under<s n="adv"/></r></p></e>
+<e><p><l>immer<s n="adv"/></l><r>alltid<s n="adv"/></r></p></e>
+<e><p><l>jetzt<s n="adv"/></l><r>nu<s n="adv"/></r></p></e>
+<e><p><l>bereits<s n="adv"/></l><r>redan<s n="adv"/></r></p></e>
+<e><p><l>da<s n="adv"/></l><r>där<s n="adv"/></r></p></e>
+<e><p><l>sehr<s n="adv"/></l><r>mycket<s n="adv"/></r></p></e>
+<e><p><l>dort<s n="adv"/></l><r>där<s n="adv"/></r></p></e>
+<e><p><l>fast<s n="adv"/></l><r>nästan<s n="adv"/></r></p></e>
+<e><p><l>kaum<s n="adv"/></l><r>knappt<s n="adv"/></r></p></e>
+<e><p><l>wenig<s n="adv"/></l><r>litet<s n="adv"/></r></p></e>
+<e><p><l>oft<s n="adv"/></l><r>ofta<s n="adv"/></r></p></e>
+<e><p><l>Prozent<s n="n"/><s n="nt"/></l><r>procent<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Stadt<s n="n"/><s n="f"/></l><r>stad<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Regierung<s n="n"/><s n="f"/></l><r>regering<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Polizei<s n="n"/><s n="f"/></l><r>polis<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Geld<s n="n"/><s n="nt"/></l><r>pengar<s n="n"/><s n="un"/></r></p></e>
+<e><p><l>Zahl<s n="n"/><s n="f"/></l><r>tal<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Politik<s n="n"/><s n="f"/></l><r>politik<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Mitarbeiter<s n="n"/><s n="m"/></l><r>medarbetare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Ziel<s n="n"/><s n="nt"/></l><r>mål<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Seite<s n="n"/><s n="f"/></l><r>sida<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Grund<s n="n"/><s n="m"/></l><r>orsak<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Zukunft<s n="n"/><s n="f"/></l><r>framtid<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Gruppe<s n="n"/><s n="f"/></l><r>grupp<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Rolle<s n="n"/><s n="f"/></l><r>roll<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bild<s n="n"/><s n="nt"/></l><r>bild<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Kino<s n="n"/><s n="nt"/></l><r>biograf<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Prozent<s n="n"/><s n="nt"/></l><r>procent<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Januar<s n="n"/><s n="m"/></l><r>januari<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Februar<s n="n"/><s n="m"/></l><r>februari<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>März<s n="n"/><s n="m"/></l><r>mars<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>April<s n="n"/><s n="m"/></l><r>april<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Mai<s n="n"/><s n="m"/></l><r>maj<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Juli<s n="n"/><s n="m"/></l><r>juli<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Juni<s n="n"/><s n="m"/></l><r>juni<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>August<s n="n"/><s n="m"/></l><r>augusti<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>September<s n="n"/><s n="m"/></l><r>september<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Oktober<s n="n"/><s n="m"/></l><r>oktober<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>November<s n="n"/><s n="m"/></l><r>november<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Dezember<s n="n"/><s n="m"/></l><r>december<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Montag<s n="n"/><s n="m"/></l><r>måndag<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Dienstag<s n="n"/><s n="m"/></l><r>tisdag<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Mittwoch<s n="n"/><s n="m"/></l><r>onsdag<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Donnerstag<s n="n"/><s n="m"/></l><r>torsdag<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Freitag<s n="n"/><s n="m"/></l><r>fredag<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Samstag<s n="n"/><s n="m"/></l><r>lördag<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Sonntag<s n="n"/><s n="m"/></l><r>söndag<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Tischtennis<s n="n"/><s n="nt"/></l><r>bordtennis<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Tennis<s n="n"/><s n="nt"/></l><r>tennis<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Tennisplatz<s n="n"/><s n="m"/></l><r>tennisbana<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Tennisspieler<s n="n"/><s n="m"/></l><r>Tennisspieler<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Tennisschläger<s n="n"/><s n="m"/></l><r>tennisrack<s n="n"/><s n="un"/></r></p></e>
+<e><p><l>Tennisball<s n="n"/><s n="m"/></l><r>tennisboll<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Basketball<s n="n"/><s n="m"/></l><r>basketboll<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Fußball<s n="n"/><s n="m"/></l><r>fotboll<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Fußballanhänger<s n="n"/><s n="m"/></l><r>fotbollskedja<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Fußballspieler<s n="n"/><s n="m"/></l><r>fotbollsspelare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Fußballclub<s n="n"/><s n="m"/></l><r>fotbollförbund<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Fußballspiel<s n="n"/><s n="nt"/></l><r>fotbollsmatch<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Arbeiterbewegung<s n="n"/><s n="f"/></l><r>arbetarrörelse<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Arbeitergewerkschaft<s n="n"/><s n="f"/></l><r>arbetarförening<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Arbeiter<s n="n"/><s n="m"/></l><r>arbetare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Arbeiterpartei<s n="n"/><s n="f"/></l><r>arbetarparti<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Kinderarzt<s n="n"/><s n="m"/></l><r>barnläkare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Kindergeld<s n="n"/><s n="nt"/></l><r>barnbidrag<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Krippe<s n="n"/><s n="f"/></l><r>krubba<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Kinderwagen<s n="n"/><s n="nt"/></l><r>barnvagn<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Baum<s n="n"/><s n="m"/></l><r>träd<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Baumstamm<s n="n"/><s n="m"/></l><r>trädstam<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Baumwolle<s n="n"/><s n="f"/></l><r>bomull<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Baustelle<s n="n"/><s n="f"/></l><r>byggarbetsplats<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bauindustrie<s n="n"/><s n="f"/></l><r>byggnadsindustri<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bass<s n="n"/><s n="m"/></l><r>bas<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bauer<s n="n"/><s n="m"/></l><r>bonde<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bauarbeiter<s n="n"/><s n="m"/></l><r>byggnadsarbetare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bankkonto<s n="n"/><s n="nt"/></l><r>bankkonto<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Bandit<s n="n"/><s n="m"/></l><r>bandit<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Balkon<s n="n"/><s n="m"/></l><r>balkong<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Badminton<s n="n"/><s n="nt"/></l><r>badminton<s n="n"/><s n="un"/></r></p></e>
+<e><p><l>Backgammon<s n="n"/><s n="nt"/></l><r>backgammon<s n="n"/><s n="un"/></r></p></e>
+<e><p><l>Disziplin<s n="n"/><s n="f"/></l><r>disciplin<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Distrikt<s n="n"/><s n="m"/></l><r>distrikt<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Disqualifikation<s n="n"/><s n="f"/></l><r>diskvalificering<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Diskussion<s n="n"/><s n="f"/></l><r>diskussion<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Discount<s n="n"/><s n="m"/></l><r>rabatt<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Direktor<s n="n"/><s n="m"/></l><r>direktör<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Diplomat<s n="n"/><s n="m"/></l><r>diplomat<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Diplomatie<s n="n"/><s n="f"/></l><r>diplomati<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Dimension<s n="n"/><s n="f"/></l><r>dimension<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Diffusion<s n="n"/><s n="nt"/></l><r>diffusion<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Dieselmotor<s n="n"/><s n="m"/></l><r>dieselmotor<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Diebstahl<s n="n"/><s n="m"/></l><r>stöld<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Dialekt<s n="n"/><s n="m"/></l><r>dialekt<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Diagramm<s n="n"/><s n="nt"/></l><r>diagram<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Diagnose<s n="n"/><s n="f"/></l><r>diagnos<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Diabetiker<s n="n"/><s n="m"/></l><r>diabetiker<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Demonstration<s n="n"/><s n="f"/></l><r>demonstration<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Delikatesse<s n="n"/><s n="f"/></l><r>delikatess<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Delegation<s n="n"/><s n="f"/></l><r>delegation<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Dekoration<s n="n"/><s n="f"/></l><r>dekoration<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Deklination<s n="n"/><s n="f"/></l><r>deklination<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Deklaration<s n="n"/><s n="f"/></l><r>deklaration<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Dalmatiner<s n="n"/><s n="m"/></l><r>dalmatiner<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Cousin<s n="n"/><s n="m"/></l><r>kusin<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Coupon<s n="n"/><s n="m"/></l><r>kupong<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Countdown<s n="n"/><s n="m"/></l><r>nedräkning<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Cornflake<s n="n"/><s n="nt"/></l><r>cornflakes<s n="n"/><s n="un"/></r></p></e>
+<e><p><l>Container<s n="n"/><s n="m"/></l><r>behållare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Computerprogrammierer<s n="n"/><s n="m"/></l><r>datorprogrammerare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Cockpit<s n="n"/><s n="nt"/></l><r>cockpit<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Coach<s n="n"/><s n="m"/></l><r>tränare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Club<s n="n"/><s n="m"/></l><r>klubb<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Chronologie<s n="n"/><s n="f"/></l><r>kronologi<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Chilipfeffer<s n="n"/><s n="m"/></l><r>chilipeppar<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Chemie<s n="n"/><s n="f"/></l><r>kemi<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Chefredakteur<s n="n"/><s n="m"/></l><r>chefredaktör<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Cheddar<s n="n"/><s n="m"/></l><r>cheddarost<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Chauffeur<s n="n"/><s n="m"/></l><r>chaufför<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Charakter<s n="n"/><s n="m"/></l><r>karaktär<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Champion<s n="n"/><s n="m"/></l><r>champion<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Champagner<s n="n"/><s n="m"/></l><r>champagne<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>CD<s n="n"/><s n="f"/></l><r>CD<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Cappuccino<s n="n"/><s n="m"/></l><r>cappuccino<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Cafeteria<s n="n"/><s n="f"/></l><r>cafeteria<s n="n"/><s n="ut"/></r></p></e>	
+<e><p><l>Butterbrot<s n="n"/><s n="nt"/></l><r>smörpapper<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Buttermilch<s n="n"/><s n="f"/></l><r>kärnmjölk<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Buttersäure<s n="n"/><s n="f"/></l><r>smörsyra<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bushaltestelle<s n="n"/><s n="f"/></l><r>busshållplats<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Busfahrer<s n="n"/><s n="nt"/></l><r>busschaufför<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Büro<s n="n"/><s n="nt"/></l><r>kontor<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Bürgermeister<s n="n"/><s n="m"/></l><r>borgmästare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bungalow<s n="n"/><s n="m"/></l><r>bungalow<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bunker<s n="n"/><s n="m"/></l><r>bunker<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bumerang<s n="n"/><s n="m"/></l><r>bumerang<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Buffet<s n="n"/><s n="nt"/></l><r>buffé<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Buddhist<s n="n"/><s n="m"/></l><r>buddhist<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Buchmacher<s n="n"/><s n="m"/></l><r>bookmaker<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Buchladen<s n="n"/><s n="m"/></l><r>bokhandel<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Buchhandlung<s n="n"/><s n="f"/></l><r>bokhandel<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Buchführung<s n="n"/><s n="f"/></l><r>bokföring<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bücherei<s n="n"/><s n="f"/></l><r>bibliotek<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Buchbinder<s n="n"/><s n="m"/></l><r>bokbindare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Brutstätte<s n="n"/><s n="f"/></l><r>grogrund<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bronze<s n="n"/><s n="nt"/></l><r>brons<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Briefmarke<s n="n"/><s n="f"/></l><r>frimärke<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Brieffreund<s n="n"/><s n="m"/></l><r>brevvän<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bridge<s n="n"/><s n="f"/></l><r>bridge<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Brennpunkt<s n="n"/><s n="m"/></l><r>fokus<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Brennessel<s n="n"/><s n="f"/></l><r>nässla<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bremsschuh<s n="n"/><s n="m"/></l><r>bromssko<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bremse<s n="n"/><s n="f"/></l><r>broms<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Brautkleid<s n="n"/><s n="nt"/></l><r>brudklänning<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bräutigam<s n="n"/><s n="m"/></l><r>brudgum<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Braunkohle<s n="n"/><s n="f"/></l><r>brunkol<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Brauerei<s n="n"/><s n="f"/></l><r>bryggeri<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Bratpfanne<s n="n"/><s n="f"/></l><r>stekpanna<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Brandstiftung<s n="n"/><s n="f"/></l><r>mordbrand<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Brandstifter<s n="n"/><s n="m"/></l><r>mordbrännare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Boxsport<s n="n"/><s n="m"/></l><r>boxning<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Botschafter<s n="n"/><s n="m"/></l><r>ambassadör<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Botaniker<s n="n"/><s n="m"/></l><r>botanist<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bootsfahrt<s n="n"/><s n="f"/></l><r>båttur<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bombardement<s n="n"/><s n="nt"/></l><r>bombardemang<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Bogenschießen<s n="n"/><s n="nt"/></l><r>bågskytte<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Blutvergiftung<s n="n"/><s n="f"/></l><r>blodförgiftning<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Blutung<s n="n"/><s n="f"/></l><r>blödning<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Blutgruppe<s n="n"/><s n="f"/></l><r>blodgrupp<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Blutbad<s n="n"/><s n="nt"/></l><r>blodbad<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Blickwinkel<s n="n"/><s n="m"/></l><r>perspektiv<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Blaubeere<s n="n"/><s n="f"/></l><r>blåbär<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Biologie<s n="n"/><s n="f"/></l><r>biologi<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Biographie<s n="n"/><s n="f"/></l><r>biografi<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Biochemie<s n="n"/><s n="f"/></l><r>biokemi<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bimsstein<s n="n"/><s n="m"/></l><r>pimpsten<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bilderbuch<s n="n"/><s n="nt"/></l><r>bilderbok<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bierflasche<s n="n"/><s n="f"/></l><r>ölflaska<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bienenwachs<s n="n"/><s n="nt"/></l><r>bivax<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Bienenfresser<s n="n"/><s n="m"/></l><r>biätare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Beweis<s n="n"/><s n="m"/></l><r>bevis<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Bevölkerung<s n="n"/><s n="f"/></l><r>population<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Beuteltier<s n="n"/><s n="nt"/></l><r>pungdjur<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Beurteilung<s n="n"/><s n="f"/></l><r>bedömning<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Betrüger<s n="n"/><s n="m"/></l><r>bedragare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Betriebssystem<s n="n"/><s n="nt"/></l><r>operativsystem<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Betäubungsmittel<s n="n"/><s n="nt"/></l><r>bedövningsmedel<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Besteck<s n="n"/><s n="nt"/></l><r>bestick<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Bestandteil<s n="n"/><s n="m"/></l><r>komponent<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Besorgnis<s n="n"/><s n="f"/></l><r>oro<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Besitzer<s n="n"/><s n="m"/></l><r>ägare<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Besetzung<s n="n"/><s n="f"/></l><r>ockupation<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Besen<s n="n"/><s n="m"/></l><r>brom<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Beschuldigung<s n="n"/><s n="f"/></l><r>anklagelse<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Beschluss<s n="n"/><s n="m"/></l><r>beslut<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Beschleunigung<s n="n"/><s n="f"/></l><r>acceleration<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Entscheidung<s n="n"/><s n="f"/></l><r>beslut<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Berufsarmee<s n="n"/><s n="f"/></l><r>yrkesarmé<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bernstein<s n="n"/><s n="m"/></l><r>bärnsten<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bergkristall<s n="n"/><s n="m"/></l><r>bergkristall<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bergkette<s n="n"/><s n="f"/></l><r>bergskedja<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Bereitschaft<s n="n"/><s n="f"/></l><r>beredskap<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>Berechnung<s n="n"/><s n="f"/></l><r>beräkning<s n="n"/><s n="ut"/></r></p></e>
+<e><p><l>baumeln<s n="vblex"/></l><r>dingla<s n="vblex"/></r></p></e>
+<e><p><l>rund<s n="adj"/></l><r>rund<s n="adj"/></r></p></e>
+<e><p><l>ganz<s n="adj"/></l><r>hel<s n="adj"/></r></p></e>
+<e><p><l>gut<s n="adj"/></l><r>bra<s n="adj"/></r></p></e>
+<e><p><l>einfach<s n="adj"/></l><r>enkel<s n="adj"/></r></p></e>
+<e><p><l>alt<s n="adj"/></l><r>gammal<s n="adj"/></r></p></e>
+<e><p><l>anstrengend<s n="adj"/></l><r>ansträngande<s n="adj"/></r></p></e>
+<e><p><l>natürlich<s n="adj"/></l><r>naturlig<s n="adj"/></r></p></e>
+<e><p><l>kinderlos<s n="adj"/></l><r>barnlös<s n="adj"/></r></p></e>
+<e><p><l>kindisch<s n="adj"/></l><r>barnslig<s n="adj"/></r></p></e>
+
 	</section>
 </dictionary>
