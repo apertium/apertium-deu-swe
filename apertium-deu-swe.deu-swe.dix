@@ -221,7 +221,7 @@
 <e><p><l>Tennis<s n="n"/><s n="nt"/></l><r>tennis<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Tennisplatz<s n="n"/><s n="m"/></l><r>tennisbana<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Tennisspieler<s n="n"/><s n="m"/></l><r>Tennisspieler<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Tennisschläger<s n="n"/><s n="m"/></l><r>tennisrack<s n="n"/><s n="un"/></r></p></e>
+<e><p><l>Tennisschläger<s n="n"/><s n="m"/></l><r>tennisrack<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Tennisball<s n="n"/><s n="m"/></l><r>tennisboll<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Basketball<s n="n"/><s n="m"/></l><r>basketboll<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Fußball<s n="n"/><s n="m"/></l><r>fotboll<s n="n"/><s n="ut"/></r></p></e>
@@ -248,8 +248,8 @@
 <e><p><l>Bankkonto<s n="n"/><s n="nt"/></l><r>bankkonto<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Bandit<s n="n"/><s n="m"/></l><r>bandit<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Balkon<s n="n"/><s n="m"/></l><r>balkong<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Badminton<s n="n"/><s n="nt"/></l><r>badminton<s n="n"/><s n="un"/></r></p></e>
-<e><p><l>Backgammon<s n="n"/><s n="nt"/></l><r>backgammon<s n="n"/><s n="un"/></r></p></e>
+<e><p><l>Badminton<s n="n"/><s n="nt"/></l><r>badminton<s n="n"/><s n="nt"/></r></p></e>
+<e><p><l>Backgammon<s n="n"/><s n="nt"/></l><r>backgammon<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Disziplin<s n="n"/><s n="f"/></l><r>disciplin<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Distrikt<s n="n"/><s n="m"/></l><r>distrikt<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Disqualifikation<s n="n"/><s n="f"/></l><r>diskvalificering<s n="n"/><s n="ut"/></r></p></e>
@@ -276,7 +276,7 @@
 <e><p><l>Cousin<s n="n"/><s n="m"/></l><r>kusin<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Coupon<s n="n"/><s n="m"/></l><r>kupong<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Countdown<s n="n"/><s n="m"/></l><r>nedräkning<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Cornflake<s n="n"/><s n="nt"/></l><r>cornflakes<s n="n"/><s n="un"/></r></p></e>
+<e><p><l>Cornflake<s n="n"/><s n="nt"/></l><r>cornflakes<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Container<s n="n"/><s n="m"/></l><r>behållare<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Computerprogrammierer<s n="n"/><s n="m"/></l><r>datorprogrammerare<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Cockpit<s n="n"/><s n="nt"/></l><r>cockpit<s n="n"/><s n="ut"/></r></p></e>
