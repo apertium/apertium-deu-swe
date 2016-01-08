@@ -7,7 +7,7 @@
 		<!-- Define symbol definitions within <sdef> here. -->
 		<sdef n="n"     	c="Noun"/>
 		<sdef n="m"     	c="Masculine"/>
-		<sdef n="f"			c="Feminine"/>
+		<sdef n="f"		c="Feminine"/>
 		<sdef n="ut"    	c="Common"/>
 		<sdef n="nt"		c="Neuter"/>
 		<sdef n="vblex" 	c="Lexical verb"/>
@@ -17,6 +17,10 @@
 		<sdef n="vbser"   	c="be"/>
 		<sdef n="adj"     	c="Adjective"/>
 		<sdef n="adv"     	c="Adverb"/>
+		<sdef n="cnjcoo" 	c="Co-ordinating conjunction"/>
+		<sdef n="cnjsub" 	c="Sub-ordinating conjunction"/>
+		<sdef n="pr" 		c="Preposition"/>
+		<sdef n="preadv" 	c="Pre-adverb"/>
 
 	</sdefs>
 
@@ -181,7 +185,7 @@
 <e><p><l>Stadt<s n="n"/><s n="f"/></l><r>stad<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Regierung<s n="n"/><s n="f"/></l><r>regering<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Polizei<s n="n"/><s n="f"/></l><r>polis<s n="n"/><s n="ut"/></r></p></e>
-<e><p><l>Geld<s n="n"/><s n="nt"/></l><r>pengar<s n="n"/><s n="un"/></r></p></e>
+<e><p><l>Geld<s n="n"/><s n="nt"/></l><r>pengar<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Zahl<s n="n"/><s n="f"/></l><r>tal<s n="n"/><s n="nt"/></r></p></e>
 <e><p><l>Politik<s n="n"/><s n="f"/></l><r>politik<s n="n"/><s n="ut"/></r></p></e>
 <e><p><l>Mitarbeiter<s n="n"/><s n="m"/></l><r>medarbetare<s n="n"/><s n="ut"/></r></p></e>
