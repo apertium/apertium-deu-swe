@@ -17,5 +17,6 @@
 /autogen.sh -text
 /configure.ac -text
 /modes.xml -text
+/new-verbs.txt -text
 texts/story.deu.txt -text
 texts/story.swe.txt -text
