@@ -2,9 +2,9 @@
 <!--
 	Dictionary:
 	Sections: 1
-	Entries: 438
-	Sdefs: 16
-	Last processed by: apertium-dixtools fix apertium-deu-swe.deu-swe.dix out.dix
+	Entries: 576
+	Sdefs: 17
+	Last processed by: apertium-dixtools fix 1452409338_apertium-deu-swe.deu-swe.dix temp
 
 -->
 <dictionary>
@@ -26,6 +26,7 @@
     <sdef n="cnjsub" 	c="Sub-ordinating conjunction"/> 
     <sdef n="pr" 	c="Preposition"/> 
     <sdef n="preadv" 	c="Pre-adverb"/> 
+    <sdef n="np" /> 
   </sdefs>
   <section id="main" type="standard">
 <e>       <p><l>Auge<s n="n"/><s n="nt"/></l>          <r>öga<s n="n"/><s n="nt"/></r></p></e>
@@ -476,6 +477,156 @@
 <e>       <p><l>natürlich<s n="adj"/></l>              <r>naturlig<s n="adj"/></r></p></e>
 <e>       <p><l>kinderlos<s n="adj"/></l>              <r>barnlös<s n="adj"/></r></p></e>
 <e>       <p><l>kindisch<s n="adj"/></l>               <r>barnslig<s n="adj"/></r></p></e>
+
+<!-- Darkgaia 100 words GCI 2016 -->
+<e>       <p><l>Europäer<s n="n"/><s n="m"/></l>       <r>europé<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Garantie<s n="n"/><s n="f"/></l>       <r>garanti<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Psychologie<s n="n"/><s n="f"/></l>    <r>psykologi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Allergie<s n="n"/><s n="f"/></l>       <r>allergi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Tragödie<s n="n"/><s n="f"/></l>       <r>tragedi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Unterkunft<s n="n"/><s n="f"/></l>     <r>logi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Computer<s n="n"/><s n="m"/></l>       <r>dator<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Idee<s n="n"/><s n="f"/></l>           <r>idé<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kategorie<s n="n"/><s n="f"/></l>      <r>kategori<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Illustration<s n="n"/><s n="f"/></l>   <r>illustration<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Meditation<s n="n"/><s n="f"/></l>     <r>meditation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Operation<s n="n"/><s n="f"/></l>      <r>operation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Busbahnhof<s n="n"/><s n="m"/></l>     <r>busstation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Komödie<s n="n"/><s n="f"/></l>        <r>komedi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Zusammenstoß<s n="n"/><s n="m"/></l>   <r>kollision<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Katze<s n="n"/><s n="f"/></l>          <r>katt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Untertitel<s n="n"/><s n="m"/></l>     <r>text<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ventilator<s n="n"/><s n="m"/></l>     <r>ventilationsfläkt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Verband<s n="n"/><s n="m"/></l>        <r>förband<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Brand<s n="n"/><s n="m"/></l>          <r>brand<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Landsmann<s n="n"/><s n="m"/></l>      <r>landsman<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Landstraße<s n="n"/><s n="f"/></l>     <r>landsväg<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Landkarte<s n="n"/><s n="f"/></l>      <r>karta<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Spitze<s n="n"/><s n="f"/></l>         <r>spets<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Spitzbogen<s n="n"/><s n="m"/></l>     <r>spetsbåge<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kristall<s n="n"/><s n="m"/></l>       <r>kristall<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kreuzgang<s n="n"/><s n="m"/></l>      <r>korsgång<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kuppel<s n="n"/><s n="f"/></l>         <r>kupol<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Auskunft<s n="n"/><s n="f"/></l>       <r>upplysning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Brief<s n="n"/><s n="m"/></l>          <r>brev<s n="n"/><s n="nt"/></r></p></e>
+
+
+<e>       <p><l>Dänemark<s n="np"/><s n="nt"/></l>     <r>Danmark<s n="np"/></r></p></e>
+<e>       <p><l>Afrika<s n="np"/><s n="nt"/></l>       <r>Afrika<s n="np"/></r></p></e>
+<e>       <p><l>Amerika<s n="np"/><s n="nt"/></l>      <r>Amerika<s n="np"/></r></p></e>
+<e>       <p><l>Afghanistan<s n="np"/><s n="nt"/></l>  <r>Afghanistan<s n="np"/></r></p></e>
+<e>       <p><l>Andorra<s n="np"/><s n="nt"/></l>      <r>Andorra<s n="np"/></r></p></e>
+<e>       <p><l>Angola<s n="np"/><s n="nt"/></l>       <r>Angola<s n="np"/></r></p></e>
+<e>       <p><l>Australien<s n="np"/><s n="nt"/></l>   <r>Australien<s n="np"/></r></p></e>
+<e>       <p><l>Argentinien<s n="np"/><s n="nt"/></l>  <r>Argentina<s n="np"/></r></p></e>
+<e>       <p><l>Bolivien<s n="np"/><s n="nt"/></l>     <r>Bolivia<s n="np"/></r></p></e>
+<e>       <p><l>Bulgarien<s n="np"/><s n="nt"/></l>    <r>Bulgarien<s n="np"/></r></p></e>
+<e>       <p><l>Chile<s n="np"/><s n="nt"/></l>        <r>Chile<s n="np"/></r></p></e>
+<e>       <p><l>Colombo<s n="np"/><s n="nt"/></l>      <r>Colombia<s n="np"/></r></p></e>
+<e>       <p><l>England<s n="np"/><s n="nt"/></l>      <r>England<s n="np"/></r></p></e>
+<e>       <p><l>Ekuador<s n="np"/><s n="nt"/></l>      <r>Ecuador<s n="np"/></r></p></e>
+<e>       <p><l>Haiti<s n="np"/><s n="nt"/></l>        <r>Haiti<s n="np"/></r></p></e>
+<e>       <p><l>Jamaika<s n="np"/><s n="nt"/></l>      <r>Jamaica<s n="np"/></r></p></e>
+<e>       <p><l>Japan<s n="np"/><s n="nt"/></l>        <r>Japan<s n="np"/></r></p></e>
+<e>       <p><l>Jemen<s n="np"/><s n="nt"/></l>        <r>Jemen<s n="np"/></r></p></e>
+<e>       <p><l>Kenia<s n="np"/><s n="nt"/></l>        <r>Kenya<s n="np"/></r></p></e>
+<e>       <p><l>Kosovo<s n="np"/><s n="nt"/></l>       <r>Kosovo<s n="np"/></r></p></e>
+<e>       <p><l>Libanon<s n="np"/><s n="nt"/></l>      <r>Libanon<s n="np"/></r></p></e>
+<e>       <p><l>Liberia<s n="np"/><s n="nt"/></l>      <r>Liberia<s n="np"/></r></p></e>
+<e>       <p><l>Luxemburg<s n="np"/><s n="nt"/></l>    <r>Luxemburg<s n="np"/></r></p></e>
+<e>       <p><l>Madagaskar<s n="np"/><s n="nt"/></l>   <r>Madagaskar<s n="np"/></r></p></e>
+<e>       <p><l>Malaysia<s n="np"/><s n="nt"/></l>     <r>Malaysia<s n="np"/></r></p></e>
+<e>       <p><l>Monaco<s n="np"/><s n="nt"/></l>       <r>Monaco<s n="np"/></r></p></e>
+<e>       <p><l>Mongolei<s n="np"/><s n="nt"/></l>     <r>Mongoliet<s n="np"/></r></p></e>
+<e>       <p><l>Montenegro<s n="np"/><s n="nt"/></l>   <r>Montenegro<s n="np"/></r></p></e>
+<e>       <p><l>Nepal<s n="np"/><s n="nt"/></l>        <r>Nepal<s n="np"/></r></p></e>
+<e>       <p><l>Nigeria<s n="np"/><s n="nt"/></l>      <r>Nigeria<s n="np"/></r></p></e>
+<e>       <p><l>Panama<s n="np"/><s n="nt"/></l>       <r>Panama<s n="np"/></r></p></e>
+<e>       <p><l>Paraguay<s n="np"/><s n="nt"/></l>     <r>Paraguay<s n="np"/></r></p></e>
+<e>       <p><l>Singapur<s n="np"/><s n="nt"/></l>     <r>Singapore<s n="np"/></r></p></e>
+<e>       <p><l>Skandinavien<s n="np"/><s n="nt"/></l> <r>Skandinavien<s n="np"/></r></p></e>
+<e>       <p><l>Thailand<s n="np"/><s n="nt"/></l>     <r>Thailand<s n="np"/></r></p></e>
+<e>       <p><l>Turkmenistan<s n="np"/><s n="nt"/></l> <r>Turkmenistan<s n="np"/></r></p></e>
+<e>       <p><l>Ukraine<s n="np"/><s n="nt"/></l>      <r>Ukraina<s n="np"/></r></p></e>
+<e>       <p><l>Uruguay<s n="np"/><s n="nt"/></l>      <r>Uruguay<s n="np"/></r></p></e>
+
+
+<e>       <p><l>ausfüllen<s n="vblex"/></l>            <r>fylla<s n="vblex"/></r></p></e>
+<e>       <p><l>buchstabieren<s n="vblex"/></l>        <r>stava<s n="vblex"/></r></p></e>
+<e>       <p><l>zeichnen<s n="vblex"/></l>             <r>teckna<s n="vblex"/></r></p></e>
+<e>       <p><l>telefonieren<s n="vblex"/></l>         <r>telefonera<s n="vblex"/></r></p></e>
+<e>       <p><l>zuschauen<s n="vblex"/></l>            <r>titta<s n="vblex"/></r></p></e>
+<e>       <p><l>brennen<s n="vblex"/></l>              <r>brinna<s n="vblex"/></r></p></e>
+<e>       <p><l>zahlen<s n="vblex"/></l>               <r>betala<s n="vblex"/></r></p></e>
+<e>       <p><l>bewundern<s n="vblex"/></l>            <r>beundra<s n="vblex"/></r></p></e>
+<e>       <p><l>verwenden<s n="vblex"/></l>            <r>bruka<s n="vblex"/></r></p></e>
+<e>       <p><l>einigen<s n="vblex"/></l>              <r>ena<s n="vblex"/></r></p></e>
+<e>       <p><l>angeln<s n="vblex"/></l>               <r>fiska<s n="vblex"/></r></p></e>
+<e>       <p><l>umziehen<s n="vblex"/></l>             <r>flytta<s n="vblex"/></r></p></e>
+<e>       <p><l>raten<s n="vblex"/></l>                <r>gissa<s n="vblex"/></r></p></e>
+<e>       <p><l>einkaufen<s n="vblex"/></l>            <r>handla<s n="vblex"/></r></p></e>
+<e>       <p><l>landen<s n="vblex"/></l>               <r>landa<s n="vblex"/></r></p></e>
+<e>       <p><l>fragen<s n="vblex"/></l>               <r>spörja<s n="vblex"/></r></p></e>
+<e>       <p><l>ausgeben<s n="vblex"/></l>             <r>spendera<s n="vblex"/></r></p></e>
+
+
+<e>       <p><l>ungleich<s n="adj"/></l>               <r>olik<s n="adj"/></r></p></e>
+<e>       <p><l>übrig<s n="adj"/></l>                  <r>övrig<s n="adj"/></r></p></e>
+<e>       <p><l>möglich<s n="adj"/></l>                <r>möjlig<s n="adj"/></r></p></e>
+<e>       <p><l>menschlich<s n="adj"/></l>             <r>mänsklig<s n="adj"/></r></p></e>
+<e>       <p><l>amerikanisch<s n="adj"/></l>           <r>amerikansk<s n="adj"/></r></p></e>
+<e>       <p><l>automatisch<s n="adj"/></l>            <r>anatomisk<s n="adj"/></r></p></e>
+<e>       <p><l>zuständig<s n="adj"/></l>              <r>ansvarig<s n="adj"/></r></p></e>
+<e>       <p><l>asiatisch<s n="adj"/></l>              <r>asiatisk<s n="adj"/></r></p></e>
+<e>       <p><l>belgisch<s n="adj"/></l>               <r>belgisk<s n="adj"/></r></p></e>
+<e>       <p><l>britisch<s n="adj"/></l>               <r>brittisk<s n="adj"/></r></p></e>
+<e>       <p><l>dänisch<s n="adj"/></l>                <r>dansk<s n="adj"/></r></p></e>
+<e>       <p><l>müde<s n="adj"/></l>                   <r>trött<s n="adj"/></r></p></e>
+<e>       <p><l>direkt<s n="adj"/></l>                 <r>direkt<s n="adj"/></r></p></e>
+<e>       <p><l>automatisch<s n="adj"/></l>            <r>automatisk<s n="adj"/></r></p></e>
+<e>       <p><l>türkisch<s n="adj"/></l>               <r>turkisk<s n="adj"/></r></p></e>
+<e>       <p><l>freundlich<s n="adj"/></l>             <r>vänlig<s n="adj"/></r></p></e>
+<e>       <p><l>schädlich<s n="adj"/></l>              <r>skadlig<s n="adj"/></r></p></e>
+<e>       <p><l>weiblich<s n="adj"/></l>               <r>kvinnlig<s n="adj"/></r></p></e>
+<e>       <p><l>deutlich<s n="adj"/></l>               <r>tydlig<s n="adj"/></r></p></e>
+<e>       <p><l>heimlich<s n="adj"/></l>               <r>hemlig<s n="adj"/></r></p></e>
+<e>       <p><l>herrlich<s n="adj"/></l>               <r>härlig<s n="adj"/></r></p></e>
+<e>       <p><l>herzlich<s n="adj"/></l>               <r>hjärtlig<s n="adj"/></r></p></e>
+<e>       <p><l>männlich<s n="adj"/></l>               <r>manlig<s n="adj"/></r></p></e>
+<e>       <p><l>westlich<s n="adj"/></l>               <r>västlig<s n="adj"/></r></p></e>
+<e>       <p><l>westlich<s n="adj"/></l>               <r>västra<s n="adj"/></r></p></e>
+<e>       <p><l>geboren<s n="adj"/></l>                <r>född<s n="adj"/></r></p></e>
+<e>       <p><l>besetzt<s n="adj"/></l>                <r>upptagen<s n="adj"/></r></p></e>
+<e>       <p><l>gebräuchlich<s n="adj"/></l>           <r>bruklig<s n="adj"/></r></p></e>
+<e>       <p><l>braun<s n="adj"/></l>                  <r>brun<s n="adj"/></r></p></e>
+<e>       <p><l>germanisch<s n="adj"/></l>             <r>germansk<s n="adj"/></r></p></e>
+<e>       <p><l>heidnisch<s n="adj"/></l>              <r>hednisk<s n="adj"/></r></p></e>
+<e>       <p><l>praktisch<s n="adj"/></l>              <r>praktisk<s n="adj"/></r></p></e>
+<e>       <p><l>iranisch<s n="adj"/></l>               <r>iransk<s n="adj"/></r></p></e>
+<e>       <p><l>afrikanisch<s n="adj"/></l>            <r>afrikansk<s n="adj"/></r></p></e>
+<e>       <p><l>spanisch<s n="adj"/></l>               <r>spansk<s n="adj"/></r></p></e>
+<e>       <p><l>technisch<s n="adj"/></l>              <r>teknisk<s n="adj"/></r></p></e>
+		
+
+<e>       <p><l>nie<s n="adv"/></l>                    <r>aldrig<s n="adv"/></r></p></e>
+<e>       <p><l>dann<s n="adv"/></l>                   <r>sedan<s n="adv"/></r></p></e>
+<e>       <p><l>lieber<s n="adv"/></l>                 <r>hellre<s n="adv"/></r></p></e>
+<e>       <p><l>manchmal<s n="adv"/></l>               <r>ibland<s n="adv"/></r></p></e>
+<e>       <p><l>drin<s n="adv"/></l>                   <r>inne<s n="adv"/></r></p></e>
+<e>       <p><l>bald<s n="adv"/></l>                   <r>snart<s n="adv"/></r></p></e>
+<e>       <p><l>zusätzlich<s n="adj"/></l>             <r>ytterligare<s n="adv"/></r></p></e>
+<e>       <p><l>außerdem<s n="adv"/></l>               <r>dessutom<s n="adv"/></r></p></e>
+<e>       <p><l>doch<s n="adv"/></l>                   <r>dock<s n="adv"/></r></p></e>
+<e>       <p><l>zusammen<s n="adv"/></l>               <r>tillsammans<s n="adv"/></r></p></e>
+<e>       <p><l>wirklich<s n="adv"/></l>               <r>verkligen<s n="adv"/></r></p></e>
+<e>       <p><l>zufrieden<s n="adv"/></l>              <r>nöjd<s n="adv"/></r></p></e>
+<e>       <p><l>aufwärts<s n="adv"/></l>               <r>uppför<s n="adv"/></r></p></e>
+<e>       <p><l>oben<s n="adv"/></l>                   <r>uppe<s n="adv"/></r></p></e>
+<e>       <p><l>ziemlich<s n="adv"/></l>               <r>tämligen<s n="adv"/></r></p></e>
+<e>       <p><l>ziemlich<s n="adv"/></l>               <r>ganska<s n="adv"/></r></p></e>
+<e>       <p><l>endlich<s n="adv"/></l>                <r>slutligen<s n="adv"/></r></p></e>
+		
+		
 
   </section>
 </dictionary>
