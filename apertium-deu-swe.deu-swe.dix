@@ -540,6 +540,7 @@
 <e>       <p><l>Vorort<s n="n"/><s n="m"/></l>    <r>förort<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Leiter<s n="n"/><s n="f"/></l>    <r>stege<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Leiter<s n="n"/><s n="m"/></l>    <r>ledare<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Leiter<s n="n"/><s n="m"/></l>    <r>konduktör<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>bauen<s n="vblex"/></l>                <r>bygga<s n="vblex"/></r></p></e>
 <e>       <p><l>bekommen<s n="vblex"/></l>             <r>få<s n="vblex"/></r></p></e>
@@ -1102,7 +1103,7 @@
 <e>       <p><l>herzlich<s n="adj"/></l>               <r>hjärtlig<s n="adj"/></r></p></e>
 <e>       <p><l>männlich<s n="adj"/></l>               <r>manlig<s n="adj"/></r></p></e>
 <e>       <p><l>westlich<s n="adj"/></l>               <r>västlig<s n="adj"/></r></p></e>
-<e>       <p><l>elektrisch<s n="adj"/></l>               <r>elektrisk<s n="adj"/></r></p></e>
+<e>       <p><l>elektrisch<s n="adj"/></l>             <r>elektrisk<s n="adj"/></r></p></e>
 <e>       <p><l>westlich<s n="adj"/></l>               <r>västra<s n="adj"/></r></p></e>
 <e>       <p><l>geboren<s n="adj"/></l>                <r>född<s n="adj"/></r></p></e>
 <e>       <p><l>besetzt<s n="adj"/></l>                <r>upptagen<s n="adj"/></r></p></e>

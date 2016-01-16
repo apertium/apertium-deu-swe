@@ -16,6 +16,12 @@
       <select lemma="lera" tags="n.*"/>
     </match>
   </rule>
+  <rule>
+    <match lemma="elektrisch"/>
+    <match lemma="Leiter" tags="n.*">
+      <select lemma="konduktör" tags="n.*"/>
+    </match>
+  </rule>
 </rules>
 
 <!-- 
