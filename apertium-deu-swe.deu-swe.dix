@@ -570,6 +570,53 @@
 <e>       <p><l>stehen<s n="vblex"/></l>               <r>stå<s n="vblex"/></r></p></e>
 <e>       <p><l>versuchen<s n="vblex"/></l>            <r>försöka<s n="vblex"/></r></p></e>
 <e>       <p><l>wagen<s n="vblex"/></l>                <r>våga<s n="vblex"/></r></p></e>
+<e>       <p><l>absorbieren<s n="vblex"/></l>                <r>absorbera<s n="vblex"/></r></p></e>
+<e>       <p><l>adaptieren<s n="vblex"/></l>                <r>anpassa<s n="vblex"/></r></p></e>
+<e>       <p><l>adeln<s n="vblex"/></l>                <r>förädla<s n="vblex"/></r></p></e>
+<e>       <p><l>ähneln<s n="vblex"/></l>                <r>likna<s n="vblex"/></r></p></e>
+<e>       <p><l>ahnen<s n="vblex"/></l>                <r>misstänka<s n="vblex"/></r></p></e>
+<e>       <p><l>akkreditieren<s n="vblex"/></l>                <r>ackreditera<s n="vblex"/></r></p></e>
+<e>       <p><l>aktivieren<s n="vblex"/></l>                <r>aktivera<s n="vblex"/></r></p></e>
+<e>       <p><l>akzeptieren<s n="vblex"/></l>                <r>acceptera<s n="vblex"/></r></p></e>
+<e>       <p><l>amortisieren<s n="vblex"/></l>                <r>amortera<s n="vblex"/></r></p></e>
+<e>       <p><l>amputieren<s n="vblex"/></l>                <r>amputera<s n="vblex"/></r></p></e>
+<e>       <p><l>amtieren<s n="vblex"/></l>                <r>förrätta<s n="vblex"/></r></p></e>
+<e>       <p><l>analysieren<s n="vblex"/></l>                <r>analysera<s n="vblex"/></r></p></e>
+<e>       <p><l>ängstigen<s n="vblex"/></l>                <r>skrämma<s n="vblex"/></r></p></e>
+<e>       <p><l>annoncieren<s n="vblex"/></l>                <r>annonsera<s n="vblex"/></r></p></e>
+<e>       <p><l>applaudieren<s n="vblex"/></l>                <r>applådera<s n="vblex"/></r></p></e>
+<e>       <p><l>archivieren<s n="vblex"/></l>                <r>arkivera<s n="vblex"/></r></p></e>
+<e>       <p><l>ärgern<s n="vblex"/></l>                <r>irritera<s n="vblex"/></r></p></e>
+<e>       <p><l>arrangieren<s n="vblex"/></l>                <r>arrangera<s n="vblex"/></r></p></e>
+<e>       <p><l>artikulieren<s n="vblex"/></l>                <r>artikulera<s n="vblex"/></r></p></e>
+<e>       <p><l>asphaltieren<s n="vblex"/></l>                <r>asfaltera<s n="vblex"/></r></p></e>
+<e>       <p><l>assoziieren<s n="vblex"/></l>                <r>associera<s n="vblex"/></r></p></e>
+<e>       <p><l>äußern<s n="vblex"/></l>                <r>uttrycka<s n="vblex"/></r></p></e>
+<e>       <p><l>automatisieren<s n="vblex"/></l>                <r>automatisera<s n="vblex"/></r></p></e>
+<e>       <p><l>autorisieren<s n="vblex"/></l>                <r>tillåta<s n="vblex"/></r></p></e>
+<e>       <p><l>avancieren<s n="vblex"/></l>                <r>avancera<s n="vblex"/></r></p></e>
+<e>       <p><l>babbeln<s n="vblex"/></l>                <r>jollra<s n="vblex"/></r></p></e>
+<e>       <p><l>baggern<s n="vblex"/></l>                <r>muddra<s n="vblex"/></r></p></e>
+<e>       <p><l>balancieren<s n="vblex"/></l>                <r>balansera<s n="vblex"/></r></p></e>
+<e>       <p><l>beantworten<s n="vblex"/></l>                <r>svara<s n="vblex"/></r></p></e>
+<e>       <p><l>bearbeiten<s n="vblex"/></l>                <r>redigera<s n="vblex"/></r></p></e>
+<e>       <p><l>beaufsichtigen<s n="vblex"/></l>                <r>övervaka<s n="vblex"/></r></p></e>
+<e>       <p><l>illustrieren<s n="vblex"/></l>                <r>illustrera<s n="vblex"/></r></p></e>
+<e>       <p><l>bedanken<s n="vblex"/></l>                <r>tacka<s n="vblex"/></r></p></e>
+<e>       <p><l>beeilen<s n="vblex"/></l>                <r>skynda<s n="vblex"/></r></p></e>
+<e>       <p><l>beeindrucken<s n="vblex"/></l>                <r>imponera<s n="vblex"/></r></p></e>
+<e>       <p><l>beenden<s n="vblex"/></l>                <r>avsluta<s n="vblex"/></r></p></e>
+<e>       <p><l>beerdigen<s n="vblex"/></l>                <r>begrava<s n="vblex"/></r></p></e>
+<e>       <p><l>befallen<s n="vblex"/></l>                <r>angripa<s n="vblex"/></r></p></e>
+<e>       <p><l>inspirieren<s n="vblex"/></l>                <r>inspirera<s n="vblex"/></r></p></e>
+<e>       <p><l>befördern<s n="vblex"/></l>                <r>förmedla<s n="vblex"/></r></p></e>
+<e>       <p><l>befriedigen<s n="vblex"/></l>                <r>tillfredsställa<s n="vblex"/></r></p></e>
+<e>       <p><l>befruchten<s n="vblex"/></l>                <r>befrukta<s n="vblex"/></r></p></e>
+<e>       <p><l>beglückwünschen<s n="vblex"/></l>                <r>gratulera<s n="vblex"/></r></p></e>
+<e>       <p><l>begraben<s n="vblex"/></l>                <r>begrava<s n="vblex"/></r></p></e>
+<e>       <p><l>behandeln<s n="vblex"/></l>                <r>behandla<s n="vblex"/></r></p></e>
+
+
 
         
 <e>       <p><l>sein<s n="vbser"/></l>                 <r>vara<s n="vbser"/></r></p></e>
