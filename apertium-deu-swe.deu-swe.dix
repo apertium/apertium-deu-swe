@@ -115,14 +115,14 @@
 <e>       <p><l>Zorn<s n="n"/><s n="m"/></l>           <r>ilska<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zubau<s n="n"/><s n="m"/></l>          <r>bilaga<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zubehör<s n="n"/><s n="nt"/></l>       <r>tillbehör<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Zucht<s n="n"/><s n="m"/></l>          <r>uppfödning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Zucht<s n="n"/><s n="f"/></l>          <r>uppfödning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zuchthengst<s n="n"/><s n="m"/></l>    <r>avelshingst<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zucker<s n="n"/><s n="m"/></l>         <r>socker<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Zuckerrübe<s n="n"/><s n="f"/></l>     <r>sockerbeta<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zuflucht<s n="n"/><s n="f"/></l>       <r>tillflykt<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zufluchtsort<s n="n"/><s n="m"/></l>   <r>tillflyktsort<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zufluss<s n="n"/><s n="m"/></l>        <r>inflöde<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Zufriedenheit<s n="n"/><s n="m"/></l>  <r>tillfredsställelse<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Zufriedenheit<s n="n"/><s n="f"/></l>  <r>tillfredsställelse<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zug<s n="n"/><s n="m"/></l>            <r>tåg<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Zugang<s n="n"/><s n="m"/></l>         <r>tillgång<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zugfahrkarte<s n="n"/><s n="f"/></l>   <r>tågbiljett<s n="n"/><s n="ut"/></r></p></e>
@@ -136,7 +136,7 @@
 <e>       <p><l>Zuordnung<s n="n"/><s n="f"/></l>      <r>tilldelning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zuruf<s n="n"/><s n="m"/></l>          <r>rop<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Zusammenarbeit<s n="n"/><s n="f"/></l> <r>samverkan<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Zusammenballung<s n="n"/><s n="m"/></l><r>ackumulering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Zusammenballung<s n="n"/><s n="f"/></l><r>ackumulering<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zusammenbruch<s n="n"/><s n="m"/></l>  <r>kollaps<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zusammenfassung<s n="n"/><s n="f"/></l><r>sammanfattning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zusammenhalt<s n="n"/><s n="m"/></l>   <r>sammanhållning<s n="n"/><s n="ut"/></r></p></e>
@@ -149,7 +149,6 @@
 <e>       <p><l>Zahlung<s n="n"/><s n="f"/></l>        <r>betalning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zahlenlehre<s n="n"/><s n="f"/></l>    <r>talteori<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zahn<s n="n"/><s n="m"/></l>           <r>tand<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Zahnarzt<s n="n"/><s n="m"/></l>       <r>tandläkare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zahnärztin<s n="n"/><s n="f"/></l>     <r>tandläkare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zahnbürste<s n="n"/><s n="f"/></l>     <r>tandborste<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zange<s n="n"/><s n="f"/></l>          <r>tång<s n="n"/><s n="ut"/></r></p></e>
@@ -175,7 +174,7 @@
 <e>       <p><l>Zeitungsbericht<s n="n"/><s n="m"/></l><r>tidningsartikel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zeitungskiosk<s n="n"/><s n="m"/></l>  <r>tidningskiosk<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zeitungsladen<s n="n"/><s n="m"/></l>  <r>tidningskiosk<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Zeitungspapier<s n="n"/><s n="m"/></l> <r>tidningspapper<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Zeitungspapier<s n="n"/><s n="nt"/></l> <r>tidningspapper<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Journalist<s n="n"/><s n="m"/></l>     <r>journalist<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Journalistin<s n="n"/><s n="f"/></l>   <r>journalist<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zeitvertreib<s n="n"/><s n="m"/></l>   <r>tidsfördriv<s n="n"/><s n="nt"/></r></p></e>
@@ -189,7 +188,7 @@
 <e>       <p><l>Zelt<s n="n"/><s n="nt"/></l>          <r>tält<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Zement<s n="n"/><s n="m"/></l>         <r>cement<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Zensor<s n="n"/><s n="m"/></l>         <r>censor<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Zensur<s n="n"/><s n="m"/></l>         <r>censur<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Zensur<s n="n"/><s n="f"/></l>         <r>censur<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zentimeter<s n="n"/><s n="m"/></l>     <r>centimeter<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zentrum<s n="n"/><s n="nt"/></l>       <r>centrum<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Zepter<s n="n"/><s n="nt"/></l>        <r>scepter<s n="n"/><s n="nt"/></r></p></e>
@@ -199,7 +198,7 @@
 <e>       <p><l>Zeuge<s n="n"/><s n="m"/></l>          <r>vittne<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Zeugenaussage<s n="n"/><s n="f"/></l>  <r>vittnesbörd<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Ziege<s n="n"/><s n="f"/></l>          <r>get<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Ziegenkäse<s n="n"/><s n="nt"/></l>    <r>getost<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ziegenkäse<s n="n"/><s n="m"/></l>    <r>getost<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zielort<s n="n"/><s n="m"/></l>        <r>destination<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zielsprache<s n="n"/><s n="f"/></l>    <r>målspråk<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Ziffer<s n="n"/><s n="f"/></l>         <r>siffra<s n="n"/><s n="ut"/></r></p></e>
@@ -207,21 +206,20 @@
 <e>       <p><l>Zigarre<s n="n"/><s n="f"/></l>        <r>cigarr<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zigarrenkiste<s n="n"/><s n="f"/></l>  <r>cigarrlåda<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zikkurat<s n="n"/><s n="nt"/></l>      <r>ziggurat<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Zimmer<s n="n"/><s n="m"/></l>         <r>rum<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Raumtemperatur<s n="n"/><s n="m"/></l> <r>rumstemperatur<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Zimmer<s n="n"/><s n="nt"/></l>         <r>rum<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Raumtemperatur<s n="n"/><s n="f"/></l> <r>rumstemperatur<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zimt<s n="n"/><s n="m"/></l>           <r>kanel<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Zink<s n="n"/><s n="m"/></l>           <r>zink<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Zink<s n="n"/><s n="nt"/></l>           <r>zink<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zinn<s n="n"/><s n="nt"/></l>          <r>tenn<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Zinnober<s n="n"/><s n="m"/></l>       <r>cinnober<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zitadelle<s n="n"/><s n="f"/></l>      <r>citadell<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Zitat<s n="n"/><s n="nt"/></l>         <r>citat<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Zitrone<s n="n"/><s n="f"/></l>        <r>citron<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Zivilisiertheit<s n="n"/><s n="f"/></l><r>hövlighet<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zivilist<s n="n"/><s n="m"/></l>       <r>civilist<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wachhund<s n="n"/><s n="m"/></l>       <r>vakthund<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wachs<s n="n"/><s n="nt"/></l>         <r>vax<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Wachsamkeit<s n="n"/><s n="f"/></l>    <r>uppmärksamhet<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Wachstum<s n="n"/><s n="m"/></l>       <r>tillväxt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Wachstum<s n="n"/><s n="nt"/></l>       <r>tillväxt<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wachtel<s n="n"/><s n="f"/></l>        <r>vaktel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Waffe<s n="n"/><s n="f"/></l>          <r>vapen<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Waffel<s n="n"/><s n="f"/></l>         <r>våffla<s n="n"/><s n="ut"/></r></p></e>
@@ -234,11 +232,11 @@
 <e>       <p><l>Wähler<s n="n"/><s n="m"/></l>         <r>väljare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wahlkreis<s n="n"/><s n="m"/></l>      <r>valkrets<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wahllokal<s n="n"/><s n="nt"/></l>     <r>vallokal<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Wahlrecht<s n="n"/><s n="m"/></l>      <r>rösträtt<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Wahlurne<s n="n"/><s n="nt"/></l>      <r>valurna<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Wahlrecht<s n="n"/><s n="nt"/></l>      <r>rösträtt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Wahlurne<s n="n"/><s n="f"/></l>      <r>valurna<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wahlversprechen<s n="n"/><s n="nt"/></l><r>vallöfte<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Wahngebilde<s n="n"/><s n="nt"/></l>   <r>vanföreställning<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Wahrheit<s n="n"/><s n="m"/></l>       <r>sanning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Wahrheit<s n="n"/><s n="f"/></l>       <r>sanning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wahrsagerei<s n="n"/><s n="f"/></l>    <r>spådom<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wahrscheinlichkeit<s n="n"/><s n="f"/></l><r>sannolikhet<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Währung<s n="n"/><s n="f"/></l>        <r>valuta<s n="n"/><s n="ut"/></r></p></e>
@@ -246,7 +244,7 @@
 <e>       <p><l>Waldohreule<s n="n"/><s n="f"/></l>    <r>hornuggla<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Walküre<s n="n"/><s n="f"/></l>        <r>vall<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wallach<s n="n"/><s n="m"/></l>        <r>valack<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Wallfahrt<s n="n"/><s n="m"/></l>      <r>pilgrimsfärd<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Wallfahrt<s n="n"/><s n="f"/></l>      <r>pilgrimsfärd<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Walnuß<s n="n"/><s n="f"/></l>         <r>valnöt<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Walnussbaum<s n="n"/><s n="m"/></l>    <r>valnötsträd<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Walross<s n="n"/><s n="nt"/></l>       <r>valross<s n="n"/><s n="ut"/></r></p></e>
@@ -265,7 +263,7 @@
 <e>       <p><l>Wärmeübertrager<s n="n"/><s n="m"/></l><r>värmeväxlare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Warndreieck<s n="n"/><s n="nt"/></l>   <r>varningstriangel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Warnung<s n="n"/><s n="f"/></l>        <r>varning<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Warts<s n="n"/><s n="m"/></l>          <r>vårta<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Wart<s n="n"/><s n="m"/></l>          <r>vårta<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Warteliste<s n="n"/><s n="f"/></l>     <r>väntelista<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Warteraum<s n="n"/><s n="m"/></l>      <r>väntsal<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Warteschlange<s n="n"/><s n="f"/></l>  <r>kö<s n="n"/><s n="ut"/></r></p></e>
@@ -275,7 +273,7 @@
 <e>       <p><l>Wäscheklammer<s n="n"/><s n="f"/></l>  <r>klädnypa<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wäscheleine<s n="n"/><s n="f"/></l>    <r>tvättlina<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wäscherei<s n="n"/><s n="f"/></l>      <r>tvätteri<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Waschmaschine<s n="n"/><s n="m"/></l>  <r>tvättmaskin<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Waschmaschine<s n="n"/><s n="f"/></l>  <r>tvättmaskin<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Waschmittel<s n="n"/><s n="nt"/></l>   <r>tvättmedel<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Wasserfarbe<s n="n"/><s n="f"/></l>    <r>vattenfärg<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wasserglas<s n="n"/><s n="nt"/></l>    <r>vattenglas<s n="n"/><s n="nt"/></r></p></e>
@@ -294,7 +292,6 @@
 <e>       <p><l>Wasserwerk<s n="n"/><s n="nt"/></l>    <r>vattenverk<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Wasserzeichen<s n="n"/><s n="nt"/></l> <r>vattenmärke<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Watte<s n="n"/><s n="f"/></l>          <r>vadd<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>WC<s n="n"/><s n="nt"/></l>            <r>WC<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Web<s n="n"/><s n="nt"/></l>           <r>webb<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Webseite<s n="n"/><s n="f"/></l>       <r>webbplats<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wechsel<s n="n"/><s n="m"/></l>        <r>utbyte<s n="n"/><s n="nt"/></r></p></e>
@@ -372,7 +369,6 @@
 <e>       <p><l>Wochentag<s n="n"/><s n="m"/></l>    <r>veckodag<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wodka<s n="n"/><s n="m"/></l>    <r>vodka<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wohlbefinden<s n="n"/><s n="nt"/></l>    <r>välbefinnande<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Wohlerzogenheit<s n="n"/><s n="f"/></l>    <r>artighet<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Wohlgefallen<s n="n"/><s n="m"/></l>    <r>nöje<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Wohlstand<s n="n"/><s n="m"/></l>    <r>välstånd<s n="n"/><s n="nt"/></r></p></e>
@@ -421,7 +417,6 @@
 <e>       <p><l>Vati<s n="n"/><s n="m"/></l>    <r>pappa<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vegetarier<s n="n"/><s n="m"/></l>    <r>vegetarian<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vegetation<s n="n"/><s n="f"/></l>    <r>vegetation<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Vektor<s n="n"/><s n="m"/></l>    <r>vektor<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ventrikel<s n="n"/><s n="m"/></l>    <r>ventrikel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Verallgemeinerung<s n="n"/><s n="f"/></l>    <r>generalisering<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Veranda<s n="n"/><s n="f"/></l>    <r>veranda<s n="n"/><s n="ut"/></r></p></e>
@@ -437,7 +432,7 @@
 <e>       <p><l>Verbrennung<s n="n"/><s n="f"/></l>    <r>förbränning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Verbrennungsmotor<s n="n"/><s n="m"/></l><r>förbränningsmotor<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Verdacht<s n="n"/><s n="m"/></l>       <r>misstanke<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Verdikt<s n="n"/><s n="m"/></l>        <r>bedömning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Verdikt<s n="n"/><s n="nt"/></l>        <r>bedömning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vereinbarung<s n="n"/><s n="f"/></l>   <r>avtal<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Verengung<s n="n"/><s n="f"/></l>      <r>förträngning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vererbungslehre<s n="n"/><s n="f"/></l><r>ärftlighet<s n="n"/><s n="ut"/></r></p></e>
