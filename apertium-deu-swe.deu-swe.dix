@@ -28,12 +28,20 @@
     <sdef n="preadv" 	c="Pre-adverb"/> 
     <sdef n="np" /> 
     <sdef n="un" /> 
+    <sdef n="det" /> 
   </sdefs>
   <section id="main" type="standard">
+    <e><p><l>der<s n="det"/></l><r>en<s n="det"/></r></p></e>
 <e>       <p><l>Auge<s n="n"/><s n="nt"/></l>          <r>öga<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Stoff<s n="n"/><s n="m"/></l>          <r>tyg<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Stoff<s n="n"/><s n="m"/></l>          <r>material<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Flügel<s n="n"/><s n="m"/></l>          <r>vinge<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Flügel<s n="n"/><s n="m"/></l>          <r>flygel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abend<s n="n"/><s n="m"/></l>          <r>kväll<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Angst<s n="n"/><s n="f"/></l>          <r>rädsla<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Apfel<s n="n"/><s n="m"/></l>          <r>äpple<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Ball<s n="n"/><s n="m"/></l>          <r>boll<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ball<s n="n"/><s n="m"/></l>          <r>bal<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Arbeit<s n="n"/><s n="f"/></l>         <r>arbete<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Auto<s n="n"/><s n="nt"/></l>          <r>bil<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ball<s n="n"/><s n="m"/></l>           <r>boll<s n="n"/><s n="ut"/></r></p></e>
@@ -45,6 +53,8 @@
 <e>       <p><l>Fahrrad<s n="n"/><s n="nt"/></l>       <r>cykel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Familie<s n="n"/><s n="f"/></l>        <r>familj<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Feld<s n="n"/><s n="nt"/></l>          <r>fält<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Schimmel<s n="n"/><s n="m"/></l>       <r>skimmel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Schimmel<s n="n"/><s n="m"/></l>       <r>mögel<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Feuer<s n="n"/><s n="nt"/></l>         <r>eld<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Flasche<s n="n"/><s n="f"/></l>        <r>flaska<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Hand<s n="n"/><s n="f"/></l>           <r>hand<s n="n"/><s n="ut"/></r></p></e>
@@ -76,6 +86,11 @@
 <e>       <p><l>Vater<s n="n"/><s n="m"/></l>          <r>far<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wasser<s n="n"/><s n="nt"/></l>        <r>vatten<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wald<s n="n"/><s n="m"/></l>           <r>skog<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Wurf<s n="n"/><s n="m"/></l>           <r>kast<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Wurf<s n="n"/><s n="m"/></l>           <r>kull<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fingerhut<s n="n"/><s n="m"/></l>      <r>fingerborg<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fingerhut<s n="n"/><s n="m"/></l>      <r>fingerborgsblomma<s n="n"/><s n="ut"/></r></p></e>
+
 <e>       <p><l>Weg<s n="n"/><s n="m"/></l>            <r>väg<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wiese<s n="n"/><s n="f"/></l>          <r>äng<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zeit<s n="n"/><s n="f"/></l>           <r>tid<s n="n"/><s n="ut"/></r></p></e>
@@ -617,7 +632,7 @@
 <e>       <p><l>beglückwünschen<s n="vblex"/></l>                <r>gratulera<s n="vblex"/></r></p></e>
 <e>       <p><l>begraben<s n="vblex"/></l>                <r>begrava<s n="vblex"/></r></p></e>
 <e>       <p><l>behandeln<s n="vblex"/></l>                <r>behandla<s n="vblex"/></r></p></e>
-
+<e>       <p><l>benutzen<s n="vblex"/></l>                <r>använda<s n="vblex"/></r></p></e>
 
 
         
@@ -677,6 +692,7 @@
 <e>       <p><l>führen<s n="vblex"/></l>               <r>föra<s n="vblex"/></r></p></e>
 <e>       <p><l>gehören<s n="vblex"/></l>              <r>tillhöra<s n="vblex"/></r></p></e>
 <e>       <p><l>gelten<s n="vblex"/></l>               <r>gälla<s n="vblex"/></r></p></e>
+<e>       <p><l>angeln<s n="vblex"/></l>               <r>fiska<s n="vblex"/></r></p></e>
 <e>       <p><l>gewinnen<s n="vblex"/></l>             <r>vinna<s n="vblex"/></r></p></e>
 <e>       <p><l>glauben<s n="vblex"/></l>              <r>anse<s n="vblex"/></r></p></e>
 <e>       <p><l>handeln<s n="vblex"/></l>              <r>handla<s n="vblex"/></r></p></e>
@@ -900,6 +916,14 @@
 <e>       <p><l>Cappuccino<s n="n"/><s n="m"/></l>     <r>cappuccino<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Cafeteria<s n="n"/><s n="f"/></l>      <r>cafeteria<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Butterbrot<s n="n"/><s n="nt"/></l>    <r>smörpapper<s n="n"/><s n="nt"/></r></p></e>
+
+
+<e>       <p><l>Eselsohr<s n="n"/><s n="nt"/></l>    <r>åsneöra<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Eselsohr<s n="n"/><s n="nt"/></l>    <r>hundöra<s n="n"/><s n="nt"/></r></p></e>
+
+<e>       <p><l>Angel<s n="n"/><s n="f"/></l>    <r>fiskespö<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Angel<s n="n"/><s n="f"/></l>    <r>gångjärn<s n="n"/><s n="nt"/></r></p></e>
+
 <e>       <p><l>Buttermilch<s n="n"/><s n="f"/></l>    <r>kärnmjölk<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Buttersäure<s n="n"/><s n="f"/></l>    <r>smörsyra<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Bushaltestelle<s n="n"/><s n="f"/></l> <r>busshållplats<s n="n"/><s n="ut"/></r></p></e>
@@ -1080,6 +1104,7 @@
 
 
 <e>       <p><l>ungleich<s n="adj"/></l>               <r>olik<s n="adj"/></r></p></e>
+<e>       <p><l>hart<s n="adj"/></l>                   <r>hård<s n="adj"/></r></p></e>
 <e>       <p><l>übrig<s n="adj"/></l>                  <r>övrig<s n="adj"/></r></p></e>
 <e>       <p><l>möglich<s n="adj"/></l>                <r>möjlig<s n="adj"/></r></p></e>
 <e>       <p><l>menschlich<s n="adj"/></l>             <r>mänsklig<s n="adj"/></r></p></e>

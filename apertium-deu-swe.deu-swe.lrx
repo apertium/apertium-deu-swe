@@ -16,12 +16,58 @@
       <select lemma="lera" tags="n.*"/>
     </match>
   </rule>
+ <rule>
+    <match lemma="hart"/>
+    <match lemma="Wurf" tags="n.*">
+      <select lemma="kast" tags="n.*"/>
+    </match>
+  </rule>
+  <rule>
+    <match lemma="machen"/>
+    <match lemma="Eselsohr" tags="n.*">
+      <select lemma="åsneöra" tags="n.*"/>
+    </match>
+  </rule>
   <rule>
     <match lemma="elektrisch"/>
     <match lemma="Leiter" tags="n.*">
       <select lemma="konduktör" tags="n.*"/>
     </match>
   </rule>
+  <rule> 
+    <match lemma="spielen"/> 
+    <match/> 
+    <match/> 
+    <match lemma="Flügel"><select lemma="flygel"/></match> 
+  </rule> 
+  <rule> 
+    <match lemma="lernen"/> 
+    <match/>  
+    <match lemma="Stoff"><select lemma="material"/></match> 
+  </rule> 
+  <rule> 
+    <match lemma="reiten"/> 
+    <match/> 
+    <match/> 
+    <match lemma="Schimmel"><select lemma="skimmel"/></match> 
+  </rule> 
+  <rule> 
+    <match lemma="gehen"/> 
+    <match/> 
+    <match/> 
+    <match lemma="Ball"><select lemma="bal"/></match> 
+  </rule> 
+  <rule> 
+    <match lemma="benutzen"/> 
+    <match/>  
+    <match lemma="Fingerhut"><select lemma="fingerborg"/></match> 
+  </rule> 
+  <rule> 
+    <match lemma="angeln"/> 
+    <match/> 
+    <match/> 
+    <match lemma="Angel"><select lemma="fiskespö"/></match> 
+  </rule> 
 </rules>
 
 <!-- 
