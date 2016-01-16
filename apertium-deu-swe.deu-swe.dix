@@ -27,6 +27,7 @@
     <sdef n="pr" 	c="Preposition"/> 
     <sdef n="preadv" 	c="Pre-adverb"/> 
     <sdef n="np" /> 
+    <sdef n="un" /> 
   </sdefs>
   <section id="main" type="standard">
 <e>       <p><l>Auge<s n="n"/><s n="nt"/></l>          <r>öga<s n="n"/><s n="nt"/></r></p></e>
@@ -89,7 +90,7 @@
 <e>       <p><l>Fabrikarbeiter<s n="n"/><s n="m"/></l> <r>verkstadsarbetare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Widersacher<s n="n"/><s n="m"/></l>    <r>vedersakare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Entwickler<s n="n"/><s n="m"/></l>     <r>vecklare<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Zytoplasma<s n="n"/><s n="nt"/></l>    <r>cytoplasma<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Zytoplasma<s n="n"/><s n="nt"/></l>    <r>cytoplasma<s n="n"/><s n="un"/></r></p></e>
 <e>       <p><l>Zypresse<s n="n"/><s n="f"/></l>       <r>cypress<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zynismus<s n="n"/><s n="m"/></l>       <r>cynism<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zyniker<s n="n"/><s n="m"/></l>        <r>cyniker<s n="n"/><s n="ut"/></r></p></e>
@@ -107,7 +108,7 @@
 <e>       <p><l>Zoff<s n="n"/><s n="m"/></l>           <r>problem<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Zögern<s n="n"/><s n="nt"/></l>        <r>tvekan<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zögling<s n="n"/><s n="m"/></l>        <r>elev<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Zölibat<s n="n"/><s n="m"/></l>        <r>celibat<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Zölibat<s n="n"/><s n="m"/></l>        <r>celibat<s n="n"/><s n="un"/></r></p></e>
 <e>       <p><l>Zollamt<s n="n"/><s n="nt"/></l>       <r>tullkontor<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Zone<s n="n"/><s n="f"/></l>           <r>zon<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zoo<s n="n"/><s n="m"/></l>    	       <r>zoo<s n="n"/><s n="nt"/></r></p></e>
@@ -162,7 +163,7 @@
 <e>       <p><l>Zeh<s n="n"/><s n="m"/></l>            <r>tå<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zeichen<s n="n"/><s n="nt"/></l>       <r>karaktär<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zeichensetzung<s n="n"/><s n="f"/></l> <r>skiljetecken<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Zeichnung<s n="n"/><s n="f"/></l>      <r>pekfinger<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Zeichnung<s n="n"/><s n="f"/></l>      <r>pekfinger<s n="n"/><s n="un"/></r></p></e>
 <e>       <p><l>Zeiger<s n="n"/><s n="m"/></l>         <r>pekare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zeile<s n="n"/><s n="f"/></l>          <r>linje<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zeitbegrenzung<s n="n"/><s n="f"/></l> <r>tidsgräns<s n="n"/><s n="ut"/></r></p></e>
@@ -180,13 +181,13 @@
 <e>       <p><l>Zeitvertreib<s n="n"/><s n="m"/></l>   <r>tidsfördriv<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Zellbiologie<s n="n"/><s n="f"/></l>   <r>cellbiologi<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zelle<s n="n"/><s n="f"/></l>          <r>cell<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Zellmembran<s n="n"/><s n="f"/></l>    <r>cellmembran<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Zellofan<s n="n"/><s n="m"/></l>       <r>cellofan<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Zellmembran<s n="n"/><s n="f"/></l>    <r>cellmembran<s n="n"/><s n="un"/></r></p></e>
+<e>       <p><l>Zellofan<s n="n"/><s n="m"/></l>       <r>cellofan<s n="n"/><s n="un"/></r></p></e>
 <e>       <p><l>Zellteilung<s n="n"/><s n="f"/></l>    <r>celldelning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zellulose<s n="n"/><s n="f"/></l>      <r>cellulosa<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zellwand<s n="n"/><s n="f"/></l>       <r>cellvägg<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zelt<s n="n"/><s n="nt"/></l>          <r>tält<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Zement<s n="n"/><s n="m"/></l>         <r>cement<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Zement<s n="n"/><s n="m"/></l>         <r>cement<s n="n"/><s n="un"/></r></p></e>
 <e>       <p><l>Zensor<s n="n"/><s n="m"/></l>         <r>censor<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zensur<s n="n"/><s n="f"/></l>         <r>censur<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zentimeter<s n="n"/><s n="m"/></l>     <r>centimeter<s n="n"/><s n="ut"/></r></p></e>
@@ -205,9 +206,8 @@
 <e>       <p><l>Zigarette<s n="n"/><s n="f"/></l>      <r>cigarett<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zigarre<s n="n"/><s n="f"/></l>        <r>cigarr<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zigarrenkiste<s n="n"/><s n="f"/></l>  <r>cigarrlåda<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Zikkurat<s n="n"/><s n="nt"/></l>      <r>ziggurat<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Zikkurat<s n="n"/><s n="nt"/></l>      <r>ziggurat<s n="n"/><s n="un"/></r></p></e>
 <e>       <p><l>Zimmer<s n="n"/><s n="nt"/></l>         <r>rum<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Raumtemperatur<s n="n"/><s n="f"/></l> <r>rumstemperatur<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zimt<s n="n"/><s n="m"/></l>           <r>kanel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zink<s n="n"/><s n="nt"/></l>           <r>zink<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zinn<s n="n"/><s n="nt"/></l>          <r>tenn<s n="n"/><s n="nt"/></r></p></e>
@@ -225,7 +225,7 @@
 <e>       <p><l>Waffel<s n="n"/><s n="f"/></l>         <r>våffla<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Waffeleisen<s n="n"/><s n="nt"/></l>   <r>våffeljärn<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Waffenlager<s n="n"/><s n="nt"/></l>   <r>arsenal<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Waffenlager<s n="n"/><s n="m"/></l>    <r>vapenlager<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Waffenlager<s n="n"/><s n="m"/></l>    <r>vapenlager<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Wagen<s n="n"/><s n="m"/></l>          <r>vagn<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Waggon<s n="n"/><s n="m"/></l>         <r>wagon<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wahl<s n="n"/><s n="f"/></l>           <r>val<s n="n"/><s n="ut"/></r></p></e>
@@ -380,7 +380,7 @@
 <e>       <p><l>Wohnmobil<s n="n"/><s n="nt"/></l>    <r>husvagn<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wohnviertel<s n="n"/><s n="nt"/></l>    <r>bostadsområde<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Wohnzimmer<s n="n"/><s n="nt"/></l>    <r>vardagsrum<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Wolfram<s n="n"/><s n="nt"/></l>    <r>volfram<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Wolfram<s n="n"/><s n="nt"/></l>    <r>volfram<s n="n"/><s n="un"/></r></p></e>
 <e>       <p><l>Wolkenkratzer<s n="n"/><s n="m"/></l>    <r>skyskrapa<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wolle<s n="n"/><s n="f"/></l>    <r>ylle<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Wort<s n="n"/><s n="nt"/></l>    <r>ord<s n="n"/><s n="nt"/></r></p></e>
@@ -483,7 +483,7 @@
 <e>       <p><l>Versorgung<s n="n"/><s n="f"/></l>    <r>tillförsel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Verspätung<s n="n"/><s n="f"/></l>    <r>fördröjning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Verständigung<s n="n"/><s n="f"/></l>    <r>förståelse<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Verständigungsmittel<s n="n"/><s n="nt"/></l>    <r>kommunikationsmedel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Verständigungsmittel<s n="n"/><s n="nt"/></l>    <r>kommunikationsmedel<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Versteck<s n="n"/><s n="nt"/></l>    <r>gömställe<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Verstopfung<s n="n"/><s n="f"/></l>    <r>förstoppning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Verteidigung<s n="n"/><s n="f"/></l>    <r>försvar<s n="n"/><s n="nt"/></r></p></e>
@@ -508,7 +508,7 @@
 <e>       <p><l>Visite<s n="n"/><s n="f"/></l>    <r>besök<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Visum<s n="n"/><s n="nt"/></l>    <r>visum<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Vitalität<s n="n"/><s n="f"/></l>    <r>vitalitet<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Vitamin<s n="n"/><s n="nt"/></l>    <r>vitamin<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Vitamin<s n="n"/><s n="nt"/></l>    <r>vitamin<s n="n"/><s n="un"/></r></p></e>
 <e>       <p><l>Vogelbeobachter<s n="n"/><s n="m"/></l>    <r>fågelskådare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vogelbeobachtung<s n="n"/><s n="f"/></l>    <r>fågelskådning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vokal<s n="n"/><s n="m"/></l>    <r>vokal<s n="n"/><s n="ut"/></r></p></e>
@@ -535,10 +535,11 @@
 <e>       <p><l>Vorlage<s n="n"/><s n="f"/></l>    <r>inlämning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vorlesung<s n="n"/><s n="f"/></l>    <r>föreläsning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vorliebe<s n="n"/><s n="f"/></l>    <r>förkärlek<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Vormundschaft<s n="n"/><s n="f"/></l>    <r>förmynderskap<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Vormundschaft<s n="n"/><s n="f"/></l>    <r>förmynderskap<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Vorname<s n="n"/><s n="m"/></l>    <r>förnamn<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Vorort<s n="n"/><s n="m"/></l>    <r>förort<s n="n"/><s n="ut"/></r></p></e>
-
+<e>       <p><l>Leiter<s n="n"/><s n="f"/></l>    <r>stege<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Leiter<s n="n"/><s n="m"/></l>    <r>ledare<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>bauen<s n="vblex"/></l>                <r>bygga<s n="vblex"/></r></p></e>
 <e>       <p><l>bekommen<s n="vblex"/></l>             <r>få<s n="vblex"/></r></p></e>
@@ -1101,6 +1102,7 @@
 <e>       <p><l>herzlich<s n="adj"/></l>               <r>hjärtlig<s n="adj"/></r></p></e>
 <e>       <p><l>männlich<s n="adj"/></l>               <r>manlig<s n="adj"/></r></p></e>
 <e>       <p><l>westlich<s n="adj"/></l>               <r>västlig<s n="adj"/></r></p></e>
+<e>       <p><l>elektrisch<s n="adj"/></l>               <r>elektrisk<s n="adj"/></r></p></e>
 <e>       <p><l>westlich<s n="adj"/></l>               <r>västra<s n="adj"/></r></p></e>
 <e>       <p><l>geboren<s n="adj"/></l>                <r>född<s n="adj"/></r></p></e>
 <e>       <p><l>besetzt<s n="adj"/></l>                <r>upptagen<s n="adj"/></r></p></e>
