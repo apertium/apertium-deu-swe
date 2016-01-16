@@ -456,7 +456,7 @@
 <e>       <p><l>Verkaufsdirektor<s n="n"/><s n="m"/></l>	<r>försäljningschef<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Verkehr<s n="n"/><s n="m"/></l>        <r>trafik<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Verkehrsampel<s n="n"/><s n="f"/></l>  <r>trafikljus<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Verkehrslärm<s n="n"/><s n="m"/></l>   <r>trafikbuller<s n="n"/><s n="nut"/></r></p></e>
+<e>       <p><l>Verkehrslärm<s n="n"/><s n="m"/></l>   <r>trafikbuller<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Verkehrsmittel<s n="n"/><s n="nt"/></l><r>transportmedel<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Verkündigung<s n="n"/><s n="f"/></l>   <r>kungörelse<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Verlängerung<s n="n"/><s n="f"/></l>   <r>förlängning<s n="n"/><s n="ut"/></r></p></e>
@@ -501,9 +501,9 @@
 <e>       <p><l>Villa<s n="n"/><s n="f"/></l>    <r>villa<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vinyl<s n="n"/><s n="nt"/></l>    <r>vinyl<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Violine<s n="n"/><s n="f"/></l>    <r>violin<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Violinist<s n="n"/><s n="nt"/></l>    <r>violinist<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Violinist<s n="n"/><s n="m"/></l>    <r>violinist<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Virus<s n="n"/><s n="m"/></l>    <r>virus<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Visier<s n="n"/><s n="m"/></l>    <r>visir<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Visier<s n="n"/><s n="nt"/></l>    <r>visir<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Vision<s n="n"/><s n="f"/></l>    <r>vision<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Visite<s n="n"/><s n="f"/></l>    <r>besök<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Visum<s n="n"/><s n="nt"/></l>    <r>visum<s n="n"/><s n="nt"/></r></p></e>
@@ -524,7 +524,7 @@
 <e>       <p><l>Volumen<s n="n"/><s n="nt"/></l>    <r>volym<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vorbereitung<s n="n"/><s n="f"/></l>    <r>framställning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vorbeugung<s n="n"/><s n="f"/></l>    <r>förebyggande<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Vordersitz<s n="n"/><s n="m "/></l>    <r>framsäte<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Vordersitz<s n="n"/><s n="m"/></l>    <r>framsäte<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Vorfahrt<s n="n"/><s n="f"/></l>    <r>förkörsrätt<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vorfreude<s n="n"/><s n="f"/></l>    <r>förväntan<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Vorgang<s n="n"/><s n="m"/></l>    <r>förfarande<s n="n"/><s n="nt"/></r></p></e>
