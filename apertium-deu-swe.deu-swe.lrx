@@ -11,7 +11,7 @@
     </match>
   </rule>
   <rule>
-    <match lemma="modelieren"/>
+    <match lemma="modelliert"/>
     <match lemma="Ton" tags="n.*">
       <select lemma="lera" tags="n.*"/>
     </match>
