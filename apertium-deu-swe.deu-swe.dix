@@ -496,9 +496,11 @@
 <e>       <p><l>Leiter<s n="n"/><s n="f"/></l>    <r>stege<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Leiter<s n="n"/><s n="m"/></l>    <r>ledare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Leiter<s n="n"/><s n="m"/></l>    <r>konduktör<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ton<s n="n"/><s n="m"/></l>    <r>ton<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ton<s n="n"/><s n="m"/></l>    <r>lera<s n="n"/><s n="ut"/></r></p></e>
 
+<e>       <p><l>modellieren<s n="vblex"/></l>                <r>modellera<s n="vblex"/></r></p></e>
 
-<e>       <p><l>absorbieren<s n="vblex"/></l>                <r>absorbera<s n="vblex"/></r></p></e>
 <e>       <p><l>adaptieren<s n="vblex"/></l>                <r>anpassa<s n="vblex"/></r></p></e>
 <e>       <p><l>adeln<s n="vblex"/></l>                <r>förädla<s n="vblex"/></r></p></e>
 <e>       <p><l>ähneln<s n="vblex"/></l>                <r>likna<s n="vblex"/></r></p></e>
@@ -565,7 +567,6 @@
 <e>       <p><l>Ball<s n="n"/><s n="m"/></l>          <r>bal<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Arbeit<s n="n"/><s n="f"/></l>         <r>arbete<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Auto<s n="n"/><s n="nt"/></l>          <r>bil<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Ball<s n="n"/><s n="m"/></l>           <r>boll<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ding<s n="n"/><s n="nt"/></l>          <r>sak<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Dorf<s n="n"/><s n="nt"/></l>          <r>by<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Esel<s n="n"/><s n="m"/></l>           <r>åsna<s n="n"/><s n="ut"/></r></p></e>
@@ -609,8 +610,8 @@
 <e>       <p><l>Wald<s n="n"/><s n="m"/></l>           <r>skog<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wurf<s n="n"/><s n="m"/></l>           <r>kast<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wurf<s n="n"/><s n="m"/></l>           <r>kull<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Fingerhut<s n="n"/><s n="m"/></l>      <r>fingerborg<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Fingerhut<s n="n"/><s n="m"/></l>      <r>fingerborgsblomma<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fingerhut<s n="n"/><s n="m"/></l>      <r>fingerborg<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Weg<s n="n"/><s n="m"/></l>            <r>väg<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Wiese<s n="n"/><s n="f"/></l>          <r>äng<s n="n"/><s n="ut"/></r></p></e>
@@ -936,8 +937,8 @@
 <e>       <p><l>Eselsohr<s n="n"/><s n="nt"/></l>    <r>åsneöra<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Eselsohr<s n="n"/><s n="nt"/></l>    <r>hundöra<s n="n"/><s n="nt"/></r></p></e>
 
-<e>       <p><l>Angel<s n="n"/><s n="f"/></l>    <r>fiskespö<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Angel<s n="n"/><s n="f"/></l>    <r>gångjärn<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Angel<s n="n"/><s n="f"/></l>    <r>fiskespö<s n="n"/><s n="ut"/></r></p></e>
 
 <e>       <p><l>Buttermilch<s n="n"/><s n="f"/></l>    <r>kärnmjölk<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Buttersäure<s n="n"/><s n="f"/></l>    <r>smörsyra<s n="n"/><s n="ut"/></r></p></e>
