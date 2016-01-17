@@ -31,70 +31,10 @@
     <sdef n="det" /> 
   </sdefs>
   <section id="main" type="standard">
-    <e><p><l>der<s n="det"/></l><r>en<s n="det"/></r></p></e>
-<e>       <p><l>Auge<s n="n"/><s n="nt"/></l>          <r>öga<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Stoff<s n="n"/><s n="m"/></l>          <r>tyg<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Stoff<s n="n"/><s n="m"/></l>          <r>material<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Flügel<s n="n"/><s n="m"/></l>          <r>vinge<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Flügel<s n="n"/><s n="m"/></l>          <r>flygel<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Abend<s n="n"/><s n="m"/></l>          <r>kväll<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Angst<s n="n"/><s n="f"/></l>          <r>rädsla<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Apfel<s n="n"/><s n="m"/></l>          <r>äpple<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Ball<s n="n"/><s n="m"/></l>          <r>boll<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Ball<s n="n"/><s n="m"/></l>          <r>bal<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Arbeit<s n="n"/><s n="f"/></l>         <r>arbete<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Auto<s n="n"/><s n="nt"/></l>          <r>bil<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Ball<s n="n"/><s n="m"/></l>           <r>boll<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Ding<s n="n"/><s n="nt"/></l>          <r>sak<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Dorf<s n="n"/><s n="nt"/></l>          <r>by<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Esel<s n="n"/><s n="m"/></l>           <r>åsna<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Essen<s n="n"/><s n="nt"/></l>         <r>mat<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Frau<s n="n"/><s n="f"/></l>           <r>kvinna<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Fahrrad<s n="n"/><s n="nt"/></l>       <r>cykel<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Familie<s n="n"/><s n="f"/></l>        <r>familj<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Feld<s n="n"/><s n="nt"/></l>          <r>fält<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Schimmel<s n="n"/><s n="m"/></l>       <r>skimmel<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Schimmel<s n="n"/><s n="m"/></l>       <r>mögel<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Feuer<s n="n"/><s n="nt"/></l>         <r>eld<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Flasche<s n="n"/><s n="f"/></l>        <r>flaska<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Hand<s n="n"/><s n="f"/></l>           <r>hand<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Haus<s n="n"/><s n="nt"/></l>          <r>hus<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Vase<s n="n"/><s n="f"/></l>           <r>vas<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Himmel<s n="n"/><s n="m"/></l>         <r>himmel<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Herz<s n="n"/><s n="nt"/></l>          <r>hjärta<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Holz<s n="n"/><s n="nt"/></l>          <r>trä<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Hunger<s n="n"/><s n="m"/></l>         <r>hunger<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Hund<s n="n"/><s n="m"/></l>           <r>hund<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Junge<s n="n"/><s n="m"/></l>          <r>pojke<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Jahr<s n="n"/><s n="nt"/></l>          <r>år<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Kabine<s n="n"/><s n="f"/></l>         <r>hytt<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Kind<s n="n"/><s n="nt"/></l>          <r>barn<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Mann<s n="n"/><s n="m"/></l>           <r>man<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Mutter<s n="n"/><s n="f"/></l>         <r>mor<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Name<s n="n"/><s n="m"/></l>           <r>namn<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Nase<s n="n"/><s n="f"/></l>           <r>näsa<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Nacht<s n="n"/><s n="f"/></l>          <r>natt<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Großmutter<s n="n"/><s n="f"/></l>     <r>mormor<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Sache<s n="n"/><s n="f"/></l>          <r>sak<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Schule<s n="n"/><s n="f"/></l>         <r>skola<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Schloss<s n="n"/><s n="nt"/></l>       <r>slott<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Schwester<s n="n"/><s n="f"/></l>      <r>syster<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Tag<s n="n"/><s n="m"/></l>            <r>dag<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Tür<s n="n"/><s n="f"/></l>            <r>dörr<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Uhr<s n="n"/><s n="f"/></l>            <r>klocka<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Vogel<s n="n"/><s n="m"/></l>          <r>fågel<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Vater<s n="n"/><s n="m"/></l>          <r>far<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Wasser<s n="n"/><s n="nt"/></l>        <r>vatten<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Wald<s n="n"/><s n="m"/></l>           <r>skog<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Wurf<s n="n"/><s n="m"/></l>           <r>kast<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Wurf<s n="n"/><s n="m"/></l>           <r>kull<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Fingerhut<s n="n"/><s n="m"/></l>      <r>fingerborg<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Fingerhut<s n="n"/><s n="m"/></l>      <r>fingerborgsblomma<s n="n"/><s n="ut"/></r></p></e>
 
-<e>       <p><l>Weg<s n="n"/><s n="m"/></l>            <r>väg<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Wiese<s n="n"/><s n="f"/></l>          <r>äng<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Zeit<s n="n"/><s n="f"/></l>           <r>tid<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Zeitung<s n="n"/><s n="f"/></l>        <r>tidning<s n="n"/><s n="ut"/></r></p></e>
+
+<!-- Nuboro 500 word        -->
+
 <e>       <p><l>Kanone<s n="n"/><s n="f"/></l>	       <r>kanon<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Kandidatur<s n="n"/><s n="f"/></l>     <r>kandidatur<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Zeiger<s n="n"/><s n="m"/></l>	       <r>visare<s n="n"/><s n="ut"/></r></p></e>
@@ -557,36 +497,7 @@
 <e>       <p><l>Leiter<s n="n"/><s n="m"/></l>    <r>ledare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Leiter<s n="n"/><s n="m"/></l>    <r>konduktör<s n="n"/><s n="ut"/></r></p></e>
 
-<e>       <p><l>bauen<s n="vblex"/></l>                <r>bygga<s n="vblex"/></r></p></e>
-<e>       <p><l>bekommen<s n="vblex"/></l>             <r>få<s n="vblex"/></r></p></e>
-<e>       <p><l>bleiben<s n="vblex"/></l>              <r>stanna<s n="vblex"/></r></p></e>
-<e>       <p><l>brauchen<s n="vblex"/></l>             <r>behöva<s n="vblex"/></r></p></e>
-<e>       <p><l>bringen<s n="vblex"/></l>              <r>föra<s n="vblex"/></r></p></e>
-<e>       <p><l>baden<s n="vblex"/></l>                <r>bada<s n="vblex"/></r></p></e>
-<e>       <p><l>denken<s n="vblex"/></l>               <r>tänka<s n="vblex"/></r></p></e>
-<e>       <p><l>essen<s n="vblex"/></l>                <r>äta<s n="vblex"/></r></p></e>
-<e>       <p><l>fahren<s n="vblex"/></l>               <r>köra<s n="vblex"/></r></p></e>
-<e>       <p><l>fallen<s n="vblex"/></l>               <r>falla<s n="vblex"/></r></p></e>
-<e>       <p><l>finden<s n="vblex"/></l>               <r>finna<s n="vblex"/></r></p></e>
-<e>       <p><l>geben<s n="vblex"/></l>                <r>ge<s n="vblex"/></r></p></e>
-<e>       <p><l>gehen<s n="vblex"/></l>                <r>gå<s n="vblex"/></r></p></e>
-<e>       <p><l>halten<s n="vblex"/></l>               <r>hålla<s n="vblex"/></r></p></e>
-<e>       <p><l>heißen<s n="vblex"/></l>               <r>heta<s n="vblex"/></r></p></e>
-<e>       <p><l>kauen<s n="vblex"/></l>                <r>tugga<s n="vblex"/></r></p></e>
-<e>       <p><l>kommen<s n="vblex"/></l>               <r>komma<s n="vblex"/></r></p></e>
-<e>       <p><l>kaufen<s n="vblex"/></l>               <r>köpa<s n="vblex"/></r></p></e>
-<e>       <p><l>laufen<s n="vblex"/></l>               <r>springa<s n="vblex"/></r></p></e>
-<e>       <p><l>liegen<s n="vblex"/></l>               <r>ligga<s n="vblex"/></r></p></e>
-<e>       <p><l>machen<s n="vblex"/></l>               <r>göra<s n="vblex"/></r></p></e>
-<e>       <p><l>nehmen<s n="vblex"/></l>               <r>ta<s n="vblex"/></r></p></e>
-<e>       <p><l>sagen<s n="vblex"/></l>                <r>säga<s n="vblex"/></r></p></e>
-<e>       <p><l>schreiben<s n="vblex"/></l>            <r>skriva<s n="vblex"/></r></p></e>
-<e>       <p><l>sehen<s n="vblex"/></l>                <r>se<s n="vblex"/></r></p></e>
-<e>       <p><l>schlagen<s n="vblex"/></l>             <r>slå<s n="vblex"/></r></p></e>
-<e>       <p><l>spielen<s n="vblex"/></l>              <r>spela<s n="vblex"/></r></p></e>
-<e>       <p><l>stehen<s n="vblex"/></l>               <r>stå<s n="vblex"/></r></p></e>
-<e>       <p><l>versuchen<s n="vblex"/></l>            <r>försöka<s n="vblex"/></r></p></e>
-<e>       <p><l>wagen<s n="vblex"/></l>                <r>våga<s n="vblex"/></r></p></e>
+
 <e>       <p><l>absorbieren<s n="vblex"/></l>                <r>absorbera<s n="vblex"/></r></p></e>
 <e>       <p><l>adaptieren<s n="vblex"/></l>                <r>anpassa<s n="vblex"/></r></p></e>
 <e>       <p><l>adeln<s n="vblex"/></l>                <r>förädla<s n="vblex"/></r></p></e>
@@ -633,6 +544,109 @@
 <e>       <p><l>begraben<s n="vblex"/></l>                <r>begrava<s n="vblex"/></r></p></e>
 <e>       <p><l>behandeln<s n="vblex"/></l>                <r>behandla<s n="vblex"/></r></p></e>
 <e>       <p><l>benutzen<s n="vblex"/></l>                <r>använda<s n="vblex"/></r></p></e>
+
+
+
+
+<!-- end of the 500 words-->
+
+
+
+    <e><p><l>der<s n="det"/></l><r>en<s n="det"/></r></p></e>
+<e>       <p><l>Auge<s n="n"/><s n="nt"/></l>          <r>öga<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Stoff<s n="n"/><s n="m"/></l>          <r>tyg<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Stoff<s n="n"/><s n="m"/></l>          <r>material<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Flügel<s n="n"/><s n="m"/></l>          <r>vinge<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Flügel<s n="n"/><s n="m"/></l>          <r>flygel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abend<s n="n"/><s n="m"/></l>          <r>kväll<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Angst<s n="n"/><s n="f"/></l>          <r>rädsla<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Apfel<s n="n"/><s n="m"/></l>          <r>äpple<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Ball<s n="n"/><s n="m"/></l>          <r>boll<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ball<s n="n"/><s n="m"/></l>          <r>bal<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Arbeit<s n="n"/><s n="f"/></l>         <r>arbete<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Auto<s n="n"/><s n="nt"/></l>          <r>bil<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ball<s n="n"/><s n="m"/></l>           <r>boll<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ding<s n="n"/><s n="nt"/></l>          <r>sak<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Dorf<s n="n"/><s n="nt"/></l>          <r>by<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Esel<s n="n"/><s n="m"/></l>           <r>åsna<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Essen<s n="n"/><s n="nt"/></l>         <r>mat<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Frau<s n="n"/><s n="f"/></l>           <r>kvinna<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fahrrad<s n="n"/><s n="nt"/></l>       <r>cykel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Familie<s n="n"/><s n="f"/></l>        <r>familj<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Feld<s n="n"/><s n="nt"/></l>          <r>fält<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Schimmel<s n="n"/><s n="m"/></l>       <r>skimmel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Schimmel<s n="n"/><s n="m"/></l>       <r>mögel<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Feuer<s n="n"/><s n="nt"/></l>         <r>eld<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Flasche<s n="n"/><s n="f"/></l>        <r>flaska<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Hand<s n="n"/><s n="f"/></l>           <r>hand<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Haus<s n="n"/><s n="nt"/></l>          <r>hus<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Vase<s n="n"/><s n="f"/></l>           <r>vas<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Himmel<s n="n"/><s n="m"/></l>         <r>himmel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Herz<s n="n"/><s n="nt"/></l>          <r>hjärta<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Holz<s n="n"/><s n="nt"/></l>          <r>trä<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Hunger<s n="n"/><s n="m"/></l>         <r>hunger<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Hund<s n="n"/><s n="m"/></l>           <r>hund<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Junge<s n="n"/><s n="m"/></l>          <r>pojke<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Jahr<s n="n"/><s n="nt"/></l>          <r>år<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Kabine<s n="n"/><s n="f"/></l>         <r>hytt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Kind<s n="n"/><s n="nt"/></l>          <r>barn<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Mann<s n="n"/><s n="m"/></l>           <r>man<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mutter<s n="n"/><s n="f"/></l>         <r>mor<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Name<s n="n"/><s n="m"/></l>           <r>namn<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Nase<s n="n"/><s n="f"/></l>           <r>näsa<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Nacht<s n="n"/><s n="f"/></l>          <r>natt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Großmutter<s n="n"/><s n="f"/></l>     <r>mormor<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Sache<s n="n"/><s n="f"/></l>          <r>sak<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Schule<s n="n"/><s n="f"/></l>         <r>skola<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Schloss<s n="n"/><s n="nt"/></l>       <r>slott<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Schwester<s n="n"/><s n="f"/></l>      <r>syster<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Tag<s n="n"/><s n="m"/></l>            <r>dag<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Tür<s n="n"/><s n="f"/></l>            <r>dörr<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Uhr<s n="n"/><s n="f"/></l>            <r>klocka<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Vogel<s n="n"/><s n="m"/></l>          <r>fågel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Vater<s n="n"/><s n="m"/></l>          <r>far<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Wasser<s n="n"/><s n="nt"/></l>        <r>vatten<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Wald<s n="n"/><s n="m"/></l>           <r>skog<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Wurf<s n="n"/><s n="m"/></l>           <r>kast<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Wurf<s n="n"/><s n="m"/></l>           <r>kull<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fingerhut<s n="n"/><s n="m"/></l>      <r>fingerborg<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Fingerhut<s n="n"/><s n="m"/></l>      <r>fingerborgsblomma<s n="n"/><s n="ut"/></r></p></e>
+
+<e>       <p><l>Weg<s n="n"/><s n="m"/></l>            <r>väg<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Wiese<s n="n"/><s n="f"/></l>          <r>äng<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Zeit<s n="n"/><s n="f"/></l>           <r>tid<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Zeitung<s n="n"/><s n="f"/></l>        <r>tidning<s n="n"/><s n="ut"/></r></p></e>
+
+<e>       <p><l>bauen<s n="vblex"/></l>                <r>bygga<s n="vblex"/></r></p></e>
+<e>       <p><l>bekommen<s n="vblex"/></l>             <r>få<s n="vblex"/></r></p></e>
+<e>       <p><l>bleiben<s n="vblex"/></l>              <r>stanna<s n="vblex"/></r></p></e>
+<e>       <p><l>brauchen<s n="vblex"/></l>             <r>behöva<s n="vblex"/></r></p></e>
+<e>       <p><l>bringen<s n="vblex"/></l>              <r>föra<s n="vblex"/></r></p></e>
+<e>       <p><l>baden<s n="vblex"/></l>                <r>bada<s n="vblex"/></r></p></e>
+<e>       <p><l>denken<s n="vblex"/></l>               <r>tänka<s n="vblex"/></r></p></e>
+<e>       <p><l>essen<s n="vblex"/></l>                <r>äta<s n="vblex"/></r></p></e>
+<e>       <p><l>fahren<s n="vblex"/></l>               <r>köra<s n="vblex"/></r></p></e>
+<e>       <p><l>fallen<s n="vblex"/></l>               <r>falla<s n="vblex"/></r></p></e>
+<e>       <p><l>finden<s n="vblex"/></l>               <r>finna<s n="vblex"/></r></p></e>
+<e>       <p><l>geben<s n="vblex"/></l>                <r>ge<s n="vblex"/></r></p></e>
+<e>       <p><l>gehen<s n="vblex"/></l>                <r>gå<s n="vblex"/></r></p></e>
+<e>       <p><l>halten<s n="vblex"/></l>               <r>hålla<s n="vblex"/></r></p></e>
+<e>       <p><l>heißen<s n="vblex"/></l>               <r>heta<s n="vblex"/></r></p></e>
+<e>       <p><l>kauen<s n="vblex"/></l>                <r>tugga<s n="vblex"/></r></p></e>
+<e>       <p><l>kommen<s n="vblex"/></l>               <r>komma<s n="vblex"/></r></p></e>
+<e>       <p><l>kaufen<s n="vblex"/></l>               <r>köpa<s n="vblex"/></r></p></e>
+<e>       <p><l>laufen<s n="vblex"/></l>               <r>springa<s n="vblex"/></r></p></e>
+<e>       <p><l>liegen<s n="vblex"/></l>               <r>ligga<s n="vblex"/></r></p></e>
+<e>       <p><l>machen<s n="vblex"/></l>               <r>göra<s n="vblex"/></r></p></e>
+<e>       <p><l>nehmen<s n="vblex"/></l>               <r>ta<s n="vblex"/></r></p></e>
+<e>       <p><l>sagen<s n="vblex"/></l>                <r>säga<s n="vblex"/></r></p></e>
+<e>       <p><l>schreiben<s n="vblex"/></l>            <r>skriva<s n="vblex"/></r></p></e>
+<e>       <p><l>sehen<s n="vblex"/></l>                <r>se<s n="vblex"/></r></p></e>
+<e>       <p><l>schlagen<s n="vblex"/></l>             <r>slå<s n="vblex"/></r></p></e>
+<e>       <p><l>spielen<s n="vblex"/></l>              <r>spela<s n="vblex"/></r></p></e>
+<e>       <p><l>stehen<s n="vblex"/></l>               <r>stå<s n="vblex"/></r></p></e>
+<e>       <p><l>versuchen<s n="vblex"/></l>            <r>försöka<s n="vblex"/></r></p></e>
+<e>       <p><l>wagen<s n="vblex"/></l>                <r>våga<s n="vblex"/></r></p></e>
 
 
         
