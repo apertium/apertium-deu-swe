@@ -28,12 +28,6 @@
       <select lemma="hundöra" tags="n.*"/>
     </match>
   </rule>
-  <rule>
-    <match lemma="elektrisch"/>
-    <match lemma="Leiter" tags="n.*">
-      <select lemma="konduktor" tags="n.*"/>
-    </match>
-  </rule>
   <rule> 
     <match lemma="spielen"/> 
     <match/> 
