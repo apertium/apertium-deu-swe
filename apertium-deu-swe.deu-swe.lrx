@@ -52,15 +52,15 @@
     <match lemma="Schimmel"><select lemma="skimmel"/></match> 
   </rule> 
   <rule> 
-    <match lemma="gehen"/> 
+    <match lemma="spielen"/> 
     <match/> 
     <match/> 
-    <match lemma="Ball"><select lemma="bal"/></match> 
+    <match lemma="Ball"><select lemma="boll"/></match> 
   </rule> 
   <rule> 
-    <match lemma="benutzen"/> 
+    <match lemma="riechen"/> 
     <match/>  
-    <match lemma="Fingerhut"><select lemma="fingerborg"/></match> 
+    <match lemma="Fingerhut"><select lemma="fingerborgsblomma"/></match> 
   </rule> 
   <rule> 
     <match lemma="angeln"/> 
