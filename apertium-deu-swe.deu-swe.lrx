@@ -31,7 +31,7 @@
   <rule>
     <match lemma="elektrisch"/>
     <match lemma="Leiter" tags="n.*">
-      <select lemma="konduktör" tags="n.*"/>
+      <select lemma="konduktor" tags="n.*"/>
     </match>
   </rule>
   <rule> 
