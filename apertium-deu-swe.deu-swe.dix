@@ -1194,6 +1194,8 @@
 <e>       <p><l>Abendkleid<s n="n"/><s n="nt"/></l>         <r>aftonklänning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abendkurs<s n="n"/><s n="m"/></l>         <r>kvällskurs<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abendmahl<s n="n"/><s n="nt"/></l>         <r>kvällsmat<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Abendschule<s n="n"/><s n="f"/></l>         <r>aftonskola<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abendunterricht<s n="n"/><s n="m"/></l>         <r>kvällskurs<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abenteuer<s n="n"/><s n="nt"/></l>         <r>äventyr<s n="n"/><s n="nt"/></r></p></e>
@@ -1204,6 +1206,8 @@
 <e>       <p><l>Abgabe<s n="n"/><s n="f"/></l>         <r>leverans<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abgabedatum<s n="n"/><s n="nt"/></l>         <r>leveranstid<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abitur<s n="n"/><s n="nt"/></l>         <r>högstadium<s n="n"/><s n="nt"/></r></p></e>
+
+
 <e>       <p><l>Abkürzung<s n="n"/><s n="f"/></l>         <r>genväg<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ablativ<s n="n"/><s n="m"/></l>         <r>ablativ<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ablaut<s n="n"/><s n="m"/></l>         <r>avljud<s n="n"/><s n="nt"/></r></p></e>
@@ -1221,6 +1225,8 @@
 <e>       <p><l>Abschied<s n="n"/><s n="m"/></l>         <r>avsked<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Abschluss<s n="n"/><s n="m"/></l>         <r>slutförande<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Abschlussprüfung<s n="n"/><s n="f"/></l>         <r>slutprov<s n="n"/><s n="nt"/></r></p></e>
+
+
 <e>       <p><l>Abschnitt<s n="n"/><s n="m"/></l>         <r>avsnitt<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Absender<s n="n"/><s n="m"/></l>         <r>avsändare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Absolution<s n="n"/><s n="f"/></l>         <r>absolution<s n="n"/><s n="ut"/></r></p></e>
@@ -1228,10 +1234,12 @@
 <e>       <p><l>Abstand<s n="n"/><s n="m"/></l>         <r>avstånd<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Abstinenz<s n="n"/><s n="f"/></l>         <r>abstinens<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abstoßung<s n="n"/><s n="f"/></l>         <r>repulsion<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Abstraktion<s n="n"/><s n="m"/></l>         <r>abstraktion<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Abstraktion<s n="n"/><s n="f"/></l>         <r>abstraktion<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Absurdität<s n="n"/><s n="f"/></l>         <r>absurditet<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abteilung<s n="n"/><s n="f"/></l>         <r>avdelning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abwasser<s n="n"/><s n="nt"/></l>         <r>avloppsvatten<s n="n"/><s n="nt"/></r></p></e>
+
+
 <e>       <p><l>Abwehr<s n="n"/><s n="f"/></l>         <r>försvar<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Abweichung<s n="n"/><s n="f"/></l>         <r>avvikelse<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Abwesenheit<s n="n"/><s n="f"/></l>         <r>frånvaro<s n="n"/><s n="ut"/></r></p></e>
@@ -1244,7 +1252,7 @@
 <e>       <p><l>Anpassung<s n="n"/><s n="f"/></l>         <r>anpassning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Adapter<s n="n"/><s n="m"/></l>         <r>adapter<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Addition<s n="n"/><s n="f"/></l>         <r>tillsats<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Adjektiv<s n="n"/><s n="m"/></l>         <r>adjektiv<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Adjektiv<s n="n"/><s n="nt"/></l>         <r>adjektiv<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Administration<s n="n"/><s n="f"/></l>         <r>administrering<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Administrator<s n="n"/><s n="m"/></l>         <r>administratör<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Adressat<s n="n"/><s n="m"/></l>         <r>adressat<s n="n"/><s n="ut"/></r></p></e>
@@ -1253,6 +1261,8 @@
 <e>       <p><l>Advent<s n="n"/><s n="m"/></l>         <r>advent<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Advokat<s n="n"/><s n="m"/></l>         <r>advokat<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Aerodynamik<s n="n"/><s n="f"/></l>         <r>aerodynamik<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Affe<s n="n"/><s n="m"/></l>         <r>apa<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Affekt<s n="n"/><s n="m"/></l>         <r>påverkan<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Affinität<s n="n"/><s n="f"/></l>         <r>affinitet<s n="n"/><s n="ut"/></r></p></e>
@@ -1260,8 +1270,9 @@
 <e>       <p><l>Agglomeration<s n="n"/><s n="f"/></l>         <r>agglomerering<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Aggressivität<s n="n"/><s n="f"/></l>         <r>aggressivitet<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Agronomie<s n="n"/><s n="f"/></l>         <r>agronomi<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Ägyptologe<s n="n"/><s n="m"/></l>         <r>egyptolog<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ahne<s n="n"/><s n="m"/></l>         <r>förfader<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Airconditioning<s n="n"/><s n="nt"/></l>         <r>luftkonditionering<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Akkumulation<s n="n"/><s n="f"/></l>         <r>ackumulering<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Akkusativ<s n="n"/><s n="m"/></l>         <r>ackusativ<s n="n"/><s n="ut"/></r></p></e>
@@ -1270,6 +1281,8 @@
 <e>       <p><l>Akte<s n="n"/><s n="f"/></l>         <r>fil<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Aktienbesitzer<s n="n"/><s n="m"/></l>         <r>aktieägare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Aktienmarkt<s n="n"/><s n="m"/></l>         <r>aktiehandel<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Aktiva<s n="n"/><s n="f"/></l>         <r>tillgångar<s n="n"/><s n="un"/></r></p></e>
 <e>       <p><l>Aktivist<s n="n"/><s n="m"/></l>         <r>aktivist<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Aktivität<s n="n"/><s n="f"/></l>         <r>aktivitet<s n="n"/><s n="ut"/></r></p></e>
@@ -1281,10 +1294,13 @@
 <e>       <p><l>Alchemie<s n="n"/><s n="f"/></l>         <r>alkemi<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Alchimist<s n="n"/><s n="m"/></l>         <r>alkemist<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Algebra<s n="n"/><s n="f"/></l>         <r>algebra<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Algorithmus<s n="n"/><s n="m"/></l>         <r>algoritm<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Alkalimetall<s n="n"/><s n="nt"/></l>         <r>alkalimetall<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Alkohol<s n="n"/><s n="m"/></l>         <r>alkohol<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Alkoholiker<s n="n"/><s n="m"/></l>         <r>alkoholist<s n="n"/><s n="ut"/></r></p></e>
+
 <e>       <p><l>Alkoholismus<s n="n"/><s n="m"/></l>         <r>alkoholism<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Allergiker<s n="n"/><s n="m"/></l>         <r>allergiker<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Allesfresser<s n="n"/><s n="m"/></l>         <r>allätare<s n="n"/><s n="ut"/></r></p></e>
@@ -1297,6 +1313,8 @@
 <e>       <p><l>Alter<s n="n"/><s n="nt"/></l>         <r>ålder<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Alternative<s n="n"/><s n="f"/></l>         <r>alternativ<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Altersruhegeld<s n="n"/><s n="nt"/></l>         <r>ålderspension<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Aluminium<s n="n"/><s n="nt"/></l>         <r>aluminium<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Amateur<s n="n"/><s n="m"/></l>         <r>amatör<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ambiente<s n="n"/><s n="nt"/></l>         <r>atmosfär<s n="n"/><s n="ut"/></r></p></e>
@@ -1310,12 +1328,16 @@
 <e>       <p><l>Amphibie<s n="n"/><s n="f"/></l>         <r>amfibie<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Amphitheater<s n="n"/><s n="nt"/></l>         <r>amfiteater<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ampulle<s n="n"/><s n="f"/></l>         <r>ampull<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Amulett<s n="n"/><s n="nt"/></l>         <r>amulett<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Anachronismus<s n="n"/><s n="m"/></l>         <r>anakronism<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Anagramm<s n="n"/><s n="m"/></l>         <r>anagram<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Anagramm<s n="n"/><s n="nt"/></l>         <r>anagram<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Analogie<s n="n"/><s n="f"/></l>         <r>analogi<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Analyse<s n="n"/><s n="f"/></l>         <r>analys<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Analytiker<s n="n"/><s n="m"/></l>         <r>analytiker<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Anämie<s n="n"/><s n="f"/></l>         <r>anemi<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ananas<s n="n"/><s n="f"/></l>         <r>ananas<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Anarchie<s n="n"/><s n="f"/></l>         <r>anarki<s n="n"/><s n="ut"/></r></p></e>
@@ -1329,6 +1351,8 @@
 <e>       <p><l>Anerkennung<s n="n"/><s n="f"/></l>         <r>erkännande<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Anfall<s n="n"/><s n="m"/></l>         <r>beslag<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Anfänger<s n="n"/><s n="m"/></l>         <r>beginerå<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Ausgangspunkt<s n="n"/><s n="m"/></l>         <r>utgångspunkt<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Anforderung<s n="n"/><s n="f"/></l>         <r>krav<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Anführer<s n="n"/><s n="m"/></l>         <r>ledare<s n="n"/><s n="ut"/></r></p></e>
@@ -1342,6 +1366,8 @@
 <e>       <p><l>Ankläger<s n="n"/><s n="m"/></l>         <r>åklagare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ankleideraum<s n="n"/><s n="m"/></l>         <r>omklädningsrum<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Ankunft<s n="n"/><s n="f"/></l>         <r>ankomst<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Ankunftshalle<s n="n"/><s n="f"/></l>         <r>ankomsthall<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Anleger<s n="n"/><s n="m"/></l>         <r>investerare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Anmaßung<s n="n"/><s n="f"/></l>         <r>antagande<s n="n"/><s n="nt"/></r></p></e>
@@ -1359,6 +1385,8 @@
 <e>       <p><l>Anschaffung<s n="n"/><s n="f"/></l>         <r>förvärv<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Anschein<s n="n"/><s n="m"/></l>         <r>utseende<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Anschlagbrett<s n="n"/><s n="nt"/></l>         <r>anslagstavla<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Anschluss<s n="n"/><s n="m"/></l>         <r>förbindelse<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ansicht<s n="n"/><s n="f"/></l>         <r>vy<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ansichtskarte<s n="n"/><s n="f"/></l>         <r>vykort<s n="n"/><s n="nt"/></r></p></e>
@@ -1370,6 +1398,8 @@
 <e>       <p><l>Anstrengung<s n="n"/><s n="f"/></l>         <r>ansträngning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Anteil<s n="n"/><s n="m"/></l>         <r>andel<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Antenne<s n="n"/><s n="f"/></l>         <r>antenn<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Anthologie<s n="n"/><s n="f"/></l>         <r>antologi<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Anthropologe<s n="n"/><s n="m"/></l>         <r>antropolog<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Anthropologie<s n="n"/><s n="f"/></l>         <r>antropologi<s n="n"/><s n="ut"/></r></p></e>
@@ -1384,10 +1414,12 @@
 <e>       <p><l>Anwohner<s n="n"/><s n="m"/></l>         <r>invånare<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Anzahl<s n="n"/><s n="f"/></l>         <r>antal<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Anzeige<s n="n"/><s n="f"/></l>         <r>display<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Indikator<s n="n"/><s n="m"/></l>         <r>indikator<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Anziehung<s n="n"/><s n="f"/></l>         <r>attraktion<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Waggon<s n="n"/><s n="m"/></l>         <r>wagon<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Aapartheid<s n="n"/><s n="f"/></l>         <r>apartheid<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Apartheid<s n="n"/><s n="f"/></l>         <r>apartheid<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Apfelbaum<s n="n"/><s n="m"/></l>         <r>äppelträd<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Aphorismus<s n="n"/><s n="m"/></l>         <r>aforism<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Apokalypse<s n="n"/><s n="f"/></l>         <r>apokalyps<s n="n"/><s n="ut"/></r></p></e>
@@ -1399,6 +1431,8 @@
 <e>       <p><l>Apparat<s n="n"/><s n="m"/></l>         <r>apparat<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Appetit<s n="n"/><s n="m"/></l>         <r>aptit<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Apposition<s n="n"/><s n="f"/></l>         <r>apposition<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Aprikose<s n="n"/><s n="f"/></l>         <r>aprikos<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Aquarium<s n="n"/><s n="nt"/></l>         <r>akvarium<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Äquator<s n="n"/><s n="m"/></l>         <r>ekvator<s n="n"/><s n="ut"/></r></p></e>
@@ -1410,6 +1444,8 @@
 <e>       <p><l>Architekt<s n="n"/><s n="m"/></l>         <r>arkitekt<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Architektur<s n="n"/><s n="f"/></l>         <r>arkitektur<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Archiv<s n="n"/><s n="nt"/></l>         <r>arkiv<s n="n"/><s n="nt"/></r></p></e>
+
+
 <e>       <p><l>Areal<s n="n"/><s n="nt"/></l>         <r>areal<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Arena<s n="n"/><s n="f"/></l>         <r>arena<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ärger<s n="n"/><s n="m"/></l>         <r>ilska<s n="n"/><s n="ut"/></r></p></e>
@@ -1421,14 +1457,16 @@
 <e>       <p><l>Aristokratie<s n="n"/><s n="f"/></l>         <r>aristokrati<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Arkade<s n="n"/><s n="f"/></l>         <r>arkad<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Armlehne<s n="n"/><s n="f"/></l>         <r>armstöd<s n="n"/><s n="nt"/></r></p></e>
+
 <e>       <p><l>Armut<s n="n"/><s n="f"/></l>         <r>fattigdom<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Aroma<s n="n"/><s n="nt"/></l>         <r>arom<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Arrangement<s n="n"/><s n="nt"/></l>         <r>arrangemang<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Arroganz<s n="n"/><s n="f"/></l>         <r>arrogans<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Arsen<s n="n"/><s n="nt"/></l>         <r>arsenik<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Artikel<s n="n"/><s n="m"/></l>         <r>artikel<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Artikulation<s n="n"/><s n="m"/></l>         <r>artikulation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Artikulation<s n="n"/><s n="f"/></l>         <r>artikulation<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Artillerie<s n="n"/><s n="f"/></l>         <r>artilleri<s n="n"/><s n="nt"/></r></p></e>
+
 <e>       <p><l>Artillerist<s n="n"/><s n="m"/></l>         <r>artillerist<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Artist<s n="n"/><s n="m"/></l>         <r>artist<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Arzt<s n="n"/><s n="m"/></l>         <r>läkare<s n="n"/><s n="ut"/></r></p></e>
@@ -1439,9 +1477,9 @@
 <e>       <p><l>Aspirin<s n="n"/><s n="nt"/></l>         <r>aspirin<s n="n"/><s n="un"/></r></p></e>
 <e>       <p><l>Assistent<s n="n"/><s n="m"/></l>         <r>assistent<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Aster<s n="n"/><s n="f"/></l>         <r>aster<s n="n"/><s n="ut"/></r></p></e>
+
 <e>       <p><l>Asteroid<s n="n"/><s n="m"/></l>         <r>asteroid<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ästhetik<s n="n"/><s n="f"/></l>         <r>estetik<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Astma<s n="n"/><s n="nt"/></l>         <r>astma<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Astrologie<s n="n"/><s n="f"/></l>         <r>astrologi<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Astronaut<s n="n"/><s n="m"/></l>         <r>astronaut<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Astronom<s n="n"/><s n="m"/></l>         <r>astronom<s n="n"/><s n="ut"/></r></p></e>
@@ -1454,6 +1492,8 @@
 <e>       <p><l>Atmosphäre<s n="n"/><s n="f"/></l>         <r>atmosfär<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Atom<s n="n"/><s n="nt"/></l>         <r>atom<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Atombombe<s n="n"/><s n="f"/></l>         <r>atombomb<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Atomkern<s n="n"/><s n="m"/></l>         <r>atomkärna<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Atommasse<s n="n"/><s n="f"/></l>         <r>atommassa<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Atrium<s n="n"/><s n="nt"/></l>         <r>atrium<s n="n"/><s n="nt"/></r></p></e>
@@ -1479,13 +1519,15 @@
 <e>       <p><l>Ausland<s n="n"/><s n="nt"/></l>         <r>utland<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Ausländer<s n="n"/><s n="m"/></l>         <r>utlänning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Auslauf<s n="n"/><s n="m"/></l>         <r>utlopp<s n="n"/><s n="nt"/></r></p></e>
+
+
 <e>       <p><l>Ausrüstung<s n="n"/><s n="f"/></l>         <r>utrustning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ausscheidung<s n="n"/><s n="f"/></l>         <r>utsöndring<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Aussehen<s n="n"/><s n="nt"/></l>         <r>utseende<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Außenpolitik<s n="n"/><s n="f"/></l>         <r>utrikespolitik<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Aussichtspunkt<s n="n"/><s n="m"/></l>         <r>utsiktspunkt<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Aussprache<s n="n"/><s n="f"/></l>         <r>uttal<s n="n"/><s n="nt"/></r></p></e>
-<e>       <p><l>Ausstattung<s n="n"/><s n="m"/></l>         <r>utrustning<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ausstattung<s n="n"/><s n="f"/></l>         <r>utrustning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ausstellung<s n="n"/><s n="f"/></l>         <r>utställning<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Austausch<s n="n"/><s n="m"/></l>         <r>utbyte<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Auster<s n="n"/><s n="f"/></l>         <r>ostron<s n="n"/><s n="nt"/></r></p></e>
@@ -1495,9 +1537,11 @@
 <e>       <p><l>Autodidakt<s n="n"/><s n="m"/></l>         <r>autodidakt<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Autofabrik<s n="n"/><s n="f"/></l>         <r>bilfabrik<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Autofähre<s n="n"/><s n="f"/></l>         <r>bilfärja<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Automatisierung<s n="n"/><s n="m"/></l>         <r>automatisering<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Automatisierung<s n="n"/><s n="f"/></l>         <r>automatisering<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Autonomie<s n="n"/><s n="f"/></l>         <r>autonomi<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Autor<s n="n"/><s n="m"/></l>         <r>författare<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Autoreifen<s n="n"/><s n="m"/></l>         <r>däck<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Autounfall<s n="n"/><s n="m"/></l>         <r>bilolycka<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Avantgardist<s n="n"/><s n="m"/></l>         <r>avantgardist<s n="n"/><s n="ut"/></r></p></e>
@@ -1506,6 +1550,7 @@
 <e>       <p><l>Bachforelle<s n="n"/><s n="f"/></l>         <r>öring<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Bachsaibling<s n="n"/><s n="m"/></l>         <r>bäckröding<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Backblech<s n="n"/><s n="nt"/></l>         <r>bakplåt<s n="n"/><s n="ut"/></r></p></e>
+
 <e>       <p><l>Bäckerei<s n="n"/><s n="f"/></l>         <r>bageri<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Bacon<s n="n"/><s n="m"/></l>         <r>bacon<s n="n"/><s n="un"/></r></p></e>
 <e>       <p><l>Badeanzug<s n="n"/><s n="m"/></l>         <r>baddräkt<s n="n"/><s n="ut"/></r></p></e>
@@ -1520,6 +1565,8 @@
 <e>       <p><l>Ballast<s n="n"/><s n="m"/></l>         <r>ballast<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ballett<s n="n"/><s n="nt"/></l>         <r>balett<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Ballon<s n="n"/><s n="m"/></l>         <r>ballong<s n="n"/><s n="ut"/></r></p></e>
+
+
 <e>       <p><l>Balsam<s n="n"/><s n="m"/></l>         <r>balsam<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Bambus<s n="n"/><s n="m"/></l>         <r>bambu<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Bandage<s n="n"/><s n="f"/></l>         <r>bandage<s n="n"/><s n="ut"/></r></p></e>
@@ -1532,6 +1579,112 @@
 <e>       <p><l>Bariton<s n="n"/><s n="m"/></l>         <r>baryton<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>Barium<s n="n"/><s n="nt"/></l>         <r>barium<s n="n"/><s n="nt"/></r></p></e>
 <e>       <p><l>Baron<s n="n"/><s n="m"/></l>         <r>baron<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Barriere<s n="n"/><s n="f"/></l>         <r>barriär<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Barrikade<s n="n"/><s n="f"/></l>         <r>barrikad<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Bart<s n="n"/><s n="m"/></l>         <r>skägg<s n="n"/><s n="nt"/></r></p></e>
+
+
+<e>       <p><l>Basar<s n="n"/><s n="m"/></l>         <r>basar<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Baseball<s n="n"/><s n="m"/></l>         <r>baseboll<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Basilika<s n="n"/><s n="f"/></l>         <r>basilika<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Basis<s n="n"/><s n="f"/></l>         <r>basis<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gabe<s n="n"/><s n="f"/></l>         <r>present<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gabel<s n="n"/><s n="f"/></l>         <r>gaffel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gage<s n="n"/><s n="f"/></l>         <r>lön<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Galaxie<s n="n"/><s n="f"/></l>         <r>galax<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Galerie<s n="n"/><s n="f"/></l>         <r>galleri<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Galione<s n="n"/><s n="f"/></l>         <r>galjon<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Galionsfigur<s n="n"/><s n="f"/></l>         <r>galjonsfigur<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gallenblase<s n="n"/><s n="f"/></l>         <r>gallblåsa<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gangart<s n="n"/><s n="f"/></l>         <r>gångart<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gangster<s n="n"/><s n="m"/></l>         <r>gangster<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gänsehaut<s n="n"/><s n="f"/></l>         <r>gåshud<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gans<s n="n"/><s n="f"/></l>         <r>gås<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Ganzton<s n="n"/><s n="m"/></l>         <r>helton<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Garage<s n="n"/><s n="f"/></l>         <r>garage<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Garderobe<s n="n"/><s n="f"/></l>         <r>garderob<s n="n"/><s n="ut"/></r></p></e>
+
+
+<e>       <p><l>Garn<s n="n"/><s n="nt"/></l>         <r>garn<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gartenbohne<s n="n"/><s n="f"/></l>         <r>skärböna<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gasmaske<s n="n"/><s n="f"/></l>         <r>gasmask<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gasometer<s n="n"/><s n="m"/></l>         <r>gasometer<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gast<s n="n"/><s n="m"/></l>         <r>gäst<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gästebuch<s n="n"/><s n="nt"/></l>         <r>gästbok<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gastronomie<s n="n"/><s n="f"/></l>         <r>gastronomi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gazelle<s n="n"/><s n="f"/></l>         <r>gasell<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gebiet<s n="n"/><s n="nt"/></l>         <r>område<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gebot<s n="n"/><s n="nt"/></l>         <r>bud<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gebrauchswert<s n="n"/><s n="m"/></l>         <r>bruksvärde<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gebühr<s n="n"/><s n="f"/></l>         <r>avgift<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geburtstag<s n="n"/><s n="m"/></l>         <r>födelsedag<s n="n"/><s n="ut"/></r></p></e>
+
+
+<e>       <p><l>Gedächtnis<s n="n"/><s n="nt"/></l>         <r>minne<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gedächtnisgottesdienst<s n="n"/><s n="m"/></l>         <r>minnesgudstjänst<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gedächtnisverlust<s n="n"/><s n="m"/></l>         <r>minnesförlust<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gedanke<s n="n"/><s n="m"/></l>         <r>tanke<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gedränge<s n="n"/><s n="nt"/></l>         <r>trängsel<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geduld<s n="n"/><s n="f"/></l>         <r>tålamod<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gefahr<s n="n"/><s n="f"/></l>         <r>fara<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gefangene<s n="n"/><s n="m"/></l>         <r>fånge<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gefangenschaft<s n="n"/><s n="f"/></l>         <r>fångenskap<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gefängnis<s n="n"/><s n="nt"/></l>         <r>fängelse<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Geflügel<s n="n"/><s n="nt"/></l>         <r>fängelsestraff<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Geflügel<s n="n"/><s n="nt"/></l>         <r>fjäderfä<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gegend<s n="n"/><s n="f"/></l>         <r>område<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gegenleistung<s n="n"/><s n="f"/></l>         <r>motprestation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gegenmittel<s n="n"/><s n="nt"/></l>         <r>motgift<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gegenspieler<s n="n"/><s n="m"/></l>         <r>motståndare<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gegner<s n="n"/><s n="m"/></l>         <r>motståndare<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gehaltsempfänger<s n="n"/><s n="m"/></l>         <r>löntagare<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gehaltserhöhung<s n="n"/><s n="f"/></l>         <r>löneökning<s n="n"/><s n="ut"/></r></p></e>
+
+<e>       <p><l>Gehirn<s n="n"/><s n="nt"/></l>         <r>hjärna<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gehorsam<s n="n"/><s n="m"/></l>         <r>lydnad<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geige<s n="n"/><s n="f"/></l>         <r>violin<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gelbsucht<s n="n"/><s n="f"/></l>         <r>gulsot<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gelegenheit<s n="n"/><s n="f"/></l>         <r>möjlighet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geltung<s n="n"/><s n="f"/></l>         <r>giltighet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gemäuer<s n="n"/><s n="nt"/></l>         <r>murverk<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gemeinheit<s n="n"/><s n="f"/></l>         <r>gemenhet<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Gemisch<s n="n"/><s n="nt"/></l>         <r>blandning<s n="n"/><s n="ut"/></r></p></e>
+
+
+<e>       <p><l>Gene<s n="n"/><s n="f"/></l>         <r>gen<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Genehmigung<s n="n"/><s n="f"/></l>         <r>godkännande<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Generaldirektor<s n="n"/><s n="m"/></l>         <r>generaldirektör<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Generalgouverneur<s n="n"/><s n="m"/></l>         <r>generalguvernör<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Generalsekretär<s n="n"/><s n="m"/></l>         <r>generalsekreterare<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Generalstab<s n="n"/><s n="m"/></l>         <r>generalstab<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Generation<s n="n"/><s n="f"/></l>         <r>generation<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Genetik<s n="n"/><s n="f"/></l>         <r>genetik<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Genetiker<s n="n"/><s n="m"/></l>         <r>genetiker<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Genitiv<s n="n"/><s n="m"/></l>         <r>genitiv<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Genotyp<s n="n"/><s n="m"/></l>         <r>genotyp<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geochemie<s n="n"/><s n="f"/></l>         <r>geokemi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geochronologie<s n="n"/><s n="f"/></l>         <r>geokronologi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geograf<s n="n"/><s n="m"/></l>         <r>geograf<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geografie<s n="n"/><s n="f"/></l>         <r>geografi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geologe<s n="n"/><s n="m"/></l>         <r>geolog<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geologie<s n="n"/><s n="f"/></l>         <r>geologi<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geometrie<s n="n"/><s n="f"/></l>         <r>geometri<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geophysik<s n="n"/><s n="f"/></l>         <r>geofysik<s n="n"/><s n="ut"/></r></p></e>
+
+<e>       <p><l>Gepäck<s n="n"/><s n="nt"/></l>         <r>bagage<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gerechtigkeit<s n="n"/><s n="f"/></l>         <r>rättvisa<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geruch<s n="n"/><s n="m"/></l>         <r>lukt<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geruchssinn<s n="n"/><s n="m"/></l>         <r>luktsinne<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gerundium<s n="n"/><s n="nt"/></l>         <r>gerundium<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Grundschule<s n="n"/><s n="f"/></l>         <r>grundskola<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geschäft<s n="n"/><s n="nt"/></l>         <r>affär<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geschäftsbrief<s n="n"/><s n="m"/></l>         <r>affärsbrev<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Geschäftsviertel<s n="n"/><s n="nt"/></l>         <r>affärskvarter<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Geschäftsmann<s n="n"/><s n="m"/></l>         <r>affärsman<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Geschirrspüler<s n="n"/><s n="m"/></l>         <r>diskmaskin<s n="n"/><s n="ut"/></r></p></e>
+
+
+
 
 
 
