@@ -28,6 +28,7 @@
     <sdef n="preadv" 	c="Pre-adverb"/> 
     <sdef n="np"  	    c="Proper noun"/>
     <sdef n="un" /> 
+    <sdef n="ant" />  
     <sdef n="det"       c="Determiner"/>
     <sdef n="prn" 	c="Pronoun"/>
     <sdef n="num"       c="Number"/>
@@ -776,6 +777,7 @@
 
 
 <e>       <p><l>und<s n="cnjcoo"/></l>                 <r>och<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>obwohl<s n="cnjcoo"/></l>                 <r>fast<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>noch<s n="cnjcoo"/></l>                <r>ännu<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>oder<s n="cnjcoo"/></l>                <r>eller<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>aber<s n="cnjcoo"/></l>                <r>men<s n="cnjcoo"/></r></p></e>
@@ -1166,7 +1168,8 @@
 		
 
 <e>       <p><l>nie<s n="adv"/></l>                    <r>aldrig<s n="adv"/></r></p></e>
-<e>       <p><l>dann<s n="adv"/></l>                   <r>sedan<s n="adv"/></r></p></e>
+<e>       <p><l>wo<s n="adv"/></l>                    <r>var<s n="adv"/></r></p></e>
+<e>       <p><l>seit<s n="adv"/></l>                   <r>sedan<s n="adv"/></r></p></e>
 <e>       <p><l>lieber<s n="adv"/></l>                 <r>hellre<s n="adv"/></r></p></e>
 <e>       <p><l>manchmal<s n="adv"/></l>               <r>ibland<s n="adv"/></r></p></e>
 <e>       <p><l>drin<s n="adv"/></l>                   <r>inne<s n="adv"/></r></p></e>
@@ -1687,8 +1690,25 @@
 
 
 
+
+
+
+<e>       <p><l>Wetter<s n="n"/><s n="nt"/></l>         <r>väder<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gepäck<s n="n"/><s n="nt"/></l>         <r>bagage<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Gepäck<s n="n"/><s n="nt"/></l>         <r>bagage<s n="n"/><s n="nt"/></r></p></e>
+
+
+
+<e><p><l>i<b/>dag<s n="adv"/></l><r>heute<s n="adv"/></r></p></e>
+<e><p><l>i<b/>går<s n="adv"/></l><r>gestern<s n="adv"/></r></p></e>
+
 <e>       <p><l>warm<s n="adj"/></l>                   <r>varm<s n="adj"/></r></p></e>
+<e>       <p><l>kalt<s n="adj"/></l>                   <r>kall<s n="adj"/></r></p></e>
+
 <e>       <p><l>draußen<s n="adv"/></l>                <r>utomhus<s n="adv"/></r></p></e>
+<e>       <p><l>da<s n="adv"/></l>                <r>då<s n="adv"/></r></p></e>
+<e>       <p><l>im<s n="pr"/></l>                <r>i<s n="pr"/></r></p></e>
+<e>       <p><l>zu<s n="pr"/></l>                <r>att<s n="pr"/></r></p></e>
 <e>       <p><l>gestern<s n="adv"/></l>                <r>igår<s n="adv"/></r></p></e>
 <e>       <p><l>sehr<s n="adv"/></l>                   <r>väldigt<s n="adv"/></r></p></e>
 <e>       <p><l>warum<s n="adv"/></l>                  <r>varför<s n="adv"/></r></p></e>
@@ -1700,10 +1720,12 @@
 <e>       <p><l>sechs<s n="num"/></l>                  <r>sex<s n="num"/></r></p></e>
 <e>       <p><l>irgendein<s n="prn"/></l>              <r>någon<s n="prn"/></r></p></e>
 <e>       <p><l>schlafen<s n="vblex"/></l>             <r>sova<s n="vblex"/></r></p></e>
+<e>       <p><l>lieben<s n="vblex"/></l>             <r>älska<s n="vblex"/></r></p></e>
 <e>       <p><l>spielen<s n="vblex"/></l>              <r>leka<s n="vblex"/></r></p></e>
 <e>       <p><l>verstecken<s n="vblex"/></l>           <r>gömma<s n="vblex"/></r></p></e>
 
 		
-
+<e>       <p><l>James<s n="np"/><s n="ant"/><s n="m"/></l><r>James<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e>       <p><l>Mary<s n="np"/><s n="ant"/><s n="f"/></l><r>Mary<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
   </section>
 </dictionary>
