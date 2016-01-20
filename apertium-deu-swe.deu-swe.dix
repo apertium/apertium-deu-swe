@@ -18,17 +18,19 @@
     <sdef n="vblex" 	c="Lexical verb"/> 
     <sdef n="vbmod" 	c="Modal verb"/> 
     <sdef n="vaux" 	c="Auxiliary verb"/> 
-    <sdef n="vbhaver" 	c="have"/> 
-    <sdef n="vbser" 	c="be"/> 
+    <sdef n="vbhaver" 	c="Verb 'to have'"/>
+    <sdef n="vbser" 	c="Verb 'to be'"/>
     <sdef n="adj" 	c="Adjective"/> 
     <sdef n="adv" 	c="Adverb"/> 
     <sdef n="cnjcoo" 	c="Co-ordinating conjunction"/> 
     <sdef n="cnjsub" 	c="Sub-ordinating conjunction"/> 
     <sdef n="pr" 	c="Preposition"/> 
     <sdef n="preadv" 	c="Pre-adverb"/> 
-    <sdef n="np" /> 
+    <sdef n="np"  	    c="Proper noun"/>
     <sdef n="un" /> 
-    <sdef n="det" /> 
+    <sdef n="det"       c="Determiner"/>
+    <sdef n="prn" 	c="Pronoun"/>
+    <sdef n="num"       c="Number"/>
   </sdefs>
   <section id="main" type="standard">
 
@@ -1685,10 +1687,21 @@
 
 
 
-
-
-
-
+<e>       <p><l>warm<s n="adj"/></l>                   <r>varm<s n="adj"/></r></p></e>
+<e>       <p><l>draußen<s n="adv"/></l>                <r>utomhus<s n="adv"/></r></p></e>
+<e>       <p><l>gestern<s n="adv"/></l>                <r>igår<s n="adv"/></r></p></e>
+<e>       <p><l>sehr<s n="adv"/></l>                   <r>väldigt<s n="adv"/></r></p></e>
+<e>       <p><l>warum<s n="adv"/></l>                  <r>varför<s n="adv"/></r></p></e>
+<e>       <p><l>wo<s n="adv"/></l>                     <r>var<s n="adv"/></r></p></e>
+<e>       <p><l>Fenster<s n="n"/><s n="nt"/></l>       <r>fönster<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Garten<s n="n"/><s n="m"/></l>         <r>trädgård<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Mädchen<s n="n"/><s n="nt"/></l>       <r>flicka<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>fünf<s n="num"/></l>                   <r>fem<s n="num"/></r></p></e>
+<e>       <p><l>sechs<s n="num"/></l>                  <r>sex<s n="num"/></r></p></e>
+<e>       <p><l>irgendein<s n="prn"/></l>              <r>någon<s n="prn"/></r></p></e>
+<e>       <p><l>schlafen<s n="vblex"/></l>             <r>sova<s n="vblex"/></r></p></e>
+<e>       <p><l>spielen<s n="vblex"/></l>              <r>leka<s n="vblex"/></r></p></e>
+<e>       <p><l>verstecken<s n="vblex"/></l>           <r>gömma<s n="vblex"/></r></p></e>
 
 		
 
