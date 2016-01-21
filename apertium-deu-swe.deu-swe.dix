@@ -28,13 +28,13 @@
     <sdef n="preadv" 	c="Pre-adverb"/> 
     <sdef n="np"  	    c="Proper noun"/>
     <sdef n="un" /> 
-    <sdef n="ij" />  
     <sdef n="ant" />  
     <sdef n="pos" />  
     <sdef n="det"       c="Determiner"/>
     <sdef n="prn" 	c="Pronoun"/>
     <sdef n="num"       c="Number"/>
   </sdefs>
+
   <section id="main" type="standard">
 
 
@@ -1721,8 +1721,8 @@
 <!-- nuboros improve vocab-->
 
 <e>	  <p><l>sein<s n="det"/><s n="pos"/></l><r>hans<s n="det"/><s n="pos"/></r></p></e>
-<e>	  <p><l>sein<s n="det"/><s n="pos"/></l><r>hans<s n="det"/><s n="pos"/></r></p></e>		
 <e>       <p><l>schauen<s n="vblex"/></l>           <r>titta<s n="vblex"/></r></p></e>
+<e>       <p><l>lachen<s n="vblex"/></l>           <r>skratta<s n="vblex"/></r></p></e>
 <e>       <p><l>aufhören<s n="vblex"/></l>           <r>sluta<s n="vblex"/></r></p></e>
 <e>       <p><l>kontrollieren<s n="vblex"/></l>           <r>kolla<s n="vblex"/></r></p></e>
 <e>       <p><l>zählen<s n="vblex"/></l>           <r>räkna<s n="vblex"/></r></p></e>
@@ -1737,7 +1737,6 @@
 <e>	  <p><l>gestern<s n="adv"/></l><r>i<b/>går<s n="adv"/></r></p></e>
 <e>       <p><l>klein<s n="adj"/></l>                   <r>liten<s n="adj"/></r></p></e>
 <e>       <p><l>nah<s n="adj"/></l>                   <r>nära<s n="adj"/></r></p></e>
-<e>       <p><l>nein<s n="adv"/></l>                   <r>nej<s n="ij"/></r></p></e>
 <e>       <p><l>innen<s n="adv"/></l>                   <r>inuti<s n="adv"/></r></p></e>
 <e>       <p><l>schnell<s n="adv"/></l>                   <r>snabbt<s n="adv"/></r></p></e>
 <e>       <p><l>wohin<s n="adv"/></l>                   <r>vart<s n="adv"/></r></p></e>
@@ -1747,8 +1746,12 @@
 <e>       <p><l>zu<s n="pr"/></l>                <r>att<s n="pr"/></r></p></e>
 <e>       <p><l>sig<s n="pr"/></l>                <r>sig<s n="pr"/></r></p></e>
 <e>       <p><l>Fenster<s n="n"/><s n="nt"/></l>         <r>fönster<s n="n"/><s n="ut"/></r></p></e>
-<e>       <p><l>Frage<s n="n"/><s n="f"/></l>         <r>fråga<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Decke<s n="n"/><s n="f"/></l>         <r>tak<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Decke<s n="n"/><s n="f"/></l>         <r>täcke<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Frage<s n="n"/><s n="f"/></l>         <r>fråga<s n="n"/><s n="nt"/></r></p></e>
+<e>       <p><l>Leute<s n="n"/><s n="nt"/></l>         <r>folk<s n="n"/><s n="ut"/></r></p></e>
 <e>       <p><l>warm<s n="adj"/></l>                   <r>varm<s n="adj"/></r></p></e>
+<e>       <p><l>obere<s n="adj"/></l>                   <r>övre<s n="adj"/></r></p></e>
 <e>       <p><l>kalt<s n="adj"/></l>                   <r>kall<s n="adj"/></r></p></e>
 <e>       <p><l>Spiel<s n="n"/><s n="nt"/></l>         <r>lek<s n="n"/><s n="ut"/></r></p></e>
 

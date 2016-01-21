@@ -65,7 +65,16 @@
     <match/> 
     <match/> 
     <match lemma="Angel"><select lemma="fiskespö"/></match> 
+  </rule>
+
+<!-- improvement rule nuboro -->
+ <rule> 
+    <match lemma="obere"/> 
+    <match lemma="Decke"><select lemma="tak"/></match> 
   </rule> 
+
+
+
 </rules>
 
 <!-- 
