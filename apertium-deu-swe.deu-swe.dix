@@ -28,6 +28,7 @@
     <sdef n="preadv" 	c="Pre-adverb"/> 
     <sdef n="np"  	    c="Proper noun"/>
     <sdef n="un" /> 
+    <sdef n="ij" />  
     <sdef n="ant" />  
     <sdef n="pos" />  
     <sdef n="det"       c="Determiner"/>
@@ -1693,22 +1694,12 @@
 
 
 
-<e>       <p><l>Wetter<s n="n"/><s n="nt"/></l>         <r>väder<s n="n"/><s n="nt"/></r></p></e>
 
-    <e><p><l>sie<s n="prn"/></l><r>de<s n="prn"/></r></p></e>
-    <e><p><l>sie<s n="prn"/></l><r>hon<s n="prn"/></r></p></e>
-    <e><p><l>er<s n="prn"/></l><r>han<s n="prn"/></r></p></e>
 
-<e><p><l>heute<s n="adv"/></l><r>i<b/>dag<s n="adv"/></r></p></e>
-<e><p><l>gestern<s n="adv"/></l><r>i<b/>går<s n="adv"/></r></p></e>
 
-<e>       <p><l>warm<s n="adj"/></l>                   <r>varm<s n="adj"/></r></p></e>
-<e>       <p><l>kalt<s n="adj"/></l>                   <r>kall<s n="adj"/></r></p></e>
-<e>       <p><l>klein<s n="adj"/></l>                   <r>liten<s n="adj"/></r></p></e>
+
 <e>       <p><l>draußen<s n="adv"/></l>                <r>utomhus<s n="adv"/></r></p></e>
 <e>       <p><l>da<s n="adv"/></l>                <r>då<s n="adv"/></r></p></e>
-<e>       <p><l>im<s n="pr"/></l>                <r>i<s n="pr"/></r></p></e>
-<e>       <p><l>zu<s n="pr"/></l>                <r>att<s n="pr"/></r></p></e>
 <e>       <p><l>gestern<s n="adv"/></l>                <r>igår<s n="adv"/></r></p></e>
 <e>       <p><l>sehr<s n="adv"/></l>                   <r>väldigt<s n="adv"/></r></p></e>
 <e>       <p><l>warum<s n="adv"/></l>                  <r>varför<s n="adv"/></r></p></e>
@@ -1724,10 +1715,43 @@
 <e>       <p><l>spielen<s n="vblex"/></l>              <r>leka<s n="vblex"/></r></p></e>
 <e>       <p><l>verstecken<s n="vblex"/></l>           <r>gömma<s n="vblex"/></r></p></e>
 
-    <e><p><l>sein<s n="det"/><s n="pos"/></l><r>hans<s n="det"/><s n="pos"/></r></p></e>
-		
+
+
+
+<!-- nuboros improve vocab-->
+
+<e>	  <p><l>sein<s n="det"/><s n="pos"/></l><r>hans<s n="det"/><s n="pos"/></r></p></e>
+<e>	  <p><l>sein<s n="det"/><s n="pos"/></l><r>hans<s n="det"/><s n="pos"/></r></p></e>		
+<e>       <p><l>schauen<s n="vblex"/></l>           <r>titta<s n="vblex"/></r></p></e>
+<e>       <p><l>aufhören<s n="vblex"/></l>           <r>sluta<s n="vblex"/></r></p></e>
+<e>       <p><l>kontrollieren<s n="vblex"/></l>           <r>kolla<s n="vblex"/></r></p></e>
+<e>       <p><l>zählen<s n="vblex"/></l>           <r>räkna<s n="vblex"/></r></p></e>
+<e>	  <p><l>ihre<s n="det"/><s n="pos"/></l><r>deras<s n="det"/><s n="pos"/></r></p></e>
 <e>       <p><l>James<s n="np"/><s n="ant"/><s n="m"/></l><r>James<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Mary<s n="np"/><s n="ant"/><s n="f"/></l><r>Mary<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e>       <p><l>Wetter<s n="n"/><s n="nt"/></l>         <r>väder<s n="n"/><s n="nt"/></r></p></e>
+<e>	  <p><l>sie<s n="prn"/></l><r>de<s n="prn"/></r></p></e>
+<e>	  <p><l>sie<s n="prn"/></l><r>hon<s n="prn"/></r></p></e>
+<e>	  <p><l>er<s n="prn"/></l><r>han<s n="prn"/></r></p></e>
+<e>	  <p><l>heute<s n="adv"/></l><r>i<b/>dag<s n="adv"/></r></p></e>
+<e>	  <p><l>gestern<s n="adv"/></l><r>i<b/>går<s n="adv"/></r></p></e>
+<e>       <p><l>klein<s n="adj"/></l>                   <r>liten<s n="adj"/></r></p></e>
+<e>       <p><l>nah<s n="adj"/></l>                   <r>nära<s n="adj"/></r></p></e>
+<e>       <p><l>nein<s n="adv"/></l>                   <r>nej<s n="ij"/></r></p></e>
+<e>       <p><l>innen<s n="adv"/></l>                   <r>inuti<s n="adv"/></r></p></e>
+<e>       <p><l>schnell<s n="adv"/></l>                   <r>snabbt<s n="adv"/></r></p></e>
+<e>       <p><l>wohin<s n="adv"/></l>                   <r>vart<s n="adv"/></r></p></e>
+<e>       <p><l>als<s n="adv"/></l>                   <r>när<s n="adv"/></r></p></e>
+<e>       <p><l>natürlich<s n="adv"/></l>                   <r>naturligtvis<s n="adv"/></r></p></e>
+<e>       <p><l>im<s n="pr"/></l>                <r>i<s n="pr"/></r></p></e>
+<e>       <p><l>zu<s n="pr"/></l>                <r>att<s n="pr"/></r></p></e>
+<e>       <p><l>sig<s n="pr"/></l>                <r>sig<s n="pr"/></r></p></e>
+<e>       <p><l>Fenster<s n="n"/><s n="nt"/></l>         <r>fönster<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>Frage<s n="n"/><s n="f"/></l>         <r>fråga<s n="n"/><s n="ut"/></r></p></e>
+<e>       <p><l>warm<s n="adj"/></l>                   <r>varm<s n="adj"/></r></p></e>
+<e>       <p><l>kalt<s n="adj"/></l>                   <r>kall<s n="adj"/></r></p></e>
+<e>       <p><l>Spiel<s n="n"/><s n="nt"/></l>         <r>lek<s n="n"/><s n="ut"/></r></p></e>
+
 
 
 
