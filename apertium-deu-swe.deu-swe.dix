@@ -1693,13 +1693,9 @@
 
 
 
-
-
-
-
-
 <e>       <p><l>draußen<s n="adv"/></l>                <r>utomhus<s n="adv"/></r></p></e>
-<e>       <p><l>da<s n="adv"/></l>                <r>då<s n="adv"/></r></p></e>
+<e>       <p><l>da<s n="adv"/></l>                     <r>då<s n="adv"/></r></p></e>
+<e>       <p><l>da<s n="cnjsub"/></l>                  <r>då<s n="cnjsub"/></r></p></e>
 <e>       <p><l>gestern<s n="adv"/></l>                <r>igår<s n="adv"/></r></p></e>
 <e>       <p><l>sehr<s n="adv"/></l>                   <r>väldigt<s n="adv"/></r></p></e>
 <e>       <p><l>warum<s n="adv"/></l>                  <r>varför<s n="adv"/></r></p></e>
@@ -1711,10 +1707,31 @@
 <e>       <p><l>sechs<s n="num"/></l>                  <r>sex<s n="num"/></r></p></e>
 <e>       <p><l>irgendein<s n="prn"/></l>              <r>någon<s n="prn"/></r></p></e>
 <e>       <p><l>schlafen<s n="vblex"/></l>             <r>sova<s n="vblex"/></r></p></e>
-<e>       <p><l>lieben<s n="vblex"/></l>             <r>älska<s n="vblex"/></r></p></e>
+<e>       <p><l>lieben<s n="vblex"/></l>               <r>älska<s n="vblex"/></r></p></e>
 <e>       <p><l>spielen<s n="vblex"/></l>              <r>leka<s n="vblex"/></r></p></e>
 <e>       <p><l>verstecken<s n="vblex"/></l>           <r>gömma<s n="vblex"/></r></p></e>
 
+<e>       <p><l>null<s n="num"/></l>                   <r>noll<s n="num"/></r></p></e>
+<e>       <p><l>eins<s n="num"/></l>                   <r>en<s n="num"/></r></p></e>
+<e>       <p><l>zwei<s n="num"/></l>                   <r>två<s n="num"/></r></p></e>
+<e>       <p><l>drei<s n="num"/></l>                   <r>tre<s n="num"/></r></p></e>
+<e>       <p><l>vier<s n="num"/></l>                   <r>fyra<s n="num"/></r></p></e>
+<e>       <p><l>fünf<s n="num"/></l>                   <r>fem<s n="num"/></r></p></e>
+<e>       <p><l>sechs<s n="num"/></l>                  <r>sex<s n="num"/></r></p></e>
+<e>       <p><l>sieben<s n="num"/></l>                 <r>sju<s n="num"/></r></p></e>
+<e>       <p><l>acht<s n="num"/></l>                   <r>åtta<s n="num"/></r></p></e>
+<e>       <p><l>neun<s n="num"/></l>                   <r>nio<s n="num"/></r></p></e>
+<e>       <p><l>zehn<s n="num"/></l>                   <r>tio<s n="num"/></r></p></e>
+<e>       <p><l>elf<s n="num"/></l>                    <r>elva<s n="num"/></r></p></e>
+<e>       <p><l>zwölf<s n="num"/></l>                  <r>tolv<s n="num"/></r></p></e>
+<e>       <p><l>dreizehn<s n="num"/></l>               <r>tretton<s n="num"/></r></p></e>
+<e>       <p><l>vierzehn<s n="num"/></l>               <r>fjorton<s n="num"/></r></p></e>
+<e>       <p><l>fünfzehn<s n="num"/></l>               <r>femton<s n="num"/></r></p></e>
+<e>       <p><l>sechzehn<s n="num"/></l>               <r>sexton<s n="num"/></r></p></e>
+<e>       <p><l>siebzehn<s n="num"/></l>               <r>sjutton<s n="num"/></r></p></e>
+<e>       <p><l>achtzehn<s n="num"/></l>               <r>aderton<s n="num"/></r></p></e>
+<e>       <p><l>neunzehn<s n="num"/></l>               <r>nitton<s n="num"/></r></p></e>
+<e>       <p><l>zwanzig<s n="num"/></l>                <r>tjugo<s n="num"/></r></p></e>
 
 
 
