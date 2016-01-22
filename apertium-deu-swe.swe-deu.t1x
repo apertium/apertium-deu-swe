@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
+
   <section-def-cats>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
+    </def-cat>
+    <def-cat n="det">
+      <cat-item tags="det.*"/>
     </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
@@ -11,15 +15,36 @@
       <cat-item tags="vblex.*"/>
       <cat-item tags="vbmod.*"/>
       <cat-item tags="vbser.*"/>
-
-
     </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
-    <def-attr n="a_cas">
-      <attr-item tags="nom"/>
-    </def-attr>
+		<def-attr n="a_det">
+			<attr-item tags="det"/>
+		</def-attr>
+		<def-attr n="a_gen">			<!-- Gender -->
+			<attr-item tags="m"/>
+			<attr-item tags="f"/>
+			<attr-item tags="nt"/>
+			<attr-item tags="mf"/>
+			<attr-item tags="mfn"/>
+		</def-attr>
+		<def-attr n="a_nbr">			<!-- Number -->
+			<attr-item tags="sg"/>
+			<attr-item tags="pl"/>
+			<attr-item tags="sp"/>
+		</def-attr>
+		<def-attr n="a_cas">			<!-- Case -->
+			<attr-item tags="nom"/>
+			<attr-item tags="gen"/>
+			<attr-item tags="dat"/>
+			<attr-item tags="acc"/>
+		</def-attr>
+		<def-attr n="a_pers">			<!-- Person -->
+			<attr-item tags="p1"/>
+			<attr-item tags="p2"/>
+			<attr-item tags="p3"/>
+		</def-attr>
   </section-def-attrs>
 
   <section-def-vars>
@@ -53,8 +78,9 @@
         </out>
       </action>
     </rule>
+
   <rule comment="RULE: conjugate verbs">
-          <pattern>
+      <pattern>
         <pattern-item n="nom"/>
         <pattern-item n="verb"/>
       </pattern>
@@ -86,6 +112,40 @@
         </out>
       </action>
     </rule>
+
+
+		<rule comment="REGLA: DET NOM">
+			<pattern>
+				<pattern-item n="det"/>
+				<pattern-item n="nom"/>
+			</pattern>
+			<action>
+				<out>
+					<chunk name="det_nom">
+						<tags>
+							<tag><lit-tag v="NP"/></tag>
+							<tag><clip pos="2" side="tl" part="a_gen"/></tag>
+							<tag><clip pos="2" side="tl" part="a_nbr"/></tag>
+						</tags>
+						<lu>
+							<clip pos="1" side="tl" part="lem"/>
+							<clip pos="1" side="tl" part="a_det"/>
+							<clip pos="2" side="tl" part="a_gen"/>
+							<clip pos="2" side="tl" part="a_nbr"/>
+							<clip pos="2" side="tl" part="a_cas"/>
+						</lu>
+						<b pos="1"/>
+						<lu>
+							<clip pos="2" side="tl" part="lem"/>
+							<clip pos="2" side="tl" part="a_nom"/>
+							<clip pos="2" side="tl" part="a_gen"/>
+							<clip pos="2" side="tl" part="a_nbr"/>
+							<clip pos="2" side="tl" part="a_cas"/>
+						</lu>
+					</chunk>
+				</out>
+			</action>
+		</rule>
 
   </section-rules>
 </transfer>
