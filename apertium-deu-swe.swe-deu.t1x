@@ -120,32 +120,32 @@
 				<pattern-item n="nom"/>
 			</pattern>
 			<action>
-				<out>
-					<chunk name="det_nom">
-						<tags>
-							<tag><lit-tag v="NP"/></tag>
-							<tag><clip pos="2" side="tl" part="a_gen"/></tag>
-							<tag><clip pos="2" side="tl" part="a_nbr"/></tag>
-						</tags>
-						<lu>
-							<clip pos="1" side="tl" part="lem"/>
-							<clip pos="1" side="tl" part="a_det"/>
-							<clip pos="2" side="tl" part="a_gen"/>
-							<clip pos="2" side="tl" part="a_nbr"/>
-							<clip pos="2" side="tl" part="a_cas"/>
-						</lu>
-						<b pos="1"/>
-						<lu>
-							<clip pos="2" side="tl" part="lem"/>
-							<clip pos="2" side="tl" part="a_nom"/>
-							<clip pos="2" side="tl" part="a_gen"/>
-							<clip pos="2" side="tl" part="a_nbr"/>
-							<clip pos="2" side="tl" part="a_cas"/>
-						</lu>
-					</chunk>
-				</out>
-			</action>
-		</rule>
+		          <out>
+			    <chunk name="det_nom">
+				<tags>
+				  <tag><lit-tag v="NP"/></tag>
+				  <tag><clip pos="2" side="tl" part="a_gen"/></tag>
+		         	  <tag><clip pos="2" side="tl" part="a_nbr"/></tag>
+			 	</tags>
+				  <lu>
+				    <clip pos="1" side="tl" part="lem"/>
+			            <clip pos="1" side="tl" part="a_det"/>
+				    <clip pos="2" side="tl" part="a_gen"/>
+				    <clip pos="2" side="tl" part="a_nbr"/>
+				    <clip pos="2" side="tl" part="a_cas"/>
+				  </lu>
+				   <b pos="1"/>
+				  <lu>
+				    <clip pos="2" side="tl" part="lem"/>
+				    <clip pos="2" side="tl" part="a_nom"/>
+				    <clip pos="2" side="tl" part="a_gen"/>
+				    <clip pos="2" side="tl" part="a_nbr"/>
+				    <clip pos="2" side="tl" part="a_cas"/>
+				  </lu>
+			        </chunk>
+			      </out>
+			    </action>
+		          </rule>
 
   </section-rules>
 </transfer>
