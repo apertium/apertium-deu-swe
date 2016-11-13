@@ -7,11 +7,43 @@
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
+    <def-cat n="det_def">
+      <cat-item tags="det.def.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
+    </def-attr>
+    <def-attr n="type_mot">
+      <attr-item tags="n"/>
+      <attr-item tags="det"/>
+      <attr-item tags="adj"/>
+      <attr-item tags="vblex"/>
+      <attr-item tags="pr"/>
+      <attr-item tags="np"/>
+    </def-attr>
+   <def-attr n="gender">
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="nt"/>
+      <attr-item tags="mf"/>
+      <attr-item tags="mfn"/>
+      <attr-item tags="ut"/>
+      <attr-item tags="un"/>
+    </def-attr>
+   <def-attr n="numerus">
+       <attr-item tags="sg"/>
+       <attr-item tags="pl"/>
+       <attr-item tags="sp"/>
+    </def-attr>
+
+    <def-attr n="kasus">
+      <attr-item tags="nom"/>
+      <attr-item tags="gen"/>
+      <attr-item tags="dat"/>
+      <attr-item tags="acc"/>
     </def-attr>
   </section-def-attrs>
 
@@ -43,6 +75,33 @@
               <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+   <rule comment="RULE: DET(DEF) NOM">
+      <pattern>
+        <pattern-item n="det_def"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="DET-NOM" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="type_mot"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="tl" part="numerus"/>
+            <lit-tag v="def"/>
+            <clip pos="2" side="tl" part="kasus"/>
+            <lit-tag v="compound-R"/>
+          </lu>
+	</chunk>
         </out>
       </action>
     </rule>
