@@ -1691,8 +1691,6 @@
 <e>       <p><l>Geschirrspüler<s n="n"/><s n="m"/></l>         <r>diskmaskin<s n="n"/><s n="ut"/></r></p></e>
 
 
-
-
 <e>       <p><l>draußen<s n="adv"/></l>                <r>utomhus<s n="adv"/></r></p></e>
 <e>       <p><l>da<s n="adv"/></l>                     <r>då<s n="adv"/></r></p></e>
 <e>       <p><l>da<s n="cnjsub"/></l>                  <r>då<s n="cnjsub"/></r></p></e>
@@ -1774,7 +1772,7 @@
 <e>       <p><l>ungefähr<s n="adv"/></l>                   <r>omkring<s n="adv"/></r></p></e>
 <e>       <p><l>darüber<s n="adv"/></l>                   <r>ovanför<s n="adv"/></r></p></e>
 <e>       <p><l>auf<s n="adv"/></l>                   <r>jämsides<s n="adv"/></r></p></e>
-<e>       <p><l>i<s n="adv"/></l>                   <r>utomlands<s n="adv"/></r></p></e>
+<e>       <p><l>draußen<s n="adv"/></l>                   <r>utomlands<s n="adv"/></r></p></e>
 <e>       <p><l>dementsprechend<s n="adv"/></l>                   <r>därmed<s n="adv"/></r></p></e>
 <e>       <p><l>eigentlich<s n="adv"/></l>                   <r>faktiskt<s n="adv"/></r></p></e>
 <e>       <p><l>hinterher<s n="adv"/></l>                   <r>efter<s n="adv"/></r></p></e>
@@ -1807,7 +1805,7 @@
 <e>       <p><l>beiseite<s n="adv"/></l>                   <r>avsides<s n="adv"/></r></p></e>
 <e>       <p><l>schief<s n="adv"/></l>                   <r>misstroget<s n="adv"/></r></p></e>
 <e>       <p><l>rittlings<s n="adv"/></l>                   <r>grensle<s n="adv"/></r></p></e>
-<e>       <p><l>i<s n="adv"/></l>                   <r>sönder<s n="adv"/></r></p></e>
+<e>       <p><l>kaputt<s n="adv"/></l>                   <r>sönder<s n="adv"/></r></p></e>
 <e>       <p><l>weg<s n="adv"/></l>                   <r>borta<s n="adv"/></r></p></e>
 <e>       <p><l>weg<s n="adv"/></l>                   <r>bort<s n="adv"/></r></p></e>
 <e>       <p><l>zurück<s n="adv"/></l>                   <r>tillbaka<s n="adv"/></r></p></e>
@@ -1815,7 +1813,7 @@
 <e>       <p><l>rückwärts<s n="adv"/></l>                   <r>sen<s n="adv"/></r></p></e>
 <e>       <p><l>rückwärts<s n="adv"/></l>                   <r>baklänges<s n="adv"/></r></p></e>
 <e>       <p><l>barfuß<s n="adv"/></l>                   <r>barfota<s n="adv"/></r></p></e>
-<e>       <p><l>i<s n="adv"/></l>                   <r>egentligen<s n="adv"/></r></p></e>
+<e>       <p><l>eigentlich<s n="adv"/></l>                   <r>egentligen<s n="adv"/></r></p></e>
 <e>       <p><l>zuvor<s n="adv"/></l>                   <r>förut<s n="adv"/></r></p></e>
 <e>       <p><l>zuvor<s n="adv"/></l>                   <r>förr<s n="adv"/></r></p></e>
 <e>       <p><l>zuvor<s n="adv"/></l>                   <r>innan<s n="adv"/></r></p></e>
@@ -1823,12 +1821,12 @@
 <e>       <p><l>hinten<s n="adv"/></l>                   <r>bakom<s n="adv"/></r></p></e>
 <e>       <p><l>unten<s n="adv"/></l>                   <r>nedanför<s n="adv"/></r></p></e>
 <e>       <p><l>außerdem<s n="adv"/></l>                   <r>förresten<s n="adv"/></r></p></e>
-<e>       <p><l>a<s n="adv"/></l>                   <r>bäst<s n="adv"/></r></p></e>
+<e>       <p><l>am besten<s n="adv"/></l>                   <r>bäst<s n="adv"/></r></p></e>
 <e>       <p><l>beizeiten<s n="adv"/></l>                   <r>tidigt<s n="adv"/></r></p></e>
 <e>       <p><l>besser<s n="adv"/></l>                   <r>bättre<s n="adv"/></r></p></e>
 <e>       <p><l>beide<s n="adv"/></l>                   <r>båda<s n="adv"/></r></p></e>
 <e>       <p><l>längs<s n="adv"/></l>                   <r>av<s n="adv"/></r></p></e>
-<e>       <p><l>i<s n="adv"/></l>                   <r>medsols<s n="adv"/></r></p></e>
+<e>       <p><l>im<b/>Uhrzeigersinn<s n="adv"/></l>                   <r>medsols<s n="adv"/></r></p></e>
 <e>       <p><l>kreu<s n="adv"/></l>                   <r>här<s n="adv"/></r></p></e>
 <e>       <p><l>kreuzweise<s n="adv"/></l>                   <r>korsvis<s n="adv"/></r></p></e>
 <e>       <p><l>täglich<s n="adv"/></l>                   <r>dagligen<s n="adv"/></r></p></e>
@@ -1853,7 +1851,7 @@
 <e>       <p><l>erstens<s n="adv"/></l>                   <r>först<s n="adv"/></r></p></e>
 <e>       <p><l>direkt<s n="adv"/></l>                   <r>direkt<s n="adv"/></r></p></e>
 <e>       <p><l>dafür<s n="adv"/></l>                   <r>för<s n="adv"/></r></p></e>
-<e>       <p><l>fü<s n="adv"/></l>                   <r>alltid<s n="adv"/></r></p></e>
+<e>       <p><l>immer<s n="adv"/></l>                   <r>alltid<s n="adv"/></r></p></e>
 <e>       <p><l>forte<s n="adv"/></l>                   <r>forte<s n="adv"/></r></p></e>
 <e>       <p><l>sofort<s n="adv"/></l>                   <r>omedelbart<s n="adv"/></r></p></e>
 <e>       <p><l>sofort<s n="adv"/></l>                   <r>genast<s n="adv"/></r></p></e>
@@ -1863,20 +1861,20 @@
 <e>       <p><l>völlig<s n="adv"/></l>                   <r>full<s n="adv"/></r></p></e>
 <e>       <p><l>de<s n="adv"/></l>                   <r>vidare<s n="adv"/></r></p></e>
 <e>       <p><l>weiterhin<s n="adv"/></l>                   <r>dessutom<s n="adv"/></r></p></e>
-<e>       <p><l>i<s n="adv"/></l>                   <r>allmänt<s n="adv"/></r></p></e>
-<e>       <p><l>i<s n="adv"/></l>                   <r>generellt<s n="adv"/></r></p></e>
+<e>       <p><l>allgemein<s n="adv"/></l>                   <r>allmänt<s n="adv"/></r></p></e>
+<e>       <p><l>hauptsächlich<s n="adv"/></l>                   <r>generellt<s n="adv"/></r></p></e>
 <e>       <p><l>halbwegs<s n="adv"/></l>                   <r>halvvägs<s n="adv"/></r></p></e>
 <e>       <p><l>daher<s n="adv"/></l>                   <r>därför<s n="adv"/></r></p></e>
 <e>       <p><l>künftig<s n="adv"/></l>                   <r>hädanefter<s n="adv"/></r></p></e>
 <e>       <p><l>hiermit<s n="adv"/></l>                   <r>härmed<s n="adv"/></r></p></e>
-<e>       <p><l>i<s n="adv"/></l>                   <r>efterföljande<s n="adv"/></r></p></e>
+<e>       <p><l>anschließend<s n="adv"/></l>                   <r>efterföljande<s n="adv"/></r></p></e>
 <e>       <p><l>sehr<s n="adv"/></l>                   <r><s n="adv"/></r></p></e>
 <e>       <p><l>hierher<s n="adv"/></l>                   <r>hit<s n="adv"/></r></p></e>
-<e>       <p><l>bi<s n="adv"/></l>                   <r>hittills<s n="adv"/></r></p></e>
+<e>       <p><l>bisher<s n="adv"/></l>                   <r>hittills<s n="adv"/></r></p></e>
 <e>       <p><l>heim<s n="adv"/></l>                   <r>hem<s n="adv"/></r></p></e>
-<e>       <p><l>wi<s n="adv"/></l>                   <r>hursomhelst<s n="adv"/></r></p></e>
-<e>       <p><l>wi<s n="adv"/></l>                   <r>däremot<s n="adv"/></r></p></e>
-<e>       <p><l>wi<s n="adv"/></l>                   <r>emellertid<s n="adv"/></r></p></e>
+<e>       <p><l>immerhin<s n="adv"/></l>                   <r>hursomhelst<s n="adv"/></r></p></e>
+<e>       <p><l>hingegen<s n="adv"/></l>                   <r>däremot<s n="adv"/></r></p></e>
+<e>       <p><l>allerdings<s n="adv"/></l>                   <r>emellertid<s n="adv"/></r></p></e>
 <e>       <p><l>drinnen<s n="adv"/></l>                   <r>inne<s n="adv"/></r></p></e>
 <e>       <p><l>hinein<s n="adv"/></l>                   <r>in<s n="adv"/></r></p></e>
 <e>       <p><l>zunehmend<s n="adv"/></l>                   <r>alltmer<s n="adv"/></r></p></e>
@@ -1891,7 +1889,7 @@
 <e>       <p><l>spät<s n="adv"/></l>                   <r>sen<s n="adv"/></r></p></e>
 <e>       <p><l>später<s n="adv"/></l>                   <r>senare<s n="adv"/></r></p></e>
 <e>       <p><l>später<s n="adv"/></l>                   <r>framöver<s n="adv"/></r></p></e>
-<e>       <p><l>a<s n="adv"/></l>                   <r>minst<s n="adv"/></r></p></e>
+<e>       <p><l>mindestens<s n="adv"/></l>                   <r>minst<s n="adv"/></r></p></e>
 <e>       <p><l>weniger<s n="adv"/></l>                   <r>mindre<s n="adv"/></r></p></e>
 <e>       <p><l>wie<s n="adv"/></l>                   <r>som<s n="adv"/></r></p></e>
 <e>       <p><l>ebenfalls<s n="adv"/></l>                   <r>likväl<s n="adv"/></r></p></e>
@@ -1907,7 +1905,7 @@
 <e>       <p><l>meistens<s n="adv"/></l>                   <r>mest<s n="adv"/></r></p></e>
 <e>       <p><l>meistens<s n="adv"/></l>                   <r>mestadels<s n="adv"/></r></p></e>
 <e>       <p><l>viel<s n="adv"/></l>                   <r>mycket<s n="adv"/></r></p></e>
-<e>       <p><l>un<s n="adv"/></l>                   <r>nämligen<s n="adv"/></r></p></e>
+<e>       <p><l>nämlich<s n="adv"/></l>                   <r>nämligen<s n="adv"/></r></p></e>
 <e>       <p><l>nah<s n="adv"/></l>                   <r>nästan<s n="adv"/></r></p></e>
 <e>       <p><l>nebenan<s n="adv"/></l>                   <r><s n="adv"/></r></p></e>
 <e>       <p><l>beinahe<s n="adv"/></l>                   <r>nästan<s n="adv"/></r></p></e>
@@ -1937,7 +1935,6 @@
 <e>       <p><l>nac<s n="adv"/></l>                   <r>utvärtes<s n="adv"/></r></p></e>
 <e>       <p><l>vorbei<s n="adv"/></l>                   <r>förbi<s n="adv"/></r></p></e>
 <e>       <p><l>allzu<s n="adv"/></l>                   <r>alltför<s n="adv"/></r></p></e>
-<e>       <p><l>i<s n="adv"/></l>                   <r>utomlands<s n="adv"/></r></p></e>
 <e>       <p><l>teilweise<s n="adv"/></l>                   <r>delvis<s n="adv"/></r></p></e>
 <e>       <p><l>vielleicht<s n="adv"/></l>                   <r>kanske<s n="adv"/></r></p></e>
 <e>       <p><l>piano<s n="adv"/></l>                   <r>piano<s n="adv"/></r></p></e>
