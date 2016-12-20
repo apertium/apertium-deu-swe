@@ -4,11 +4,20 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="adv">
+      <cat-item tags="adv.*"/>
+    </def-cat>
+    <def-cat n="pr">
+      <cat-item tags="pr.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
     <def-cat n="det_def">
       <cat-item tags="det.def.*"/>
+    </def-cat>
+    <def-cat n="det_ind">
+      <cat-item tags="det.ind.*"/>
     </def-cat>
   </section-def-cats>
 
@@ -20,6 +29,7 @@
       <attr-item tags="n"/>
       <attr-item tags="det"/>
       <attr-item tags="adj"/>
+      <attr-item tags="adv"/>
       <attr-item tags="vblex"/>
       <attr-item tags="pr"/>
       <attr-item tags="np"/>
@@ -44,6 +54,11 @@
       <attr-item tags="gen"/>
       <attr-item tags="dat"/>
       <attr-item tags="acc"/>
+    </def-attr>
+    <def-attr n="type_det">
+      <attr-item tags="ind"/>
+      <attr-item tags="pos"/>
+      <attr-item tags="qnt"/>
     </def-attr>
   </section-def-attrs>
 
@@ -79,8 +94,122 @@
       </action>
     </rule>
 
+   <rule comment="RULE: NOM">
+      <pattern>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="NOM" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+            <clip pos="1" side="tl" part="gender"/>
+            <clip pos="1" side="sl" part="numerus"/>
+            <lit-tag v="ind"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
+
+   <rule comment="RULE: ADV">
+      <pattern>
+        <pattern-item n="adv"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="adv" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
+   <rule comment="RULE: PR">
+      <pattern>
+        <pattern-item n="pr"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="pr" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
 
 
+   <rule comment="RULE: DET(DEF) NOM">
+      <pattern>
+        <pattern-item n="det_def"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="DET-NOM" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="type_mot"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="sl" part="numerus"/>
+            <lit-tag v="def"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
+   <rule comment="RULE: DET(IND) NOM">
+      <pattern>
+        <pattern-item n="det_ind"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="DET-NOM" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+            <clip pos="1" side="tl" part="type_det"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="tl" part="numerus"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="type_mot"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="sl" part="numerus"/>
+            <clip pos="1" side="sl" part="type_det"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+<!--
    <rule comment="RULE: DET(DEF) NOM">
       <pattern>
         <pattern-item n="det_def"/>
@@ -105,6 +234,7 @@
         </out>
       </action>
     </rule>
+-->
   </section-rules>
 </transfer>
 
