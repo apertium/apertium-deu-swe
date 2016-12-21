@@ -7,6 +7,12 @@
     <def-cat n="adv">
       <cat-item tags="adv.*"/>
     </def-cat>
+    <def-cat n="prn">
+      <cat-item tags="prn.*"/>
+    </def-cat>
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
+    </def-cat>
     <def-cat n="pr">
       <cat-item tags="pr.*"/>
     </def-cat>
@@ -18,6 +24,10 @@
     </def-cat>
     <def-cat n="det_ind">
       <cat-item tags="det.ind.*"/>
+    </def-cat>
+    <def-cat n="verb_pri">
+      <cat-item tags="vblex.pri.*"/>
+      <cat-item tags="vblex.prs.*"/>
     </def-cat>
   </section-def-cats>
 
@@ -33,6 +43,7 @@
       <attr-item tags="vblex"/>
       <attr-item tags="pr"/>
       <attr-item tags="np"/>
+      <attr-item tags="prn"/>
     </def-attr>
    <def-attr n="gender">
       <attr-item tags="m"/>
@@ -42,6 +53,38 @@
       <attr-item tags="mfn"/>
       <attr-item tags="ut"/>
       <attr-item tags="un"/>
+    </def-attr>
+   <def-attr n="person">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+    </def-attr>
+   <def-attr n="verb_tense">
+      <attr-item tags="pres"/>
+      <attr-item tags="pret"/>
+      <attr-item tags="past"/>
+      <attr-item tags="pp"/>
+      <attr-item tags="pp2"/>
+      <attr-item tags="pp3"/>
+      <attr-item tags="pprs"/>
+      <attr-item tags="ger"/>
+      <attr-item tags="pri"/>
+      <attr-item tags="supn"/>
+      <attr-item tags="pii"/>
+      <attr-item tags="fti"/>
+      <attr-item tags="plu"/>
+      <attr-item tags="pmp"/>
+      <attr-item tags="prs"/>
+      <attr-item tags="pis"/>
+      <attr-item tags="ifi"/>
+    </def-attr>
+  <def-attr n="verb_mode">
+      <attr-item tags="neg"/>
+      <attr-item tags="itg"/>
+      <attr-item tags="aff"/>
+      <attr-item tags="cni"/>
+      <attr-item tags="inf"/>
+      <attr-item tags="imp"/>
     </def-attr>
    <def-attr n="numerus">
        <attr-item tags="sg"/>
@@ -59,6 +102,13 @@
       <attr-item tags="ind"/>
       <attr-item tags="pos"/>
       <attr-item tags="qnt"/>
+      <attr-item tags="dem"/>
+    </def-attr>
+    <def-attr n="type_prn">
+      <attr-item tags="pers"/>
+    </def-attr>
+    <def-attr n="type_adj">
+      <attr-item tags="sint"/>
     </def-attr>
   </section-def-attrs>
 
@@ -134,6 +184,7 @@
         </out>
       </action>
     </rule>
+
    <rule comment="RULE: PR">
       <pattern>
         <pattern-item n="pr"/>
@@ -147,6 +198,55 @@
           <lu>
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="type_mot"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
+
+
+   <rule comment="RULE: PRN">
+      <pattern>
+        <pattern-item n="prn"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="prn" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+            <clip pos="1" side="tl" part="type_prn"/>
+            <clip pos="1" side="tl" part="person"/>
+            <lit-tag v="ut"/>
+            <clip pos="1" side="tl" part="numerus"/>
+            <clip pos="1" side="tl" part="kasus"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
+
+   <rule comment="RULE: VERB">
+      <pattern>
+        <pattern-item n="verb_pri"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="verb" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/> 
+            <lit-tag v="pres"/>
+            <lit-tag v="actv"/>
           </lu>
 	</chunk>
         </out>
@@ -207,7 +307,124 @@
       </action>
     </rule>
 
+   <rule comment="RULE: DET(IND) ADJ NOM"> <!-- pst-->
+      <pattern>
+        <pattern-item n="det_ind"/>
+        <pattern-item n="adj"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="DET-ADJ-NOM" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+            <clip pos="1" side="tl" part="type_det"/>
+            <clip pos="3" side="tl" part="gender"/>
+            <clip pos="3" side="tl" part="numerus"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="type_mot"/>
+            <clip pos="2" side="tl" part="type_adj"/>
+            <lit-tag v="pst"/>
+            <clip pos="3" side="tl" part="gender"/>
+            <clip pos="3" side="tl" part="numerus"/>
+            <clip pos="1" side="sl" part="type_det"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="3" side="tl" part="lem"/>
+            <clip pos="3" side="tl" part="type_mot"/>
+            <clip pos="3" side="tl" part="gender"/>
+            <clip pos="3" side="sl" part="numerus"/>
+            <clip pos="1" side="sl" part="type_det"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
 
+   <rule comment="RULE:ADJ NOM"> <!-- pst-->
+      <pattern>
+        <pattern-item n="adj"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="ADJ-NOM" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+            <clip pos="1" side="tl" part="type_adj"/>
+            <lit-tag v="pst"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="tl" part="numerus"/>
+            <lit-tag v="ind"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="type_mot"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="sl" part="numerus"/>
+            <lit-tag v="ind"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
+
+
+   <rule comment="RULE: DET(DEF) ADJ NOM"> <!-- pst-->
+      <pattern>
+        <pattern-item n="det_def"/>
+        <pattern-item n="adj"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+         <chunk name="DET-ADJ-NOM" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+            <lit-tag v="dem"/>
+            <clip pos="3" side="tl" part="gender"/>
+            <clip pos="3" side="tl" part="numerus"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="type_mot"/>
+            <clip pos="2" side="tl" part="type_adj"/>
+            <lit-tag v="pst"/>
+            <lit-tag v="fn"/>
+            <clip pos="3" side="tl" part="numerus"/>
+            <lit-tag v="def"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="3" side="tl" part="lem"/>
+            <clip pos="3" side="tl" part="type_mot"/>
+            <clip pos="3" side="tl" part="gender"/>
+            <clip pos="3" side="sl" part="numerus"/>
+            <lit-tag v="def"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
 
 <!--
    <rule comment="RULE: DET(DEF) NOM">
