@@ -27,7 +27,17 @@
     </def-cat>
     <def-cat n="verb_pri">
       <cat-item tags="vblex.pri.*"/>
-      <cat-item tags="vblex.prs.*"/>
+    </def-cat>
+    <def-cat n="verb">
+      <cat-item tags="vblex.*"/>
+      <cat-item tags="vblex"/>
+      <cat-item tags="vbser.*"/>
+    </def-cat>
+    <def-cat n="vblex_pp">
+      <cat-item tags="vblex.pp"/>
+    </def-cat>
+    <def-cat n="vbhaver">
+      <cat-item tags="vbhaver.*"/>
     </def-cat>
   </section-def-cats>
 
@@ -41,6 +51,7 @@
       <attr-item tags="adj"/>
       <attr-item tags="adv"/>
       <attr-item tags="vblex"/>
+      <attr-item tags="vbser"/>
       <attr-item tags="pr"/>
       <attr-item tags="np"/>
       <attr-item tags="prn"/>
@@ -60,23 +71,19 @@
       <attr-item tags="p3"/>
     </def-attr>
    <def-attr n="verb_tense">
-      <attr-item tags="pres"/>
-      <attr-item tags="pret"/>
-      <attr-item tags="past"/>
-      <attr-item tags="pp"/>
-      <attr-item tags="pp2"/>
-      <attr-item tags="pp3"/>
-      <attr-item tags="pprs"/>
-      <attr-item tags="ger"/>
-      <attr-item tags="pri"/>
-      <attr-item tags="supn"/>
-      <attr-item tags="pii"/>
-      <attr-item tags="fti"/>
-      <attr-item tags="plu"/>
-      <attr-item tags="pmp"/>
-      <attr-item tags="prs"/>
-      <attr-item tags="pis"/>
-      <attr-item tags="ifi"/>
+
+	<attr-item tags="pri"/>
+	<attr-item tags="pii"/>
+	<attr-item tags="prs"/>
+	<attr-item tags="pis"/>
+	<attr-item tags="pres"/>
+	<attr-item tags="past"/>
+	<attr-item tags="inf"/>
+	<attr-item tags="imp"/>
+	<attr-item tags="pprs"/>
+	<attr-item tags="pp"/>
+	<attr-item tags="ito"/>
+
     </def-attr>
   <def-attr n="verb_mode">
       <attr-item tags="neg"/>
@@ -106,6 +113,7 @@
     </def-attr>
     <def-attr n="type_prn">
       <attr-item tags="pers"/>
+      <attr-item tags="ref"/>
     </def-attr>
     <def-attr n="type_adj">
       <attr-item tags="sint"/>
@@ -114,6 +122,9 @@
 
   <section-def-vars>
     <def-var n="number"/>
+    <def-var n="v_tense"/>
+    <def-var n="prn_gender"/>
+    <def-var n="prn_gender2"/>
   </section-def-vars>
 
   <section-def-macros>
@@ -123,9 +134,186 @@
             <lit v=""/>
           </let>
     </def-macro>
+<def-macro n="set_tense" npar="1">
+			<choose>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" side="tl" part="verb_tense"/>
+							<lit-tag v="prs"/>
+						</equal>
+					</test>
+					<let>
+						<var n="v_tense"/>
+						<lit-tag v="pres"/>
+					</let>
+				</when>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" side="tl" part="verb_tense"/>
+							<lit-tag v="pri"/>
+						</equal>
+					</test>
+					<let>
+						<var n="v_tense"/>
+						<lit-tag v="pres"/>
+					</let>
+				</when>
+				<otherwise>
+					<let>
+						<var n="v_tense"/>
+						<clip pos="1" side="tl" part="a_tense"/>
+					</let>
+				</otherwise>
+			</choose>
+		</def-macro>
+<def-macro n="set_gender_prn" npar="1">
+			<choose>
+				<when>
+					<test>
+           <and>
+						<equal>
+							<clip pos="1" side="tl" part="gender"/>
+							<lit-tag v="mf"/>
+						</equal>
+						<equal>
+							<clip pos="1" side="tl" part="type_prn"/>
+							<lit-tag v="ref"/>
+						</equal>
+           </and>
+					</test>
+					<let>
+						<var n="prn_gender"/>
+						<lit-tag v="un"/>
+					</let>
+				</when>
+				<when>
+					<test>
+           <and>
+						<equal>
+							<clip pos="1" side="tl" part="gender"/>
+							<lit-tag v="mf"/>
+						</equal>
+						<equal>
+							<clip pos="1" side="tl" part="numerus"/>
+							<lit-tag v="pl"/>
+						</equal>
+           </and>
+					</test>
+					<let>
+						<var n="prn_gender"/>
+						<lit-tag v="un"/>
+					</let>
+				</when>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" side="tl" part="gender"/>
+							<lit-tag v="mf"/>
+						</equal>
+					</test>
+					<let>
+						<var n="prn_gender"/>
+						<lit-tag v="ut"/>
+					</let>
+				</when>
+				<otherwise>
+					<let>
+						<var n="prn_gender"/>
+						<clip pos="1" side="tl" part="gender"/>
+					</let>
+				</otherwise>
+			</choose>
+		</def-macro>
+<def-macro n="set_gender_prn2" npar="1">
+			<choose>
+				<when>
+					<test>
+           <and>
+						<equal>
+							<clip pos="1" side="tl" part="gender"/>
+							<lit-tag v="mf"/>
+						</equal>
+						<equal>
+							<clip pos="1" side="tl" part="type_prn"/>
+							<lit-tag v="ref"/>
+						</equal>
+           </and>
+					</test>
+					<let>
+						<var n="prn_gender2"/>
+						<lit-tag v="un"/>
+					</let>
+				</when>
+				<when>
+					<test>
+           <and>
+						<equal>
+							<clip pos="1" side="tl" part="gender"/>
+							<lit-tag v="mf"/>
+						</equal>
+						<equal>
+							<clip pos="1" side="tl" part="numerus"/>
+							<lit-tag v="pl"/>
+						</equal>
+           </and>
+					</test>
+					<let>
+						<var n="prn_gender2"/>
+						<lit-tag v="un"/>
+					</let>
+				</when>
+				<when>
+					<test>
+						<equal>
+							<clip pos="1" side="tl" part="gender"/>
+							<lit-tag v="mf"/>
+						</equal>
+					</test>
+					<let>
+						<var n="prn_gender2"/>
+						<lit-tag v="ut"/>
+					</let>
+				</when>
+				<otherwise>
+					<let>
+						<var n="prn_gender2"/>
+						<clip pos="1" side="tl" part="gender"/>
+					</let>
+				</otherwise>
+			</choose>
+		</def-macro>
+
   </section-def-macros>
 
   <section-rules>
+
+
+    <rule comment="RULE: vblex">
+      <pattern>
+	<pattern-item n="verb"/>
+	   </pattern>
+	      	<action>
+				<call-macro n="set_tense">  
+					<with-param pos="1"/>
+				</call-macro>
+				<out>
+         <chunk name="vblex" case="caseFirstWord">
+						<tags>
+							<tag><lit-tag v="SN"/></tag> 
+						</tags>
+						<lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/> 
+            <var n="v_tense"/>
+            <lit-tag v="actv"/>
+						</lu>
+					</chunk>
+				</out>
+
+			</action>
+		</rule>
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
@@ -205,53 +393,95 @@
     </rule>
 
 
+
+
+ 
+
+
+
    <rule comment="RULE: PRN">
       <pattern>
         <pattern-item n="prn"/>
       </pattern>
       <action>
+				<call-macro n="set_gender_prn">  
+					<with-param pos="1"/>
+				</call-macro>
         <out>
          <chunk name="prn" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+							<tag><var n="prn_gender"/></tag>  
+
             </tags>
           <lu>
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="type_mot"/>
             <clip pos="1" side="tl" part="type_prn"/>
             <clip pos="1" side="tl" part="person"/>
-            <lit-tag v="ut"/>
+            <var n="prn_gender"/>
             <clip pos="1" side="tl" part="numerus"/>
             <clip pos="1" side="tl" part="kasus"/>
           </lu>
 	</chunk>
         </out>
       </action>
-    </rule>
+</rule>
 
 
 
 
-   <rule comment="RULE: VERB">
+
+
+   <rule comment="RULE: vbhaber prn prn  vblex_pp">
       <pattern>
-        <pattern-item n="verb_pri"/>
+        <pattern-item n="vbhaver"/>
+        <pattern-item n="prn"/>
+        <pattern-item n="prn"/>
+        <pattern-item n="vblex_pp"/>
       </pattern>
       <action>
+				<call-macro n="set_gender_prn2">  
+					<with-param pos="3"/>
+				</call-macro>
+				<call-macro n="set_gender_prn">  
+					<with-param pos="2"/>
+				</call-macro>
         <out>
-         <chunk name="verb" case="caseFirstWord">
+         <chunk name="prn" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
           <lu>
-            <clip pos="1" side="tl" part="lem"/>
-            <clip pos="1" side="tl" part="type_mot"/> 
-            <lit-tag v="pres"/>
+            <clip pos="4" side="tl" part="lem"/>
+            <clip pos="4" side="tl" part="type_mot"/>
+            <lit-tag v="past"/> 
             <lit-tag v="actv"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="3" side="tl" part="lem"/>
+            <clip pos="3" side="tl" part="type_mot"/>
+            <clip pos="3" side="tl" part="type_prn"/>
+            <clip pos="3" side="tl" part="person"/>
+            <var n="prn_gender2"/>
+            <clip pos="3" side="tl" part="numerus"/>
+            <lit-tag v="acc"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="type_mot"/>
+            <clip pos="2" side="tl" part="type_prn"/>
+            <clip pos="2" side="tl" part="person"/>
+            <var n="prn_gender"/>
+            <clip pos="2" side="tl" part="numerus"/>
+            <lit-tag v="nom"/>
           </lu>
 	</chunk>
         </out>
       </action>
     </rule>
+
 
 
    <rule comment="RULE: DET(DEF) NOM">
@@ -384,7 +614,7 @@
     </rule>
 
 
-   <rule comment="RULE: DET(DEF) ADJ NOM"> <!-- pst-->
+   <rule comment="RULE: DET(DEF) ADJ NOM"> 
       <pattern>
         <pattern-item n="det_def"/>
         <pattern-item n="adj"/>
@@ -426,6 +656,106 @@
       </action>
     </rule>
 
+
+
+   <rule comment="RULE: DET(IND) NOM VBLEX ADJ"> <!-- pst-->
+      <pattern>
+        <pattern-item n="det_ind"/>
+        <pattern-item n="nom"/>
+        <pattern-item n="verb"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+		<call-macro n="set_tense">  
+			<with-param pos="3"/>
+		</call-macro>
+        <out>
+
+         <chunk name="DET-ADJ-NOM" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="1" side="tl" part="lem"/>
+            <clip pos="1" side="tl" part="type_mot"/>
+            <clip pos="1" side="tl" part="type_det"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="tl" part="numerus"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="type_mot"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="sl" part="numerus"/>
+            <clip pos="1" side="sl" part="type_det"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="3" side="tl" part="lem"/>
+            <clip pos="3" side="tl" part="type_mot"/>
+            <var n="v_tense"/>
+            <lit-tag v="actv"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="4" side="tl" part="lem"/>
+            <clip pos="4" side="tl" part="type_mot"/>
+            <lit-tag v="sint"/>
+            <lit-tag v="pst"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="sl" part="numerus"/>
+            <clip pos="1" side="sl" part="type_det"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
+  <rule comment="RULE: DET(DEF) NOM VBLEX ADJ"> <!-- pst-->
+      <pattern>
+        <pattern-item n="det_def"/>
+        <pattern-item n="nom"/>
+        <pattern-item n="verb"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+		<call-macro n="set_tense">  
+			<with-param pos="3"/>
+		</call-macro>
+        <out>
+
+         <chunk name="DET-NOM-VBLEX-ADJ" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+            <clip pos="2" side="tl" part="lem"/>
+            <clip pos="2" side="tl" part="type_mot"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="sl" part="numerus"/>
+            <lit-tag v="def"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="3" side="tl" part="lem"/>
+            <clip pos="3" side="tl" part="type_mot"/>
+            <var n="v_tense"/>
+            <lit-tag v="actv"/>
+          </lu>
+          <b />
+          <lu>
+            <clip pos="4" side="tl" part="lem"/>
+            <clip pos="4" side="tl" part="type_mot"/>
+            <lit-tag v="sint"/>
+            <lit-tag v="pst"/>
+            <clip pos="2" side="tl" part="gender"/>
+            <clip pos="2" side="sl" part="numerus"/>
+            <lit-tag v="ind"/>
+          </lu>
+	</chunk>
+        </out>
+      </action>
+    </rule>
 <!--
    <rule comment="RULE: DET(DEF) NOM">
       <pattern>
