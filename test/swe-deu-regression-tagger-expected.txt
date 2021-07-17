@@ -1,0 +1,20 @@
+[AC5bDP-pUacV#0] ^Hane<n><ut><sg><ind><cmp><compound-only-L>$ ^berätta<vblex><past><actv>$ ^vi<prn><pers><p1><un><pl><acc>$ ^den<det><dem><nt><sg>$.
+[/AC5bDP-pUacV]
+[D3GwAcD8V-ys#0] ^Hane<n><ut><sg><ind><cmp><compound-only-L>$ ^berätta<vblex><past><actv>$ ^du<prn><pers><p2><ut><sg><acc>$ ^den<det><dem><nt><sg>$.
+[/D3GwAcD8V-ys]
+[Ecwu7SRoCqQ_#0] ^Hane<n><ut><sg><ind><cmp><compound-only-L>$ ^berätta<vblex><past><actv>$ ^sig<prn><ref><p3><un><sp><acc>$ ^den<det><dem><nt><sg>$.
+[/Ecwu7SRoCqQ_]
+[JLNazH4GHZrQ#0] ^Hane<n><ut><sg><ind><cmp><compound-only-L>$ ^berätta<vblex><past><actv>$ ^jag<prn><pers><p1><ut><sg><acc>$ ^den<det><dem><nt><sg>$.
+[/JLNazH4GHZrQ]
+[anK2JitwJrW4#0] ^En<det><ind><nt><sg>$ ^barn<n><nt><sg><ind>$ ^*är$ ^stor<adj><sint><pst><nt><sg><ind>$
+[/anK2JitwJrW4]
+[fDEJPgeiDYJA#0] ^En<det><ind><nt><sg>$ ^stor<adj><sint><pst><nt><sg><ind>$ ^barn<n><nt><sg><ind>$
+[/fDEJPgeiDYJA]
+[mAeHkW3sxeWF#0] ^Stor<adj><sint><pst><un><pl><ind>$ ^barn<n><nt><pl><ind>$
+[/mAeHkW3sxeWF]
+[q5W2fEtbEP0M#0] ^Barn<n><nt><sg><def>$ ^*är$ ^stor<adj><sint><pst><nt><sg><ind>$
+[/q5W2fEtbEP0M]
+[qnPr-Gw93PJ_#0] ^Den<det><dem><nt><sg>$ ^stor<adj><sint><pst><fn><sg><def>$ ^barn<n><nt><sg><def>$
+[/qnPr-Gw93PJ_]
+[uHyZbV6LMIUY#0] ^Hane<n><ut><sg><ind><cmp><compound-only-L>$ ^berätta<vblex><past><actv>$ ^de<prn><pers><p3><un><pl><acc>$ ^den<det><dem><nt><sg>$.
+[/uHyZbV6LMIUY]

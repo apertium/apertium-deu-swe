@@ -1,0 +1,18 @@
+{
+    "deu-swe-pending": {
+        "input": "deu-swe-pending-input.txt",
+        "mode": "deu-swe"
+    },
+    "deu-swe-regression": {
+        "input": "deu-swe-regression-input.txt",
+        "mode": "deu-swe"
+    },
+    "swe-deu-contrastive_grammar": {
+        "input": "swe-deu-contrastive_grammar-input.txt",
+        "mode": "swe-deu"
+    },
+    "swe-deu-regression": {
+        "input": "swe-deu-regression-input.txt",
+        "mode": "swe-deu"
+    }
+}

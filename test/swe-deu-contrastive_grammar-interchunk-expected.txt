@@ -1,0 +1,138 @@
+[-l_04-TzdcCF#0] ^default<default>{^ihr<prn><pers><p2><un><pl><nom>$}$ ^Nom<SN><m><sg>{^Eiter<n><m><sg>$}$
+[/-l_04-TzdcCF]
+[-q1vfC97AXaC#0] ^Nom<SN><f><pl>{^Lampe<n><f><pl>$}$
+[/-q1vfC97AXaC]
+[0-hf-vopNS08#0] ^default<default>{^ihr<prn><pers><p2><un><pl><nom>$}$ ^unknown<unknown>{^*är$}$
+[/0-hf-vopNS08]
+[1pY_aPCcYcE1#0] ^Det<DET>{^der<det><dem><ut><sg>$}$ ^unknown<unknown>{^*røde$}$ ^nom<SN><m><sg>{^Hund<n><m><sg>$}$
+[/1pY_aPCcYcE1]
+[26CBXLKpNfCw#0] ^Det<DET>{^Der<det><dem><nt><sg>$}$ ^unknown<unknown>{^*är$}$ ^det<DET>{^ein<det><ind><ut><sg>$}$ ^adj<ADJ>{^niedlich<adj><sint>$}$ ^nom<SN><m><sg>{^Hund<n><m><sg>$}$ .
+[/26CBXLKpNfCw]
+[2QeogR_5QUpH#0] ^default<default>{^wir<prn><pers><p1><un><pl><nom>$}$  ^Nom<SN><m><sg>{^Eiter<n><m><sg>$}$
+[/2QeogR_5QUpH]
+[2yzD1DSdDrBY#0] ^default<default>{^Ich<prn><pers><p1><ut><sg><nom>$}$ ^verb<SV><pres>{^tun<vblex><pres>$}$ ^det_nom<SN><f><sg>{^ein<det><f><sg><gen>$ ^Kur<n><f><sg><gen>$}$, ^unknown<unknown>{^*eftersom$}$ ^default<default>{^ich<prn><pers><p1><ut><sg><nom>$}$ ^adv<ADV>{^nicht<adv>$}$ ^unknown<unknown>{^*kan$}$ ^verb<SV><inf>{^singen<vblex><inf>$}$.
+[/2yzD1DSdDrBY]
+[3-Q4jbGn6_2j#0] ^default<default>{^Ich<prn><pers><p1><ut><sg><nom>$}$ ^verb<SV><inf>{^schlagen<vblex><inf>$}$ ^default<default>{^du<prn><pers><p2><ut><sg><acc>$}$.
+[/3-Q4jbGn6_2j]
+[306Mq4HI1Wo3#0] ^Det<DET>{^der<det><dem><nt><sg>$}$ ^unknown<unknown>{^*är$}$ ^nom<SN><nt><sg>{^Haus<n><nt><sg>$}$.
+[/306Mq4HI1Wo3]
+[5X9r8CcenFgW#0] ^Nom<SN><nt><sg>{^Männchen<n><nt><sg>$}$ ^unknown<unknown>{^*spisade$}$
+[/5X9r8CcenFgW]
+[9L2fiPc8qQFr#0] ^unknown<unknown>{^*min$}$\/^Nom<SN><f><sg>{^Mitte<n><f><sg>$}$
+[/9L2fiPc8qQFr]
+[9XjnH1GlLsJ0#0] ^unknown<unknown>{^*deras$}$
+[/9XjnH1GlLsJ0]
+[9dFK4ytpM9Xk#0] ^default<default>{^du<prn><pers><p2><ut><sg><nom>$}$  ^unknown<unknown>{^*är$}$
+[/9dFK4ytpM9Xk]
+[ApgVm96vzXD2#0] ^Det<DET>{^der<det><dem><un><pl>$}$ ^unknown<unknown>{^*är$}$
+[/ApgVm96vzXD2]
+[B0jKoRQWIsvX#0] ^Nom<SN><nt><sg>{^Männchen<n><nt><sg>$}$ ^unknown<unknown>{^*är$}$
+[/B0jKoRQWIsvX]
+[B456rM0qDkxz#0] ^Det<DET>{^Der<det><dem><nt><sg>$}$ ^unknown<unknown>{^*är$}$ ^adj<ADJ>{^niedlich<adj><sint><sup>$}$.
+[/B456rM0qDkxz]
+[DzgNhBs9Nx6d#0] ^unknown<unknown>{^*Eftersom$}$ ^default<default>{^ich<prn><pers><p1><ut><sg><nom>$}$ ^adv<ADV>{^nicht<adv>$}$ ^unknown<unknown>{^*kan$}$ ^verb<SV><inf>{^singen<vblex><inf>$}$ , ^default<default>{^ich<prn><pers><p1><ut><sg><nom>$}$ ^verb<SV><pres>{^tun<vblex><pres>$}$ ^det_nom<SN><f><sg>{^ein<det><f><sg><gen>$ ^Kur<n><f><sg><gen>$}$ .
+[/DzgNhBs9Nx6d]
+[EdcEOb3gcPJH#0] ^Det<DET>{^Der<det><dem><nt><sg>$}$ ^unknown<unknown>{^*är$}$ ^adj<ADJ>{^niedlich<adj><sint><comp>$}$.
+[/EdcEOb3gcPJH]
+[EjwsMdPw1UuS#0] ^Pr<PR>{^auf<pr>$}$ ^nom<SN><m><sg>{^Stuhl<n><m><sg>$}$
+[/EjwsMdPw1UuS]
+[ErevUFuUD4Ra#0] ^unknown<unknown>{^*din$}$\/^unknown<unknown>{^*ditt$}$
+[/ErevUFuUD4Ra]
+[Exx7cmtJ3TIq#0] ^default<default>{^Ich<prn><pers><p1><ut><sg><nom>$}$ ^verb<SV><pres>{^hüpfen<vblex><pres>$}$ ^unknown<unknown>{^*at$}$ ^default<default>{^ich<prn><pers><p1><ut><sg><nom>$}$ ^unknown<unknown>{^*är$}$ ^adv<ADV>{^gut<adv><pst>$}$.
+[/Exx7cmtJ3TIq]
+[FxRykmmmlYat#0] ^default<default>{^ich<prn><pers><p1><ut><sg><nom>$}$ ^unknown<unknown>{^*spisade$}$
+[/FxRykmmmlYat]
+[GtdLxmyGcuVv#0] ^default<default>{^Es<prn><pers><p3><nt><sg><nom>$}$ ^verb<SV><pres>{^kommen<vblex><pres>$}$ ^unknown<unknown>{^*att$}$ ^nom<SN><m><sg>{^Schnee<n><m><sg>$}$ ^unknown<unknown>{^*nästa$}$ ^nom<SN><f><sg>{^Woche<n><f><sg>$}$.
+[/GtdLxmyGcuVv]
+[HU93UUrgYiuF#0] ^default<default>{^Ich<prn><pers><p1><ut><sg><nom>$}$ ^verb<SV><inf>{^geben<vblex><inf>$}$ ^default<default>{^du<prn><pers><p2><ut><sg><acc>$}$ ^det_nom<SN><nt><sg>{^ein<det><nt><sg>$ ^Buch<n><nt><sg>$}$.
+[/HU93UUrgYiuF]
+[IUgYYMFc9Bq3#0] ^unknown<unknown>{^*sorte$}$ ^Nom<SN><m><sg>{^Hund<n><m><sg>$}$
+[/IUgYYMFc9Bq3]
+[IYEWF6VHHhOd#0] ^Nom<SN><m><sg>{^Hund<n><m><sg>$}$
+[/IYEWF6VHHhOd]
+[KX_wGLOUn1O6#0] ^default<default>{^wir<prn><pers><p1><un><pl><nom>$}$ ^unknown<unknown>{^*spisar$}$
+[/KX_wGLOUn1O6]
+[KyMJE5TLpySs#0] ^Nom<SN><nt><sg>{^Männchen<n><nt><sg>$}$ ^unknown<unknown>{^*spisar$}$
+[/KyMJE5TLpySs]
+[MMwSwq6fr-_i#0] ^det_nom<SN><f><sg>{^ein<det><f><sg>$ ^Banane<n><f><sg>$}$
+[/MMwSwq6fr-_i]
+[NS2QrZcdzjPu#0] ^unknown<unknown>{^*Idag$}$ ^unknown<unknown>{^*måste$}$ ^unknown<unknown>{^*min$}$ ^nom_verb<SN>{^Mama<n><f><sg>$ ^lassen<vblex><inf><p3><sg>$}$ ^default<default>{^ich<prn><pers><p1><ut><sg><acc>$}$ ^verb<SV><inf>{^gehen<vblex><inf>$}$ ^pr<PR>{^bis<pr>$}$ ^nom<SN><f><sg>{^Schule<n><f><sg>$}$.
+[/NS2QrZcdzjPu]
+[NS6zm38kM-l6#0] ^default<default>{^du<prn><pers><p2><ut><sg><nom>$}$  ^unknown<unknown>{^*spisade$}$
+[/NS6zm38kM-l6]
+[OvzBhTTmJia6#0] ^unknown<unknown>{^*uframför$}$ ^Nom<SN><nt><sg>{^Haus<n><nt><sg>$}$
+[/OvzBhTTmJia6]
+[OykKd1RR0Ody#0] ^Nom<SN><m><sg>{^Stuhl<n><m><sg><gen>$}$ ^nom<SN><nt><sg>{^Bein<n><nt><sg>$}$
+[/OykKd1RR0Ody]
+[QB6VUjBy0Qau#0] ^Det<DET>{^der<det><dem><un><pl>$}$ ^unknown<unknown>{^*spisar$}$
+[/QB6VUjBy0Qau]
+[QQ_ZsZ9nF81H#0] ^unknown<unknown>{^*dess$}$
+[/QQ_ZsZ9nF81H]
+[R-cWm90YN7P8#0] ^default<default>{^ihr<prn><pers><p2><un><pl><nom>$}$ ^unknown<unknown>{^*spisade$}$
+[/R-cWm90YN7P8]
+[RY_XX5Zf9g5y#0] ^default<default>{^ich<prn><pers><p1><ut><sg><nom>$}$  ^unknown<unknown>{^*är$}$
+[/RY_XX5Zf9g5y]
+[SHQwxwDsCmmA#0] ^Nom<SN><nt><sg>{^Haus<n><nt><sg>$}$
+[/SHQwxwDsCmmA]
+[SIYtc4HxFprn#0] ^default<default>{^wir<prn><pers><p1><un><pl><nom>$}$  ^unknown<unknown>{^*spisade$}$
+[/SIYtc4HxFprn]
+[SgfdQdq-kpu2#0] ^det_nom<SN><m><sg>{^der<det><m><sg>$ ^Eiter<n><m><sg>$}$
+[/SgfdQdq-kpu2]
+[Ss5z98Eo0wh2#0] ^default<default>{^Ich<prn><pers><p1><ut><sg><nom>$}$ ^verb<SV><past>{^arbeiten<vblex><past>$}$ ^pr<PR>{^auf<pr>$}$ ^nom<SN><nt><sg>{^Auto<n><nt><sg>$}$.
+[/Ss5z98Eo0wh2]
+[WvT0jx8Yu0bL#0] ^Det<DET>{^der<det><dem><un><pl>$}$ ^unknown<unknown>{^*spisade$}$
+[/WvT0jx8Yu0bL]
+[Xhpby61op2dq#0] ^default<default>{^wir<prn><pers><p1><un><pl><nom>$}$ ^unknown<unknown>{^*är$}$
+[/Xhpby61op2dq]
+[YVGIqkvetMod#0] ^default<default>{^Es<prn><pers><p3><nt><sg><nom>$}$ ^default<default>{^ihr<prn><pers><p2><un><pl><acc>$}$ ^det_nom<SN><f><sg>{^der<det><f><sg>$ ^Banane<n><f><sg>$}$.
+[/YVGIqkvetMod]
+[YcN1Mha646fi#0] ^unknown<unknown>{^*Hallo$}$, ^unknown<unknown>{^*Gestern$}$ ^unknown<unknown>{^*sah$}$ ^unknown<unknown>{^*ich$}$ ^unknown<unknown>{^*einen$}$ ^unknown<unknown>{^*großen$}$ ^unknown<unknown>{^*Vogel$}$.
+[/YcN1Mha646fi]
+[ZCio-7sOEgUo#0] ^Nom<SN><nt><sg>{^Männchen<n><nt><sg>$}$
+[/ZCio-7sOEgUo]
+[_cgqnoe99wC8#0] ^default<default>{^ihr<prn><pers><p2><un><pl><nom>$}$ ^unknown<unknown>{^*spisar$}$
+[/_cgqnoe99wC8]
+[aAYWzzLGqcsB#0] ^Nom<SN><m><sg>{^Lenz<n><m><sg>$}$\/^nom<SN><m><sg>{^Wart<n><m><sg>$}$
+[/aAYWzzLGqcsB]
+[bMptK3QoHQ7l#0] ^unknown<unknown>{^*Min$}$ ^nom_verb<SN>{^Mama<n><f><sg>$ ^gehen<vblex><pres><p3><sg>$}$ ^Pr<PR>{^bis<pr>$}$ ^nom<SN><f><sg>{^Schule<n><f><sg>$}$.
+[/bMptK3QoHQ7l]
+[bYHkIuXhvs4l#0] ^det_nom<SN><m><sg>{^ein<det><m><sg>$ ^Hund<n><m><sg>$}$
+[/bYHkIuXhvs4l]
+[dLuUzJ0gOjDv#0] ^det_nom<SN><m><sg>{^ein<det><m><sg>$ ^Apfel<n><m><sg>$}$
+[/dLuUzJ0gOjDv]
+[f68ipmVWy5Aj#0] ^default<default>{^ich<prn><pers><p1><ut><sg><nom>$}$ ^verb<SV><pres>{^sehen<vblex><pres>$}$ ^nom<SN><nt><sg>{^Haus<n><nt><sg>$}$
+[/f68ipmVWy5Aj]
+[gvEYdcE9_-Vr#0] ^Nom<SN><f><sg>{^Banane<n><f><sg>$}$
+[/gvEYdcE9_-Vr]
+[i4cla0uFssqj#0] ^default<default>{^ihr<prn><pers><p2><un><pl><acc>$}$\/^unknown<unknown>{^*ert$}$
+[/i4cla0uFssqj]
+[i7Elhs2vVhNx#0] ^det_nom<SN><nt><sg>{^ein<det><nt><sg>$ ^Haus<n><nt><sg>$}$
+[/i7Elhs2vVhNx]
+[iVeeAI-hwML3#0] ^unknown<unknown>{^*hendes$}$
+[/iVeeAI-hwML3]
+[jo_ukyUwdcGj#0] ^default<default>{^ich<prn><pers><p1><ut><sg><nom>$}$  ^unknown<unknown>{^*spisar$}$
+[/jo_ukyUwdcGj]
+[lmAlt4L2Ap4i#0] ^Nom<SN><nt><sg>{^Haus<n><nt><sg><gen>$}$ ^nom<SN><f><sg>{^Tür<n><f><sg>$}$
+[/lmAlt4L2Ap4i]
+[mL-uOWg-NZvB#0] ^Det<DET>{^Der<det><dem><nt><sg>$}$ ^unknown<unknown>{^*är$}$ ^nom<SN><m><sg>{^Stuhl<n><m><sg>$}$.
+[/mL-uOWg-NZvB]
+[mfp-rhWMfOGu#0] ^default<default>{^ich<prn><pers><p1><ut><sg><nom>$}$ ^Nom<SN><m><sg>{^Eiter<n><m><sg>$}$
+[/mfp-rhWMfOGu]
+[nLbMv29fWXRS#0] ^default<default>{^du<prn><pers><p2><ut><sg><nom>$}$  ^unknown<unknown>{^*spisar$}$
+[/nLbMv29fWXRS]
+[rODwTTKicGAa#0] ^Nom<SN><nt><sg>{^Männchen<n><nt><sg>$}$ ^adv<ADV>{^wo<adv>$}$
+[/rODwTTKicGAa]
+[rotwLEXfWZ4R#0] ^unknown<unknown>{^*Jeg$}$ ^unknown<unknown>{^*har$}$ ^det_nom<SN><m><sg>{^ein<det><m><sg>$ ^Hund<n><m><sg>$}$.
+[/rotwLEXfWZ4R]
+[tMIyU9Y9WOyI#0] ^default<default>{^Ich<prn><pers><p1><ut><sg><nom>$}$ ^nom_verb<SN>{^Schale<n><f><sg>$ ^fliegen<vblex><inf><p3><sg>$}$ ^Pr<PR>{^bis<pr>$}$ ^nom<SN><nt>{^Dänemark<np><nt>$}$.
+[/tMIyU9Y9WOyI]
+[uAtoFWuzyZNj#0] ^Nom<SN><m><sg>{^Apfel<n><m><sg>$}$
+[/uAtoFWuzyZNj]
+[ugWpDv26Mhnd#0] ^unknown<unknown>{^*Idag$}$ ^verb<SV><pres>{^gehen<vblex><pres>$}$ ^unknown<unknown>{^*min$}$ ^nom<SN><f><sg>{^Mama<n><f><sg>$}$ ^pr<PR>{^bis<pr>$}$ ^nom<SN><f><sg>{^Schule<n><f><sg>$}$.
+[/ugWpDv26Mhnd]
+[v6dNJU0XcCN7#0] ^Det<DET>{^der<det><dem><nt><sg>$}$ ^unknown<unknown>{^*røde$}$ ^nom<SN><nt><sg>{^Haus<n><nt><sg>$}$
+[/v6dNJU0XcCN7]
+[wVXpZYpBhbzh#0] ^default<default>{^du<prn><pers><p2><ut><sg><nom>$}$  ^Nom<SN><m><sg>{^Eiter<n><m><sg>$}$
+[/wVXpZYpBhbzh]
+[wi3YnUK8D6PM#0] ^default<default>{^ich<prn><pers><p1><ut><sg><nom>$}$ ^verb<SV><pres>{^sehen<vblex><pres>$}$ ^nom<SN><m><sg>{^Stuhl<n><m><sg>$}$
+[/wi3YnUK8D6PM]

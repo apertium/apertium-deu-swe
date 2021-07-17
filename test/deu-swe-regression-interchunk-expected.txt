@@ -1,0 +1,50 @@
+[-PJiJf0dehxo#0] ^adv<SN>{^var<adv>$}$
+[/-PJiJf0dehxo]
+[0juuiSJAB9cL#0] ^DET-NOM<SN>{^en<det><ind><nt><sg>$  ^hus<n><nt><sg><ind>$}$
+[/0juuiSJAB9cL]
+[2unjHgFMgQ1_#0] ^prn<m>{^Han<prn><pers><p3><m><sg><nom>$}$ ^prn<SN>{^berätta<vblex><past><actv>$ ^vi<prn><pers><p1><un><pl><acc>$ ^den<prn><pers><p3><nt><sg><nom>$}$.
+[/2unjHgFMgQ1_]
+[A9JTpQHq1Xds#0] ^prn<m>{^Han<prn><pers><p3><m><sg><nom>$}$ ^prn<SN>{^berätta<vblex><past><actv>$ ^jag<prn><pers><p1><ut><sg><acc>$ ^den<prn><pers><p3><nt><sg><nom>$}$.
+[/A9JTpQHq1Xds]
+[AfQD9yk1c6C1#0] ^prn<m>{^Han<prn><pers><p3><m><sg><nom>$}$ ^prn<SN>{^berätta<vblex><past><actv>$ ^du<prn><pers><p2><ut><sg><acc>$ ^den<prn><pers><p3><nt><sg><nom>$}$.
+[/AfQD9yk1c6C1]
+[CHRQz3r0Wafa#0] ^prn<m>{^Han<prn><pers><p3><m><sg><nom>$}$ ^prn<SN>{^berätta<vblex><past><actv>$ ^sig<prn><ref><p3><un><sp><acc>$ ^den<prn><pers><p3><nt><sg><nom>$}$.
+[/CHRQz3r0Wafa]
+[DLMA6ndZ3Sdx#0] ^prn<ut>{^jag<prn><pers><p1><ut><sg><nom>$}$ ^vblex<SN>{^äta<vblex><pres><actv>$}$
+[/DLMA6ndZ3Sdx]
+[FAUZkS8F2f8L#0] ^NOM<SN>{^hus<n><nt><pl><ind>$}$
+[/FAUZkS8F2f8L]
+[HQb4xHueUYha#0] ^DET-NOM<SN>{^en<det><ind><ut><sg>$ ^flicka<n><ut><sg><ind>$}$
+[/HQb4xHueUYha]
+[KEs72VW7jmT8#0] ^DET-NOM<SN>{^pojke<n><ut><sg><def>$}$
+[/KEs72VW7jmT8]
+[QkyO2o46Fqes#0] ^pr<SN>{^på<pr>$}$
+[/QkyO2o46Fqes]
+[T478dpsQKMGp#0] ^DET-ADJ-NOM<SN>{^Den<det><dem><nt><sg>$ ^stor<adj><sint><pst><fn><sg><def>$ ^barn<n><nt><sg><def>$}$
+[/T478dpsQKMGp]
+[U7sQikzWsSWy#0] ^NOM<SN>{^pojke<n><ut><sg><ind>$}$
+[/U7sQikzWsSWy]
+[UJdq1Y9doCt7#0] ^NOM<SN>{^hus<n><nt><sg><ind>$}$
+[/UJdq1Y9doCt7]
+[WClnU00PkJ0Z#0] ^pr<SN>{^i<pr>$}$
+[/WClnU00PkJ0Z]
+[XQ-Fb_Om9UF4#0] ^default<default>{^vart<adv>$}$
+[/XQ-Fb_Om9UF4]
+[b0vQM-aQnakI#0] ^vblex<SN>{^tända<vblex><pres><actv>$}$
+[/b0vQM-aQnakI]
+[dn28WXode3pR#0] ^DET-NOM<SN>{^hus<n><nt><pl><def>$}$
+[/dn28WXode3pR]
+[hMktir8ya9tS#0] ^prn<ut>{^jag<prn><pers><p1><ut><sg><nom>$}$
+[/hMktir8ya9tS]
+[msF1zrEej5f3#0] ^DET-ADJ-NOM<SN>{^En<det><ind><nt><sg>$ ^stor<adj><sint><pst><nt><sg><ind>$ ^barn<n><nt><sg><ind>$}$
+[/msF1zrEej5f3]
+[p4pHWV4ojUKl#0] ^ADJ-NOM<SN>{^stor<adj><sint><pst><nt><sg><ind>$ ^barn<n><nt><sg><ind>$}$
+[/p4pHWV4ojUKl]
+[sBMPMByFvNlJ#0] ^prn<m>{^Han<prn><pers><p3><m><sg><nom>$}$ ^prn<SN>{^berätta<vblex><past><actv>$ ^de<prn><pers><p3><un><pl><acc>$ ^den<prn><pers><p3><nt><sg><nom>$}$.
+[/sBMPMByFvNlJ]
+[v2OHuNcXM6kV#0] ^vblex<SN>{^äta<vblex><pres><actv>$}$
+[/v2OHuNcXM6kV]
+[xMwzzpHe6dGy#0] ^DET-ADJ-NOM<SN>{^En<det><ind><nt><sg>$ ^barn<n><nt><sg><ind>$ ^vara<vblex><pres><actv>$ ^stor<adj><sint><pst><nt><sg><ind>$}$
+[/xMwzzpHe6dGy]
+[ytkhlGlgqOY-#0] ^DET-NOM-VBLEX-ADJ<SN>{^barn<n><nt><sg><def>$ ^vara<vblex><pres><actv>$ ^stor<adj><sint><pst><nt><sg><ind>$}$
+[/ytkhlGlgqOY-]

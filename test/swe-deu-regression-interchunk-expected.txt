@@ -1,0 +1,20 @@
+[AC5bDP-pUacV#0] ^nom_verb<SN>{^Männchen<n><nt><sg>$ ^erzählen<vblex><past><p3><sg>$}$ ^default<default>{^wir<prn><pers><p1><un><pl><acc>$}$ ^Det<DET>{^der<det><dem><nt><sg>$}$.
+[/AC5bDP-pUacV]
+[D3GwAcD8V-ys#0] ^nom_verb<SN>{^Männchen<n><nt><sg>$ ^erzählen<vblex><past><p3><sg>$}$ ^default<default>{^du<prn><pers><p2><ut><sg><acc>$}$ ^Det<DET>{^der<det><dem><nt><sg>$}$.
+[/D3GwAcD8V-ys]
+[Ecwu7SRoCqQ_#0] ^nom_verb<SN>{^Männchen<n><nt><sg>$ ^erzählen<vblex><past><p3><sg>$}$ ^default<default>{^sich<prn><ref><p3><un><sp><acc>$}$ ^Det<DET>{^der<det><dem><nt><sg>$}$.
+[/Ecwu7SRoCqQ_]
+[JLNazH4GHZrQ#0] ^nom_verb<SN>{^Männchen<n><nt><sg>$ ^erzählen<vblex><past><p3><sg>$}$ ^default<default>{^ich<prn><pers><p1><ut><sg><acc>$}$ ^Det<DET>{^der<det><dem><nt><sg>$}$.
+[/JLNazH4GHZrQ]
+[anK2JitwJrW4#0] ^det_nom<SN><nt><sg>{^Ein<det><nt><sg>$ ^Kind<n><nt><sg>$}$ ^unknown<unknown>{^*är$}$ ^Adj<ADJ>{^groß<adj><sint>$}$
+[/anK2JitwJrW4]
+[fDEJPgeiDYJA#0] ^Det<DET>{^Ein<det><ind><nt><sg>$}$ ^adj<ADJ>{^groß<adj><sint>$}$ ^nom<SN><nt><sg>{^Kind<n><nt><sg>$}$
+[/fDEJPgeiDYJA]
+[mAeHkW3sxeWF#0] ^Adj<ADJ>{^Groß<adj><sint>$}$ ^nom<SN><nt><pl>{^Kind<n><nt><pl>$}$
+[/mAeHkW3sxeWF]
+[q5W2fEtbEP0M#0] ^Nom<SN><nt><sg>{^Kind<n><nt><sg>$}$ ^unknown<unknown>{^*är$}$ ^adj<ADJ>{^groß<adj><sint>$}$
+[/q5W2fEtbEP0M]
+[qnPr-Gw93PJ_#0] ^Det<DET>{^Der<det><dem><nt><sg>$}$ ^adj<ADJ>{^groß<adj><sint>$}$ ^nom<SN><nt><sg>{^Kind<n><nt><sg>$}$
+[/qnPr-Gw93PJ_]
+[uHyZbV6LMIUY#0] ^nom_verb<SN>{^Männchen<n><nt><sg>$ ^erzählen<vblex><past><p3><sg>$}$ ^default<default>{^sie<prn><pers><p3><un><pl><acc>$}$ ^Det<DET>{^der<det><dem><nt><sg>$}$.
+[/uHyZbV6LMIUY]

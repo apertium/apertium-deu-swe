@@ -1,0 +1,138 @@
+[-l_04-TzdcCF#0] ^ni<prn><pers><p2><un><pl><nom>/ihr<prn><pers><p2><un><pl><nom>$ ^var<n><nt><sg><ind>/Eiter<n><m><sg><ind>$
+[/-l_04-TzdcCF]
+[-q1vfC97AXaC#0] ^lampa<n><ut><pl><def>/Lampe<n><f><pl><def>$
+[/-q1vfC97AXaC]
+[0-hf-vopNS08#0] ^ni<prn><pers><p2><un><pl><nom>/ihr<prn><pers><p2><un><pl><nom>$ ^*är/*är$
+[/0-hf-vopNS08]
+[1pY_aPCcYcE1#0] ^den<det><dem><ut><sg>/der<det><dem><ut><sg>$ ^*røde/*røde$ ^hund<n><ut><sg><ind>/Hund<n><m><sg><ind>$
+[/1pY_aPCcYcE1]
+[26CBXLKpNfCw#0] ^Den<det><dem><nt><sg>/Der<det><dem><nt><sg>$ ^*är/*är$ ^en<det><ind><ut><sg>/ein<det><ind><ut><sg>/der<det><ind><ut><sg>$ ^söt<adj><sint><pst><ut><sg><ind>/niedlich<adj><sint><pst><ut><sg><ind>$ ^hund<n><ut><sg><ind>/Hund<n><m><sg><ind>$ .
+[/26CBXLKpNfCw]
+[2QeogR_5QUpH#0] ^vi<prn><pers><p1><un><pl><nom>/wir<prn><pers><p1><un><pl><nom>$  ^var<n><nt><sg><ind>/Eiter<n><m><sg><ind>$
+[/2QeogR_5QUpH]
+[2yzD1DSdDrBY#0] ^Jag<prn><pers><p1><ut><sg><nom>/Ich<prn><pers><p1><ut><sg><nom>$ ^göra<vblex><pres><actv>/tun<vblex><pres><actv>/machen<vblex><pres><actv>$ ^en<det><ind><ut><sg>/ein<det><ind><ut><sg>/der<det><ind><ut><sg>$ ^kur<n><ut><sg><ind><gen>/Kur<n><f><sg><ind><gen>$, ^*eftersom/*eftersom$ ^jag<prn><pers><p1><ut><sg><nom>/ich<prn><pers><p1><ut><sg><nom>$ ^inte<adv>/nicht<adv>$ ^*kan/*kan$ ^sjunga<vblex><inf><actv>/singen<vblex><inf><actv>$.
+[/2yzD1DSdDrBY]
+[3-Q4jbGn6_2j#0] ^Jag<prn><pers><p1><ut><sg><nom>/Ich<prn><pers><p1><ut><sg><nom>$ ^slå<vblex><inf><actv>/schlagen<vblex><inf><actv>$ ^du<prn><pers><p2><ut><sg><acc>/du<prn><pers><p2><ut><sg><acc>$.
+[/3-Q4jbGn6_2j]
+[306Mq4HI1Wo3#0] ^den<det><dem><nt><sg>/der<det><dem><nt><sg>$ ^*är/*är$ ^hus<n><nt><sg><def>/Haus<n><nt><sg><def>/Gehäuse<n><nt><sg><def>$.
+[/306Mq4HI1Wo3]
+[5X9r8CcenFgW#0] ^hane<n><ut><sg><ind><cmp><compound-only-L>/Männchen<n><nt><sg><ind><cmp><compound-only-L>$ ^*spisade/*spisade$
+[/5X9r8CcenFgW]
+[9L2fiPc8qQFr#0] ^*min/*min$\/^mitt<n><ut><sg><ind>/Mitte<n><f><sg><ind>$
+[/9L2fiPc8qQFr]
+[9XjnH1GlLsJ0#0] ^*deras/*deras$
+[/9XjnH1GlLsJ0]
+[9dFK4ytpM9Xk#0] ^du<prn><pers><p2><ut><sg><nom>/du<prn><pers><p2><ut><sg><nom>$  ^*är/*är$
+[/9dFK4ytpM9Xk]
+[ApgVm96vzXD2#0] ^den<det><dem><un><pl>/der<det><dem><un><pl>$ ^*är/*är$
+[/ApgVm96vzXD2]
+[B0jKoRQWIsvX#0] ^hane<n><ut><sg><ind><cmp><compound-only-L>/Männchen<n><nt><sg><ind><cmp><compound-only-L>$ ^*är/*är$
+[/B0jKoRQWIsvX]
+[B456rM0qDkxz#0] ^Den<det><dem><nt><sg>/Der<det><dem><nt><sg>$ ^*är/*är$ ^söt<adj><sint><sup><un><sp><ind>/niedlich<adj><sint><sup><un><sp><ind>$.
+[/B456rM0qDkxz]
+[DzgNhBs9Nx6d#0] ^*Eftersom/*Eftersom$ ^jag<prn><pers><p1><ut><sg><nom>/ich<prn><pers><p1><ut><sg><nom>$ ^inte<adv>/nicht<adv>$ ^*kan/*kan$ ^sjunga<vblex><inf><actv>/singen<vblex><inf><actv>$ , ^jag<prn><pers><p1><ut><sg><nom>/ich<prn><pers><p1><ut><sg><nom>$ ^göra<vblex><pres><actv>/tun<vblex><pres><actv>/machen<vblex><pres><actv>$ ^en<det><ind><ut><sg>/ein<det><ind><ut><sg>/der<det><ind><ut><sg>$ ^kur<n><ut><sg><ind><gen>/Kur<n><f><sg><ind><gen>$ .
+[/DzgNhBs9Nx6d]
+[EdcEOb3gcPJH#0] ^Den<det><dem><nt><sg>/Der<det><dem><nt><sg>$ ^*är/*är$ ^söt<adj><sint><comp><un><sp>/niedlich<adj><sint><comp><un><sp>$.
+[/EdcEOb3gcPJH]
+[EjwsMdPw1UuS#0] ^på<pr>/auf<pr>$ ^stol<n><ut><sg><def>/Stuhl<n><m><sg><def>$
+[/EjwsMdPw1UuS]
+[ErevUFuUD4Ra#0] ^*din/*din$\/^*ditt/*ditt$
+[/ErevUFuUD4Ra]
+[Exx7cmtJ3TIq#0] ^Jag<prn><pers><p1><ut><sg><nom>/Ich<prn><pers><p1><ut><sg><nom>$ ^hoppa<vblex><pres><pasv>/hüpfen<vblex><pres><pasv>$ ^*at/*at$ ^jag<prn><pers><p1><ut><sg><nom>/ich<prn><pers><p1><ut><sg><nom>$ ^*är/*är$ ^bra<adv><pst>/gut<adv><pst>$.
+[/Exx7cmtJ3TIq]
+[FxRykmmmlYat#0] ^jag<prn><pers><p1><ut><sg><nom>/ich<prn><pers><p1><ut><sg><nom>$ ^*spisade/*spisade$
+[/FxRykmmmlYat]
+[GtdLxmyGcuVv#0] ^Den<prn><pers><p3><nt><sg><nom>/Es<prn><pers><p3><nt><sg><nom>$ ^komma<vblex><pres><actv>/kommen<vblex><pres><actv>$ ^*att/*att$ ^snö<n><ut><sg><ind>/Schnee<n><m><sg><ind>$ ^*nästa/*nästa$ ^vecka<n><ut><sg><ind>/Woche<n><f><sg><ind>$.
+[/GtdLxmyGcuVv]
+[HU93UUrgYiuF#0] ^Jag<prn><pers><p1><ut><sg><nom>/Ich<prn><pers><p1><ut><sg><nom>$ ^ge<vblex><inf><actv>/geben<vblex><inf><actv>$ ^du<prn><pers><p2><ut><sg><acc>/du<prn><pers><p2><ut><sg><acc>$ ^en<det><ind><ut><sg>/ein<det><ind><ut><sg>/der<det><ind><ut><sg>$ ^bok<n><ut><sg><ind>/Buch<n><nt><sg><ind>/Buche<n><f><sg><ind>$.
+[/HU93UUrgYiuF]
+[IUgYYMFc9Bq3#0] ^*sorte/*sorte$ ^hund<n><ut><sg><ind>/Hund<n><m><sg><ind>$
+[/IUgYYMFc9Bq3]
+[IYEWF6VHHhOd#0] ^hund<n><ut><sg><def>/Hund<n><m><sg><def>$
+[/IYEWF6VHHhOd]
+[KX_wGLOUn1O6#0] ^vi<prn><pers><p1><un><pl><nom>/wir<prn><pers><p1><un><pl><nom>$ ^*spisar/*spisar$
+[/KX_wGLOUn1O6]
+[KyMJE5TLpySs#0] ^hane<n><ut><sg><ind><cmp><compound-only-L>/Männchen<n><nt><sg><ind><cmp><compound-only-L>$ ^*spisar/*spisar$
+[/KyMJE5TLpySs]
+[MMwSwq6fr-_i#0] ^en<det><ind><ut><sg>/ein<det><ind><ut><sg>/der<det><ind><ut><sg>$ ^banan<n><ut><sg><ind>/Banane<n><f><sg><ind>$
+[/MMwSwq6fr-_i]
+[NS2QrZcdzjPu#0] ^*Idag/*Idag$ ^*måste/*måste$ ^*min/*min$ ^mamma<n><ut><sg><ind>/Mama<n><f><sg><ind>/Mami<n><f><sg><ind>/Mutti<n><f><sg><ind>$ ^låta<vblex><inf><actv>/lassen<vblex><inf><actv>$ ^jag<prn><pers><p1><ut><sg><acc>/ich<prn><pers><p1><ut><sg><acc>$ ^gå<vblex><inf><actv>/gehen<vblex><inf><actv>$ ^till<pr>/bis<pr>/zu<pr>$ ^skola<n><ut><sg><def>/Schule<n><f><sg><def>$.
+[/NS2QrZcdzjPu]
+[NS6zm38kM-l6#0] ^du<prn><pers><p2><ut><sg><nom>/du<prn><pers><p2><ut><sg><nom>$  ^*spisade/*spisade$
+[/NS6zm38kM-l6]
+[OvzBhTTmJia6#0] ^*uframför/*uframför$ ^hus<n><nt><sg><def>/Haus<n><nt><sg><def>/Gehäuse<n><nt><sg><def>$
+[/OvzBhTTmJia6]
+[OykKd1RR0Ody#0] ^stol<n><ut><sg><def><gen>/Stuhl<n><m><sg><def><gen>$ ^ben<n><nt><sg><ind>/Bein<n><nt><sg><ind>/Knochen<n><m><sg><ind>$
+[/OykKd1RR0Ody]
+[QB6VUjBy0Qau#0] ^den<det><dem><un><pl>/der<det><dem><un><pl>$ ^*spisar/*spisar$
+[/QB6VUjBy0Qau]
+[QQ_ZsZ9nF81H#0] ^*dess/*dess$
+[/QQ_ZsZ9nF81H]
+[R-cWm90YN7P8#0] ^ni<prn><pers><p2><un><pl><nom>/ihr<prn><pers><p2><un><pl><nom>$ ^*spisade/*spisade$
+[/R-cWm90YN7P8]
+[RY_XX5Zf9g5y#0] ^jag<prn><pers><p1><ut><sg><nom>/ich<prn><pers><p1><ut><sg><nom>$  ^*är/*är$
+[/RY_XX5Zf9g5y]
+[SHQwxwDsCmmA#0] ^hus<n><nt><sg><def>/Haus<n><nt><sg><def>/Gehäuse<n><nt><sg><def>$
+[/SHQwxwDsCmmA]
+[SIYtc4HxFprn#0] ^vi<prn><pers><p1><un><pl><nom>/wir<prn><pers><p1><un><pl><nom>$  ^*spisade/*spisade$
+[/SIYtc4HxFprn]
+[SgfdQdq-kpu2#0] ^den<det><dem><un><pl>/der<det><dem><un><pl>$ ^var<n><nt><sg><ind>/Eiter<n><m><sg><ind>$
+[/SgfdQdq-kpu2]
+[Ss5z98Eo0wh2#0] ^Jag<prn><pers><p1><ut><sg><nom>/Ich<prn><pers><p1><ut><sg><nom>$ ^arbeta<vblex><past><actv>/arbeiten<vblex><past><actv>$ ^på<pr>/auf<pr>$ ^bil<n><ut><sg><def>/Auto<n><nt><sg><def>/Automobil<n><nt><sg><def>/Kraftwagen<n><m><sg><def>$.
+[/Ss5z98Eo0wh2]
+[WvT0jx8Yu0bL#0] ^den<det><dem><un><pl>/der<det><dem><un><pl>$ ^*spisade/*spisade$
+[/WvT0jx8Yu0bL]
+[Xhpby61op2dq#0] ^vi<prn><pers><p1><un><pl><nom>/wir<prn><pers><p1><un><pl><nom>$ ^*är/*är$
+[/Xhpby61op2dq]
+[YVGIqkvetMod#0] ^Den<prn><pers><p3><nt><sg><nom>/Es<prn><pers><p3><nt><sg><nom>$ ^ni<prn><pers><p2><un><pl><acc>/ihr<prn><pers><p2><un><pl><acc>$ ^den<det><dem><ut><sg>/der<det><dem><ut><sg>$ ^banan<n><ut><sg><def>/Banane<n><f><sg><def>$.
+[/YVGIqkvetMod]
+[YcN1Mha646fi#0] ^*Hallo/*Hallo$, ^*Gestern/*Gestern$ ^*sah/*sah$ ^*ich/*ich$ ^*einen/*einen$ ^*großen/*großen$ ^*Vogel/*Vogel$.
+[/YcN1Mha646fi]
+[ZCio-7sOEgUo#0] ^hane<n><ut><sg><ind><cmp><compound-only-L>/Männchen<n><nt><sg><ind><cmp><compound-only-L>$
+[/ZCio-7sOEgUo]
+[_cgqnoe99wC8#0] ^ni<prn><pers><p2><un><pl><nom>/ihr<prn><pers><p2><un><pl><nom>$ ^*spisar/*spisar$
+[/_cgqnoe99wC8]
+[aAYWzzLGqcsB#0] ^vår<n><ut><sg><ind>/Lenz<n><m><sg><ind>/Frühling<n><m><sg><ind>/Frühjahr<n><nt><sg><ind>$\/^vårta<n><ut><sg><ind><cmp>/Wart<n><m><sg><ind><cmp>/Warze<n><f><sg><ind><cmp>$
+[/aAYWzzLGqcsB]
+[bMptK3QoHQ7l#0] ^*Min/*Min$ ^mamma<n><ut><sg><ind>/Mama<n><f><sg><ind>/Mami<n><f><sg><ind>/Mutti<n><f><sg><ind>$ ^gå<vblex><pres><actv>/gehen<vblex><pres><actv>$ ^till<pr>/bis<pr>/zu<pr>$ ^skola<n><ut><sg><def>/Schule<n><f><sg><def>$.
+[/bMptK3QoHQ7l]
+[bYHkIuXhvs4l#0] ^en<det><ind><ut><sg>/ein<det><ind><ut><sg>/der<det><ind><ut><sg>$ ^hund<n><ut><sg><ind>/Hund<n><m><sg><ind>$
+[/bYHkIuXhvs4l]
+[dLuUzJ0gOjDv#0] ^en<det><ind><nt><sg>/ein<det><ind><nt><sg>/der<det><ind><nt><sg>$ ^äpple<n><nt><sg><def>/Apfel<n><m><sg><def>$
+[/dLuUzJ0gOjDv]
+[f68ipmVWy5Aj#0] ^jag<prn><pers><p1><ut><sg><nom>/ich<prn><pers><p1><ut><sg><nom>$ ^se<vblex><pres><actv>/sehen<vblex><pres><actv>$ ^hus<n><nt><sg><def>/Haus<n><nt><sg><def>/Gehäuse<n><nt><sg><def>$
+[/f68ipmVWy5Aj]
+[gvEYdcE9_-Vr#0] ^banan<n><ut><sg><def>/Banane<n><f><sg><def>$
+[/gvEYdcE9_-Vr]
+[i4cla0uFssqj#0] ^ni<prn><pers><p2><un><pl><acc>/ihr<prn><pers><p2><un><pl><acc>$\/^*ert/*ert$
+[/i4cla0uFssqj]
+[i7Elhs2vVhNx#0] ^en<det><ind><nt><sg>/ein<det><ind><nt><sg>/der<det><ind><nt><sg>$ ^hus<n><nt><sg><ind>/Haus<n><nt><sg><ind>/Gehäuse<n><nt><sg><ind>$
+[/i7Elhs2vVhNx]
+[iVeeAI-hwML3#0] ^*hendes/*hendes$
+[/iVeeAI-hwML3]
+[jo_ukyUwdcGj#0] ^jag<prn><pers><p1><ut><sg><nom>/ich<prn><pers><p1><ut><sg><nom>$  ^*spisar/*spisar$
+[/jo_ukyUwdcGj]
+[lmAlt4L2Ap4i#0] ^hus<n><nt><sg><def><gen>/Haus<n><nt><sg><def><gen>/Gehäuse<n><nt><sg><def><gen>$ ^dörr<n><ut><sg><ind>/Tür<n><f><sg><ind>$
+[/lmAlt4L2Ap4i]
+[mL-uOWg-NZvB#0] ^Den<det><dem><nt><sg>/Der<det><dem><nt><sg>$ ^*är/*är$ ^stol<n><ut><sg><def>/Stuhl<n><m><sg><def>$.
+[/mL-uOWg-NZvB]
+[mfp-rhWMfOGu#0] ^jag<prn><pers><p1><ut><sg><nom>/ich<prn><pers><p1><ut><sg><nom>$ ^var<n><nt><sg><ind>/Eiter<n><m><sg><ind>$
+[/mfp-rhWMfOGu]
+[nLbMv29fWXRS#0] ^du<prn><pers><p2><ut><sg><nom>/du<prn><pers><p2><ut><sg><nom>$  ^*spisar/*spisar$
+[/nLbMv29fWXRS]
+[rODwTTKicGAa#0] ^hane<n><ut><sg><ind><cmp><compound-only-L>/Männchen<n><nt><sg><ind><cmp><compound-only-L>$ ^var<adv>/wo<adv>/jede<adv>$
+[/rODwTTKicGAa]
+[rotwLEXfWZ4R#0] ^*Jeg/*Jeg$ ^*har/*har$ ^en<det><ind><ut><sg>/ein<det><ind><ut><sg>/der<det><ind><ut><sg>$ ^hund<n><ut><sg><ind>/Hund<n><m><sg><ind>$.
+[/rotwLEXfWZ4R]
+[tMIyU9Y9WOyI#0] ^Jag<prn><pers><p1><ut><sg><nom>/Ich<prn><pers><p1><ut><sg><nom>$ ^skal<n><nt><sg><ind>/Schale<n><f><sg><ind>$ ^flyga<vblex><inf><actv>/fliegen<vblex><inf><actv>/abfliegen<vblex><inf><actv>$ ^till<pr>/bis<pr>/zu<pr>$ ^Danmark<np><top>/Dänemark<np><nt><top>$.
+[/tMIyU9Y9WOyI]
+[uAtoFWuzyZNj#0] ^äpple<n><nt><sg><def>/Apfel<n><m><sg><def>$
+[/uAtoFWuzyZNj]
+[ugWpDv26Mhnd#0] ^*Idag/*Idag$ ^gå<vblex><pres><actv>/gehen<vblex><pres><actv>$ ^*min/*min$ ^mamma<n><ut><sg><ind>/Mama<n><f><sg><ind>/Mami<n><f><sg><ind>/Mutti<n><f><sg><ind>$ ^till<pr>/bis<pr>/zu<pr>$ ^skola<n><ut><sg><def>/Schule<n><f><sg><def>$.
+[/ugWpDv26Mhnd]
+[v6dNJU0XcCN7#0] ^den<det><dem><nt><sg>/der<det><dem><nt><sg>$ ^*røde/*røde$ ^hus<n><nt><sg><ind>/Haus<n><nt><sg><ind>/Gehäuse<n><nt><sg><ind>$
+[/v6dNJU0XcCN7]
+[wVXpZYpBhbzh#0] ^du<prn><pers><p2><ut><sg><nom>/du<prn><pers><p2><ut><sg><nom>$  ^var<n><nt><sg><ind>/Eiter<n><m><sg><ind>$
+[/wVXpZYpBhbzh]
+[wi3YnUK8D6PM#0] ^jag<prn><pers><p1><ut><sg><nom>/ich<prn><pers><p1><ut><sg><nom>$ ^se<vblex><pres><actv>/sehen<vblex><pres><actv>$ ^stol<n><ut><sg><def>/Stuhl<n><m><sg><def>$
+[/wi3YnUK8D6PM]

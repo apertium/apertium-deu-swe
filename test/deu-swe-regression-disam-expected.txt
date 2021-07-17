@@ -1,0 +1,50 @@
+[-PJiJf0dehxo#0] ^wo/wo<adv><itg>$
+[/-PJiJf0dehxo]
+[0juuiSJAB9cL#0] ^ein/ein<det><ind><nt><sg><nom>/ein<det><ind><nt><sg><acc>$  ^Haus/Haus<n><nt><sg><nom>/Haus<n><nt><sg><acc>$
+[/0juuiSJAB9cL]
+[2unjHgFMgQ1_#0] ^Er/Er<prn><pers><p3><m><sg><nom>$ ^hat/haben<vbhaver><pri><p3><sg>$ ^es/es<prn><pers><p3><nt><sg><nom>/es<prn><pers><p3><nt><sg><acc>$ ^uns/wir<prn><pers><p1><mf><pl><dat>/wir<prn><pers><p1><mf><pl><acc>$ ^erzählt/erzählen<vblex><pp>/erzählen<vblex><pri><p3><sg>$.
+[/2unjHgFMgQ1_]
+[A9JTpQHq1Xds#0] ^Er/Er<prn><pers><p3><m><sg><nom>$ ^hat/haben<vbhaver><pri><p3><sg>$ ^es/es<prn><pers><p3><nt><sg><nom>/es<prn><pers><p3><nt><sg><acc>$ ^mir/ich<prn><pers><p1><mf><sg><dat>$ ^erzählt/erzählen<vblex><pp>/erzählen<vblex><pri><p3><sg>$.
+[/A9JTpQHq1Xds]
+[AfQD9yk1c6C1#0] ^Er/Er<prn><pers><p3><m><sg><nom>$ ^hat/haben<vbhaver><pri><p3><sg>$ ^es/es<prn><pers><p3><nt><sg><nom>/es<prn><pers><p3><nt><sg><acc>$ ^dir/du<prn><pers><p2><mf><sg><dat>$ ^erzählt/erzählen<vblex><pp>/erzählen<vblex><pri><p2><pl>/erzählen<vblex><pri><p3><sg>$.
+[/AfQD9yk1c6C1]
+[CHRQz3r0Wafa#0] ^Er/Er<prn><pers><p3><m><sg><nom>$ ^hat/haben<vbhaver><pri><p3><sg>$ ^es/es<prn><pers><p3><nt><sg><nom>/es<prn><pers><p3><nt><sg><acc>$ ^sich/sich<prn><ref><p3><mf><sp><nom>$ ^erzählt/erzählen<vblex><pp>/erzählen<vblex><pri><p3><sg>$.
+[/CHRQz3r0Wafa]
+[DLMA6ndZ3Sdx#0] ^ich/ich<prn><pers><p1><mf><sg><nom>$ ^esse/essen<vblex><pri><p1><sg>$
+[/DLMA6ndZ3Sdx]
+[FAUZkS8F2f8L#0] ^Häuser/Haus<n><nt><pl><nom>/Haus<n><nt><pl><gen>/Haus<n><nt><pl><acc>$
+[/FAUZkS8F2f8L]
+[HQb4xHueUYha#0] ^ein/ein<det><ind><nt><sg><nom>/ein<det><ind><nt><sg><acc>$ ^Mädchen/Mädchen<n><nt><sg><nom>/Mädchen<n><nt><sg><acc>$
+[/HQb4xHueUYha]
+[KEs72VW7jmT8#0] ^der/der<det><def><m><sg><nom>$ ^Junge/Junge<n><m><sg><nom>$
+[/KEs72VW7jmT8]
+[QkyO2o46Fqes#0] ^auf/auf<pr><dat>/auf<pr><acc>$
+[/QkyO2o46Fqes]
+[T478dpsQKMGp#0] ^Das/Der<det><def><nt><sg><nom>/Der<det><def><nt><sg><acc>$ ^große/groß<adj><sint><nt><sg><nom><sw>/groß<adj><sint><nt><sg><acc><sw>$ ^Kind/Kind<n><nt><sg><nom>/Kind<n><nt><sg><acc>$
+[/T478dpsQKMGp]
+[U7sQikzWsSWy#0] ^Junge/Junge<n><m><sg><nom>/Jung<adj><sint><m><sg><nom><sw>/Jung<adj><sint><m><pl><nom><st>/Jung<adj><sint><m><pl><acc><st>/Jung<adj><sint><f><sg><nom><st>/Jung<adj><sint><f><sg><nom><sw>/Jung<adj><sint><f><sg><nom><mix>/Jung<adj><sint><f><sg><acc><st>/Jung<adj><sint><f><sg><acc><sw>/Jung<adj><sint><f><sg><acc><mix>/Jung<adj><sint><f><pl><nom><st>/Jung<adj><sint><f><pl><acc><st>/Jung<adj><sint><nt><sg><nom><sw>/Jung<adj><sint><nt><sg><acc><sw>$
+[/U7sQikzWsSWy]
+[UJdq1Y9doCt7#0] ^Haus/Haus<n><nt><sg><nom>/Haus<n><nt><sg><dat>/Haus<n><nt><sg><acc>$
+[/UJdq1Y9doCt7]
+[WClnU00PkJ0Z#0] ^in/in<pr><dat>/in<pr><acc>$
+[/WClnU00PkJ0Z]
+[XQ-Fb_Om9UF4#0] ^wohin/wohin<adv>$
+[/XQ-Fb_Om9UF4]
+[b0vQM-aQnakI#0] ^zünde/zünden<vblex><prs><p3><sg>$
+[/b0vQM-aQnakI]
+[dn28WXode3pR#0] ^die/der<det><def><mfn><pl><nom>/der<det><def><mfn><pl><acc>$ ^Häuser/Haus<n><nt><pl><nom>/Haus<n><nt><pl><acc>$
+[/dn28WXode3pR]
+[hMktir8ya9tS#0] ^ich/ich<prn><pers><p1><mf><sg><nom>$
+[/hMktir8ya9tS]
+[msF1zrEej5f3#0] ^Ein/Ein<det><ind><nt><sg><nom>/Ein<det><ind><nt><sg><acc>$ ^großes/groß<adj><sint><nt><sg><nom><st>/groß<adj><sint><nt><sg><nom><mix>/groß<adj><sint><nt><sg><acc><st>/groß<adj><sint><nt><sg><acc><mix>$ ^Kind/Kind<n><nt><sg><nom>/Kind<n><nt><sg><acc>$
+[/msF1zrEej5f3]
+[p4pHWV4ojUKl#0] ^großes/groß<adj><sint><nt><sg><nom><st>/groß<adj><sint><nt><sg><nom><mix>/groß<adj><sint><nt><sg><acc><st>/groß<adj><sint><nt><sg><acc><mix>$ ^Kind/Kind<n><nt><sg><nom>/Kind<n><nt><sg><acc>$
+[/p4pHWV4ojUKl]
+[sBMPMByFvNlJ#0] ^Er/Er<prn><pers><p3><m><sg><nom>$ ^hat/haben<vbhaver><pri><p3><sg>$ ^es/es<prn><pers><p3><nt><sg><nom>/es<prn><pers><p3><nt><sg><acc>$ ^ihnen/sie<prn><pers><p3><mf><pl><dat>$ ^erzählt/erzählen<vblex><pp>/erzählen<vblex><pri><p3><sg>$.
+[/sBMPMByFvNlJ]
+[v2OHuNcXM6kV#0] ^isst/essen<vblex><pri><p3><sg>$
+[/v2OHuNcXM6kV]
+[xMwzzpHe6dGy#0] ^Ein/Ein<det><ind><nt><sg><nom>/Ein<det><ind><nt><sg><acc>$ ^Kind/Kind<n><nt><sg><nom>/Kind<n><nt><sg><acc>$ ^ist/sein<vbser><pri><p3><sg>$ ^groß/groß<adj><sint>/groß<adj><sint><attr>/groß<adj><sint><pred>$
+[/xMwzzpHe6dGy]
+[ytkhlGlgqOY-#0] ^das/der<det><def><nt><sg><nom>/der<det><def><nt><sg><acc>$ ^Kind/Kind<n><nt><sg><nom>/Kind<n><nt><sg><acc>$ ^ist/sein<vbser><pri><p3><sg>$ ^groß/groß<adj><sint>/groß<adj><sint><attr>/groß<adj><sint><pred>$
+[/ytkhlGlgqOY-]

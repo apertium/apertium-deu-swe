@@ -1,0 +1,20 @@
+[AC5bDP-pUacV#0] ^Han/Han<prn><pers><p3><m><sg><nom>/Hane<n><ut><sg><ind><cmp><compound-only-L>$ ^berättade/berätta<vblex><past><actv>$ ^oss/vi<prn><pers><p1><un><pl><acc>$ ^det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$.
+[/AC5bDP-pUacV]
+[D3GwAcD8V-ys#0] ^Han/Han<prn><pers><p3><m><sg><nom>/Hane<n><ut><sg><ind><cmp><compound-only-L>$ ^berättade/berätta<vblex><past><actv>$ ^dig/du<prn><pers><p2><ut><sg><acc>$ ^det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$.
+[/D3GwAcD8V-ys]
+[Ecwu7SRoCqQ_#0] ^Han/Han<prn><pers><p3><m><sg><nom>/Hane<n><ut><sg><ind><cmp><compound-only-L>$ ^berättade/berätta<vblex><past><actv>$ ^sig/sig<prn><ref><p3><un><sp><acc>$ ^det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$.
+[/Ecwu7SRoCqQ_]
+[JLNazH4GHZrQ#0] ^Han/Han<prn><pers><p3><m><sg><nom>/Hane<n><ut><sg><ind><cmp><compound-only-L>$ ^berättade/berätta<vblex><past><actv>$ ^mig/jag<prn><pers><p1><ut><sg><acc>$ ^det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$.
+[/JLNazH4GHZrQ]
+[anK2JitwJrW4#0] ^Ett/En<det><qnt><nt><sg>/En<det><ind><nt><sg>$ ^barn/barn<n><nt><sg><ind>/barn<n><nt><sg><ind><compound-R>/barn<n><nt><sg><ind><cmp><compound-only-L>$ ^är/*är$ ^stort/stor<adj><sint><pst><nt><sg><ind>$
+[/anK2JitwJrW4]
+[fDEJPgeiDYJA#0] ^Ett/En<det><qnt><nt><sg>/En<det><ind><nt><sg>$ ^stort/stor<adj><sint><pst><nt><sg><ind>$ ^barn/barn<n><nt><sg><ind>/barn<n><nt><sg><ind><compound-R>/barn<n><nt><sg><ind><cmp><compound-only-L>$
+[/fDEJPgeiDYJA]
+[mAeHkW3sxeWF#0] ^Stora/Stor<adj><sint><pst><un><pl><ind>$ ^barn/barn<n><nt><pl><ind>/barn<n><nt><pl><ind><compound-R>$
+[/mAeHkW3sxeWF]
+[q5W2fEtbEP0M#0] ^Barnet/Barn<n><nt><sg><def>/Barn<n><nt><sg><def><compound-R>$ ^är/*är$ ^stort/stor<adj><sint><pst><nt><sg><ind>$
+[/q5W2fEtbEP0M]
+[qnPr-Gw93PJ_#0] ^Det/Den<det><dem><nt><sg>/Den<det><dem><nt><sg><expl>/Den<prn><pers><p3><nt><sg><nom>/Den<prn><pers><p3><nt><sg><acc>$ ^stora/stor<adj><sint><pst><fn><sg><def>$ ^barnet/barn<n><nt><sg><def>/barn<n><nt><sg><def><compound-R>$
+[/qnPr-Gw93PJ_]
+[uHyZbV6LMIUY#0] ^Han/Han<prn><pers><p3><m><sg><nom>/Hane<n><ut><sg><ind><cmp><compound-only-L>$ ^berättade/berätta<vblex><past><actv>$ ^dem/de<prn><pers><p3><un><pl><acc>$ ^det/den<det><dem><nt><sg>/den<det><dem><nt><sg><expl>/den<prn><pers><p3><nt><sg><nom>/den<prn><pers><p3><nt><sg><acc>$.
+[/uHyZbV6LMIUY]

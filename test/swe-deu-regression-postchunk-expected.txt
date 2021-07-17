@@ -1,0 +1,20 @@
+[AC5bDP-pUacV#0] ^Männchen<n><nt><sg>$ ^erzählen<vblex><past><p3><sg>$ ^wir<prn><pers><p1><un><pl><acc>$ ^Der<det><dem><nt><sg>$.
+[/AC5bDP-pUacV]
+[D3GwAcD8V-ys#0] ^Männchen<n><nt><sg>$ ^erzählen<vblex><past><p3><sg>$ ^du<prn><pers><p2><ut><sg><acc>$ ^Der<det><dem><nt><sg>$.
+[/D3GwAcD8V-ys]
+[Ecwu7SRoCqQ_#0] ^Männchen<n><nt><sg>$ ^erzählen<vblex><past><p3><sg>$ ^sich<prn><ref><p3><un><sp><acc>$ ^Der<det><dem><nt><sg>$.
+[/Ecwu7SRoCqQ_]
+[JLNazH4GHZrQ#0] ^Männchen<n><nt><sg>$ ^erzählen<vblex><past><p3><sg>$ ^ich<prn><pers><p1><ut><sg><acc>$ ^Der<det><dem><nt><sg>$.
+[/JLNazH4GHZrQ]
+[anK2JitwJrW4#0] ^Ein<det><nt><sg>$ ^Kind<n><nt><sg>$ ^*är$ ^Groß<adj><sint>$
+[/anK2JitwJrW4]
+[fDEJPgeiDYJA#0] ^Ein<det><ind><nt><sg>$ ^groß<adj><sint>$ ^Kind<n><nt><sg>$
+[/fDEJPgeiDYJA]
+[mAeHkW3sxeWF#0] ^Groß<adj><sint>$ ^Kind<n><nt><pl>$
+[/mAeHkW3sxeWF]
+[q5W2fEtbEP0M#0] ^Kind<n><nt><sg>$ ^*är$ ^groß<adj><sint>$
+[/q5W2fEtbEP0M]
+[qnPr-Gw93PJ_#0] ^Der<det><dem><nt><sg>$ ^groß<adj><sint>$ ^Kind<n><nt><sg>$
+[/qnPr-Gw93PJ_]
+[uHyZbV6LMIUY#0] ^Männchen<n><nt><sg>$ ^erzählen<vblex><past><p3><sg>$ ^sie<prn><pers><p3><un><pl><acc>$ ^Der<det><dem><nt><sg>$.
+[/uHyZbV6LMIUY]
